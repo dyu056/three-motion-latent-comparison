@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__050",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__050",
+  "prompt": "A first-person view of a clear glass of water on a table with potassium permanganate crystals being added. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the crystals have sunk and dissolved, turning the water a deep, vivid purple color.",
+  "image_content_sha256": "70f2ce3d12d82701c7b2640e068a54859dae7eb855862bf82ae2932f1f503489",
+  "prompt_sha256": "a5afb15bbde1e2825ce1a2f223fc35a78521df1a4552dd68b928071263239213",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

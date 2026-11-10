@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_001",
+  "prompt": "First person view as a person on a Nordic street is moving straight ahead and sees another person(subject) crossing the road from the right to the left. Observer passes the subject (exits FOV) and follows a curved path and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV and keeps walking towards right with continuous motion.",
+  "image_content_sha256": "5449946f845b0c7432112d91254de5e7b3e13cd0a2e9d7a47b013cbe20387f4a",
+  "prompt_sha256": "20c7d9a2f8a45e174398756d549bf2cc54bac1ae7296b3e83821a8553898dbf7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

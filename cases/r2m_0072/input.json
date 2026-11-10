@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0072",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0072",
+  "prompt": "A dream desert with a full-size grand piano, one streetlamp, a rectangular pool of water, distant staircase to nowhere, open surreal composition, strong revisit points",
+  "image_content_sha256": "bcbc619d5cd919d85982150d23c87550c213d722e0e909036a0877ec70d5dd83",
+  "prompt_sha256": "f2f08c5c930a9da57ef3ab0657dff61eff592c47c63bb6a2062e7eaa764027ed",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

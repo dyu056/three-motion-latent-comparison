@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-103",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-103",
+  "prompt": "The scene presents a dimly lit, stone-walled interior with a floor paved in large, rectangular blocks. A prominent arched alcove on the right wall contains wooden shelves displaying various ceramic pots, jars, and a skull, all illuminated by a warm, internal light source. Two dark ceramic vessels rest on the floor before the alcove, while a distant wall sconce emits a similar warm glow, contrasting with the cool blue ambient light that pervades the space.",
+  "image_content_sha256": "8a5ac64bcda3e2dbcf081d208ec76dc0ff09febd1b79ef24f28591e489dac2da",
+  "prompt_sha256": "23a8d7f54c70c9d9a174843e185ac06ed9f73146d561001f9738f07d2dac6b12",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

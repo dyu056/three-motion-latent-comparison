@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-241",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-241",
+  "prompt": "Majestic snow-capped mountains rise under a bright sky, overlooking a serene turquoise lake bordered by dense coniferous forests. A figure wearing a dark jacket and backpack stands on a moss-covered rocky outcrop in the foreground, gazing towards the expansive vista. The entire landscape is illuminated by brilliant natural sunlight, with a prominent sun disk casting a warm, clear glow.",
+  "image_content_sha256": "6404b95a1015956346fa3322090501be829ecb67184ccd06abe5f1432f9d96fb",
+  "prompt_sha256": "f29c3f2325ee05eeb5eb18649ab6a6555c908ad5337d781ba2f9a83ab93d771d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

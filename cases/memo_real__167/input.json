@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__167",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__167",
+  "prompt": "A first-person view of a glass cup with a small amount of raw egg liquid, with boiling water being poured in. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the egg liquid has coagulated into light yellow egg flower wisps floating in the hot water.",
+  "image_content_sha256": "cc3b16c942f11bee0326a492c9ad777a98c98acfea390d9b20394f8febf4528c",
+  "prompt_sha256": "1cdabd87c4590f9bec2a08963bf20eb44542e9e23d51919856a6650013cbbbff",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

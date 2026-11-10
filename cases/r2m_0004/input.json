@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0004",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0004",
+  "prompt": "A broad pedestrian street after rain, reflective pavement, a green tram stop sign, one street clock, sparse trees in square planters, open sightlines, realistic city atmosphere, distinct landmarks, minimal clutter, suitable for memory revisit",
+  "image_content_sha256": "dbae34c9b6b57c1abb9a2d81620f89e05d6227d580f2f8518f4d7ec0b1b08929",
+  "prompt_sha256": "bc5c6d244b0e118b961856c2a3a4ccbed63b33aac997098cba9eebdb85bf6d45",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

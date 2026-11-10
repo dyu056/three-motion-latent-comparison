@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__076",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__076",
+  "prompt": "A first-person view of a tray filled with cat litter with brown water being poured over the surface. The camera smoothly pans to the right, causing the tray to gradually exit the field of view. The camera then pans back to the left, and the tray re-enters the frame, revealing that the surface of the cat litter has collapsed and sunken where the water was absorbed.",
+  "image_content_sha256": "c7158f5381334f032132f9038d1917a2e9edd9921556a01fc6cfd7cc6d8a3372",
+  "prompt_sha256": "a061d03636f5b21922bf32b5de72ddbf59c657f9627a22b8c7b13808e6752e34",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

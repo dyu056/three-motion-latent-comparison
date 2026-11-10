@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-239",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-239",
+  "prompt": "The scene unfolds within a stark, snow-covered mountainous environment, where dark, rugged rock faces are dramatically adorned with massive, luminous blue ice formations. A figure, encased in a sleek dark grey and gold armored suit with vibrant orange footwear, is captured mid-stride on a slick, snow-dusted road. Bright, diffused lighting permeates the landscape, creating a crisp, cold atmosphere that accentuates the icy textures and the suit's metallic finish.",
+  "image_content_sha256": "50785367bc9a112fec2b785a1e3301e2b45003996e2745a374888a723c514786",
+  "prompt_sha256": "ba051526e88af700b6db7e8747a3e97a39b4b159d0661cb8f1c1bf30ecf0d139",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

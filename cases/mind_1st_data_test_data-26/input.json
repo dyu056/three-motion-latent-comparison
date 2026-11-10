@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-26",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-26",
+  "prompt": "An opulent, ancient architectural setting features a grand, dark staircase with intricate gold patterns and elaborate dragon-carved balustrades. The stairs ascend to a majestic throne, positioned within an ornate alcove adorned with golden mythical beasts and a central sunburst motif. Dramatic lighting illuminates the rich golden details against the massive, dark, textured walls, which are intricately carved with swirling, organic forms.",
+  "image_content_sha256": "712e4cf4fed8ef50ea1fb09f78eb7a49e29181a13a6f5bcb0b1d877d6755dc1c",
+  "prompt_sha256": "e1cce5a900dc47d92bdb36957aa300277df3f8619b08e815d46b742fc0b1e1aa",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

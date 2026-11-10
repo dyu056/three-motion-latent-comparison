@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__237",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__237",
+  "prompt": "A first-person view of a glass into which green sparkling water has just been poured, generating abundant bubbles. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the bubbles have rapidly dissipated and the sparkling water now sits still and flat.",
+  "image_content_sha256": "b3fe70de1dcbe97e0fb5ea759915c2abc21670fcc3baafd9715085d588414b01",
+  "prompt_sha256": "2af55c10f103d9c1c2589e87e774adff41943a80d3ffef90be3c1ee309478de2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

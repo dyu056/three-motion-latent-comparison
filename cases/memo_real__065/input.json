@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__065",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__065",
+  "prompt": "A first-person view of a test tube filled with Sprite with salt being added. The camera smoothly pans to the right, causing the test tube to gradually exit the field of view. The camera then pans back to the left, and the test tube re-enters the frame, revealing that the Sprite is now overflowing with a large eruption of dense foam from the salt reaction.",
+  "image_content_sha256": "0dd95774a5470def552577aba6938a1e1452908c69b00639ba01b9bfaf628d42",
+  "prompt_sha256": "e4e4d5c17016fecd7aaafc049c090d18398eb7d0abf3f1d984898cadf4054db3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

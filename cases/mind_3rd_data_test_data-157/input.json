@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-157",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-157",
+  "prompt": "The interior features a low, sloped ceiling and walls constructed from horizontal, rough-hewn logs, supported by vertical timber beams, above an uneven dirt floor. A male figure, dressed in dark clothing and a backpack, stands with his back to the viewer, while a dark, wheeled industrial object is partially visible on the right. Warm, directional light casts soft shadows, highlighting the rustic textures and creating a confined, earthy atmosphere.",
+  "image_content_sha256": "7fa3010f9bec85f6fcacbb90a1882e47641eafe409a593548e31ad5fdfe154e8",
+  "prompt_sha256": "eddebacdb62fbb05e72700f6ac677c4da69c95f1ac70716e2e5a91c6f0b5d7cb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

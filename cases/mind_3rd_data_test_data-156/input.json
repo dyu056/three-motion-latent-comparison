@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-156",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-156",
+  "prompt": "A brightly lit, stylized village square is bathed in clear daylight, casting distinct shadows across its cobblestone-like path. Timber-framed buildings with light blue tiled roofs and light stone walls line the thoroughfare, featuring a prominent wooden signpost with directional arrows. A lone figure wearing a dark backpack walks away from the viewer, framed by rustic wooden fence posts in the immediate foreground.",
+  "image_content_sha256": "6f3c1fa087fdb2b2fde739e0eeed7646496f9d30855c79d6159d853616c1ea86",
+  "prompt_sha256": "de270ae9a1b5ebc1ef6ae2ddea04d1fa9b0471b5f1f71ed3dda6ad81bd554a24",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

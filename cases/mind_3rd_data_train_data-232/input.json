@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-232",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-232",
+  "prompt": "A futuristic armored figure, predominantly black and gold with glowing orange elements, runs on a wide asphalt road marked with double yellow lines. This road forms part of a concrete bridge, featuring ornate railings, pillars, and streetlights extending into the hazy distance. The scene is illuminated by soft, diffuse light from an overcast sky, creating a muted and even visual tone.",
+  "image_content_sha256": "abf07c0f929063da3f47876979fd7d51f694fd8419182dbc4c0459401323ca66",
+  "prompt_sha256": "d9bd8c49aa441060732ee6b549e10ec5b9f4c2f66c460c24454fb456699f875a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

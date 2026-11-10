@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-78",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-78",
+  "prompt": "The scene presents a vibrant, stylized mountainous landscape, characterized by steep, light-colored peaks that frame a verdant valley. A winding river traverses the valley floor, which is dotted with rolling green hills. Scattered across the terrain are numerous trees and large, smooth boulders, all brightly illuminated by a high sun that casts sharp, elongated shadows.",
+  "image_content_sha256": "e57257d2e6fbb05f3dcf6a9ca16c4b3c539d6b1a804ff3d93719b14a8182101b",
+  "prompt_sha256": "0df9f0e7388604e4ae0c8e8200acdb2392d4a0d22561ffa208c4a2581bdcd4aa",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

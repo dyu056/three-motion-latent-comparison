@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_017",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_017",
+  "prompt": "First person view as a person standing in an old factory sees a person (subject) in the front-left running toward the back-right, while another person in the front-left walks toward the observer's back-left. As the subject continues to run, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV who keeps running towards front-right  and having continued the run, while another person enters the FOV in the front-left walking right with continuous motion.",
+  "image_content_sha256": "5c9ff21212a1f6bd9e73a3ac690cd114b5a99a29604ed5d9423e2ca5c1dd6397",
+  "prompt_sha256": "7cc85e70b86f7aaa4f25a805e1b6bd8eeca23d2add83e88cbb2749523b70e58e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

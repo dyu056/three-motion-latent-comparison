@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-132-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-132-0.6x-150",
+  "prompt": "The scene depicts a brightly lit industrial interior, characterized by polished grey flooring with distinct yellow and orange striped pathways. Large grey structural pillars and dark corrugated walls frame the space, featuring extensive industrial piping, some emitting vapor, alongside prominent safety signage and green waste bins. A lone figure, dressed in a dark jacket and pants with a backpack, stands centrally on the marked pathway.",
+  "image_content_sha256": "160bd2a09cd08ac6629aaa28f7593406f2e9b8b7aaf7d643850e5015b195425e",
+  "prompt_sha256": "5f0da8cdcfd2cbb4b3094e49e57fb1bf6a594c0379d6268a38d6926d4a73c37e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

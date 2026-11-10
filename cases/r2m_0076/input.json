@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0076",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0076",
+  "prompt": "A spacious abandoned theater stage extending into sand dunes, one red curtain fragment, spotlight stand, broken archway, surreal and readable, long sightlines",
+  "image_content_sha256": "7895cda06213052a85fa26dbe5b511e3444f5ee95981c0e8bc282618b732d53a",
+  "prompt_sha256": "89ac4d6d57dcfcd5b05f026eb4adf2450dc68d231f97fb1043728db1f3cd92ef",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

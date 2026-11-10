@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0068",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0068",
+  "prompt": "A monochrome memory palace corridor plaza, one grand clock, numbered doors, isolated bench, high contrast shadows, spacious conceptual environment, revisit-oriented composition",
+  "image_content_sha256": "ea478bfb51dfb47a9f7bc7c811de8542951b9678b0d146fa675b809e46dcfe4c",
+  "prompt_sha256": "b92e972f531a43c80b0bd2f09b4aa6522fe30f220b5f4051c51745edc72933ec",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

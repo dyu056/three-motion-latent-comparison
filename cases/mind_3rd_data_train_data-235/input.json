@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-235",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-235",
+  "prompt": "A lone figure, clad in a dark jacket, grey trousers, and a prominent grey backpack, stands on a vast, undulating expanse of dark reddish-brown terrain. A striking range of reddish-orange mountains with visible ridges dominates the background under a clear, bright blue sky dotted with white clouds. Direct sunlight illuminates the arid environment, casting a long, distinct shadow from the figure onto the textured ground.",
+  "image_content_sha256": "b6751080760f8c22e53fe04c188855cd495c0699b8bbaf45360e4efdfa911f79",
+  "prompt_sha256": "b875d011db944906654294a37cd440c80047e2bbcc8bdf9acd20eafbb87c2ff7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

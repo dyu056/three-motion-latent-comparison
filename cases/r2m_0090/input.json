@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0090",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0090",
+  "prompt": "A soft pastel dream park, one carousel, a swan boat dock, striped kiosk, winding path, open lawns, cute stylized atmosphere, easy-to-recognize anchors",
+  "image_content_sha256": "ade38830c41ccc2c323b8a4ff9073a9f250737cfd4ed55d12e03fb8b5807e16b",
+  "prompt_sha256": "50947b5c300ef66ac398187a7d64a6a4fa8d68fcc0551fa5b0bb73620575b0e0",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

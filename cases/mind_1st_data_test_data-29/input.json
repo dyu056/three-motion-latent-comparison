@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-29",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-29",
+  "prompt": "A long, narrow interior hallway features a vibrant red wall above a wooden wainscoting on the left, contrasting with a dark, worn wooden plank floor. The right side is paneled with dark wood, leading into a deeper, dimly lit space. At the far end, a wooden staircase ascends, revealing a rustic area beneath its landing furnished with a table, chairs, and a decorative wagon wheel, all illuminated by a subdued, atmospheric light.",
+  "image_content_sha256": "ad8677fca05a809f3f9684ba732eaf716c4c2d5552b44de21016840b64c8a6bf",
+  "prompt_sha256": "4ca924068819e4196177cf3eb5a5ba2f1f86a9fac09f49c1e404aee71ba321e6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

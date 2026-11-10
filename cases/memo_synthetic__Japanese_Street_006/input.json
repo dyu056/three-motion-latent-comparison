@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_006",
+  "prompt": "First person view as a person standing on a Japanese street sees a nearby person(subject) walking from right to left, while a distant person in the front-left runs toward the back-left. As the observer turns the head to the left, the subject exits the FOV. Observer turns the head back towards right and re-sees the subject in its FOV who keeps walking and having continued the crossing with continuous motion.",
+  "image_content_sha256": "d371a41f976443a16d5bb8eb75e1f287c23465eecbdc80226658308416282ee4",
+  "prompt_sha256": "dfef6c917324ffc26b79bbe175c2abc013c41d42772aeebe0d00ed38ae21698b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

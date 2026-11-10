@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__273",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__273",
+  "prompt": "A first-person view of a measuring cup of purple cabbage juice on a table with white vinegar being poured in. The camera smoothly pans to the left, causing the measuring cup to gradually exit the field of view. The camera then pans back to the right, and the measuring cup re-enters the frame, revealing that the vinegar has reacted with the cabbage juice, turning the liquid from purple to a vivid pink or red color.",
+  "image_content_sha256": "c9a611700adc76734e994696e6672017219c4baf39fe731e5aefb82621fd59a5",
+  "prompt_sha256": "e9bcd51854b21f1892004631dbe17d81240768a3ef65522ed01dc7db1e8b8439",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-13-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-13-1.4x-250",
+  "prompt": "The scene depicts a vast, industrial-chic interior space featuring a reflective, light blue floor and dark, textured concrete walls and ceiling. Large glass partitions reveal lush green plant installations, while abstract art panels, glowing circular motifs, and metallic rings adorn the walls, complemented by a hopscotch grid and thick, multi-colored cables on the floor. The atmosphere is dramatically lit by a combination of overhead industrial fixtures and vibrant, artificial light sources casting dynamic washes of blue, purple, yellow, and red across the various surfaces.",
+  "image_content_sha256": "f0ebe6513d19a095b117430487bbce78081ab07537701608a370d8ec77580fcf",
+  "prompt_sha256": "e26ee9d59d32a05c192c955656b7edc97d09862682fca83e301bb1ca551f25f2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

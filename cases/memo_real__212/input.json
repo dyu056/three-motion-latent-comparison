@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__212",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__212",
+  "prompt": "A first-person view of a ketchup packet on a table being squeezed with tongs. The camera smoothly tilts upward, causing the ketchup packet to gradually exit the field of view. The camera then tilts back down, and the ketchup packet re-enters the frame, revealing that significantly more ketchup has been squeezed out of the packet.",
+  "image_content_sha256": "c4b392aa2ac4c47c55d702e0bb360ccfd89d04c37d07bf1a19cca1a6ee8d19b0",
+  "prompt_sha256": "7ab279091f181c6dc5cc495688a6dc9f70c034eec1da98841773a1bd073bcefb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

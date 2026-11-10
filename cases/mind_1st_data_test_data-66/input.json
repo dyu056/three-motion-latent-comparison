@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-66",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-66",
+  "prompt": "The scene presents a dimly lit, metallic corridor within a futuristic facility, characterized by a long, reflective floor and industrial ceiling conduits. A prominent sealed door, often illuminated from below, terminates the perspective, flanked by raised platforms featuring red accent lighting. Overhead white lights provide stark illumination, contrasting with the warm orange glow emanating from large circular grates and other fixtures along the dark, textured side walls, creating a moody, atmospheric haze.",
+  "image_content_sha256": "eab3e149acafb1ca5aa89fd60380d50c1cab5fe97ef4d589cc126e122a0ba356",
+  "prompt_sha256": "ec78ad27f08f2c166d3d1965c6288a5a9206685a6706dfacf481a60a4357335c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

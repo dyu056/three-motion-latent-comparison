@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-112",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-112",
+  "prompt": "An arched stone dungeon or crypt features rough-hewn brick walls and a flagstone floor, extending into a dimly lit passage. Rusty iron cages, a skeletal figure on a stone slab, and a large ornate metal chandelier are prominent, alongside smaller suspended cages and wooden structures. The pervasive, flickering candlelight and hanging lanterns cast long shadows, creating an eerie and mysterious atmosphere.",
+  "image_content_sha256": "c3421362ea316c2cf855f1009e01e7d00e6efd219e371a29518faae7da4d8dbd",
+  "prompt_sha256": "9012e284f9a9f9fb0887ebf31529a1f88ec36e64ef3b8e3cf4e79cb3d24107b4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

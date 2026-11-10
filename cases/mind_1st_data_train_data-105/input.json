@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-105",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-105",
+  "prompt": "The scene portrays an ancient market stall, sheltered by a large, orange-brown canvas awning supported by wooden poles, set against a backdrop of weathered brick walls and a stone-tiled ground. A central wooden display table is laden with an assortment of colorful spices, fresh vegetables, and dried goods, complemented by numerous stacked sacks of provisions and ornate rugs scattered across the floor. Warm, localized artificial lighting emanates from beneath the awning, casting soft shadows and creating an intimate, nocturnal bazaar ambiance.",
+  "image_content_sha256": "fc5399f23daac9529cd531836b2f716fd5234cebb218cfc4aea1aa17f04aa2f4",
+  "prompt_sha256": "91e5ce08d9bd0367056eeb044eda5579eea7621642c3dbb792ee2d31211586cb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

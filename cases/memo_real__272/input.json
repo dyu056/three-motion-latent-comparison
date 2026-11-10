@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__272",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__272",
+  "prompt": "A first-person view of a pot of hot cooking oil with raw pork pieces being placed inside. The camera smoothly tilts upward, causing the pot to gradually exit the field of view. The camera then tilts back down, and the pot re-enters the frame, revealing that the pork pieces have fully cooked and turned white in the hot oil.",
+  "image_content_sha256": "c5e993692d9ec950fd263a488aa7eb123afe73a77aebc2fe1ca2fdf9febdd9ee",
+  "prompt_sha256": "345028798b491d8c856c4b1336d91328884fda096f679e1c73bba6dc4564789f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

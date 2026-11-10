@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__079",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__079",
+  "prompt": "A first-person view of a glass of brown liquid with a piece of tissue paper placed inside. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the tissue paper has absorbed the brown liquid and become fully saturated and discolored.",
+  "image_content_sha256": "d3a8e70ef441acc2b10c53c1f2ca6b9275c7dc4ec32a0ca9ff60b50093e2dea8",
+  "prompt_sha256": "7b90c0ed84a5996284210fae57412bc95e470fc857fe736d6316c60f41ecc22a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

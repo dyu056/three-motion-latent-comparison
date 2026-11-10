@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0027",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0027",
+  "prompt": "An empty convention center hall, numbered hanging banners, movable partition walls, one registration desk, wide carpeted floor, clear navigation landmarks, spacious composition",
+  "image_content_sha256": "f39c379637be73a6bc67c9d5f48212e8ebaceafd686bd63255675f2b02efae3e",
+  "prompt_sha256": "12e1cc57658700d38e4beae1930737ba171c2d4e47336fbf2c0613001dbd2918",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

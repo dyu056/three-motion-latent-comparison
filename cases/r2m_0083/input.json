@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0083",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0083",
+  "prompt": "A watercolor seaside square, one lighthouse, striped parasol stand, cobblestone path, gentle pastel palette, spacious and charming illustration style, easy orientation",
+  "image_content_sha256": "c0852a1af89efeff14e9313b6921e901aa8db84a0620685bb162a0057b415329",
+  "prompt_sha256": "204a7deb8d6f76af1bee102affa1c154bca7985f9e80eb55a2622ef72946f791",
+  "source_image_size": [
+    1024,
+    1024
+  ]
+}

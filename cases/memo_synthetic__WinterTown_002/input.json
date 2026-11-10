@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_002",
+  "prompt": "First person view as a person on a bridge in Wintertown is moving straight ahead and sees another person(subject) moving from the left to the right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward then re-sees the subject in its FOV who keeps walking towards left and having continued walking with continuous motion.",
+  "image_content_sha256": "5ddd6a2e719c49b78484b1cee524c3f5a85891ab39e643a44d102fcd96ddf856",
+  "prompt_sha256": "d154174e879d47ca86e39f218647193234614fe6297c4d4139385bb7952c2396",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

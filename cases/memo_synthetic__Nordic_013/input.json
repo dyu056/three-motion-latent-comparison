@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_013",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_013",
+  "prompt": "First person view running forward on a Nordic street sees a person (subject) in the front-left walking forward, while another nearby person in the front-left walks toward the front-right. As the observer continues to run and passes the person, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps running backwards and then re-sees the subject in its FOV and having continued walking towards back-right with continuous motion.",
+  "image_content_sha256": "9eeddd3b8c366a6edfe6b42019c13fcd2efefe93494c83b6882c23eb6a17c12a",
+  "prompt_sha256": "821d2a047fe35cd5bfd98e19db64e480a8dc027e0c0a906a327b7b3370445bd8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

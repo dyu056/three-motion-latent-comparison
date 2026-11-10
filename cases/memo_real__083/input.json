@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__083",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__083",
+  "prompt": "A first-person view of a piece of tissue paper on an iron tray being lit on fire. The camera smoothly tilts upward, causing the tray to gradually exit the field of view. The camera then tilts back down, and the tray re-enters the frame, revealing that the tissue paper has burned completely, leaving only a pile of black ash on the iron tray.",
+  "image_content_sha256": "0ddf60665335f27dcc6fef8feeeadeb70d562e6cd90fb8273cc1b517d4623717",
+  "prompt_sha256": "b1edf5aacc47f7694f23b0d3e8117fd591612683a0e3288101c898b7e3547daf",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

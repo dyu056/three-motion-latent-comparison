@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__006",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__006",
+  "prompt": "A first-person view of a clear glass of water on a table with coffee powder being poured in. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the coffee powder has fully dissolved and the water has turned a rich brown color.",
+  "image_content_sha256": "6f2c3530795e5bcb5e1f7888ee83e48158aad29098a8e4c6cc9ea2f536edd858",
+  "prompt_sha256": "d19d12a334e7d09108e105379eaba82451c042077d94897a7d1b9aa85e3bc91e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

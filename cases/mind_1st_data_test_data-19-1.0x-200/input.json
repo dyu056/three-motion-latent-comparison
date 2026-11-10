@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-19-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-19-1.0x-200",
+  "prompt": "The scene depicts a verdant, rocky river valley under a bright, partly cloudy sky, with distant peaks exhibiting a subtle purple cast. A colossal, gnarled tree with intricate exposed roots firmly grips the rocks at the water's edge, while a clear stream flows over a stony bed. Strong daylight illuminates the lush green foliage and reflective water, imbuing the natural landscape with a vibrant, almost ethereal quality.",
+  "image_content_sha256": "ed53af96ae60affbb2e9684affb6b52c16aaffafc2ce354b2c1f6d17e76a4ae8",
+  "prompt_sha256": "bc25a159ddd9acbc34214d5fcc24603a680f3df27ee167f93ae798cd9ef893dc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

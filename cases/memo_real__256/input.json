@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__256",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__256",
+  "prompt": "A first-person view of a magnetic drawing board completely covered in black, with the restore slider being slowly pushed. The camera smoothly pans to the left, causing the drawing board to gradually exit the field of view. The camera then pans back to the right, and the drawing board re-enters the frame, revealing that the black surface has been wiped clean and the drawing board has returned to its original white color.",
+  "image_content_sha256": "5a556748736f569adf23a9d7c709804861efd56e8966c65fcde7b7a7751c6609",
+  "prompt_sha256": "3dedc3ba853486e8e25688bcc8fdc251acbc18d8a9a502c56a59aba1d987d5ac",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

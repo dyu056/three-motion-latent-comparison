@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_012",
+  "prompt": "First person view as a person walking across the street at a corner on an East New York street sees a person (subject) in the front-left running toward the right, while another person further in the front-right walks toward the observer. As the subject continues to run, the subject exits the FOV. Observer completes crossing the street and turns to the right and re-sees the subject in its FOV and having performed a left turn to continue running toward left with continuous motion.",
+  "image_content_sha256": "fb99d8fe9de409513545ec1296656444effd2f5a7554d39785a0a781c5e55d02",
+  "prompt_sha256": "34aa6c03af63118ced0f57c774aea0f050c99937fed57dc22b33cc868ef94ea5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

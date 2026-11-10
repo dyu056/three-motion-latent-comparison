@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-6-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-6-1.2x-225",
+  "prompt": "An expansive, open-air stone courtyard is enclosed by high, grey block walls, paved with large, geometric stone slabs. Numerous tall, fluted stone columns with capitals punctuate the space, alongside scattered wooden shelving units, tables, and barrels. Natural daylight from a partly cloudy sky illuminates the area, casting sharp shadows across the ancient-looking architecture and objects.",
+  "image_content_sha256": "4aca9bff6c8e1ae9768809be525eafe521749a8e8617f9e16a5692c94b13f32b",
+  "prompt_sha256": "08872a9bb9a4424b9945106708b18a3d4e5cbc73f00af1ec495cf46e712ccd13",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

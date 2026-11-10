@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-89",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-89",
+  "prompt": "The virtual news studio features curved wooden paneling, prominent structural columns, and a dark blue, featureless exterior visible through large windows. A central, curved news desk, illuminated with red, white, and blue LED strips and displaying the \"Unreal Engine\" logo, anchors the space, surrounded by multiple large screens also featuring the same branding. Professional studio cameras on wheeled pedestals, tripod-mounted spotlights, potted palm plants, and warm wall sconces populate the set, all brightly illuminated by a combination of cool studio lights and vibrant accent lighting, with a red laser line marking the polished wooden floor.",
+  "image_content_sha256": "39a252802a28d5ff7a2437dc0879003c580ba3a15b127818f4350045c20c9255",
+  "prompt_sha256": "c2c63c7094b616ded111123a016452bb667d6885640a9356e1845ac28927edab",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

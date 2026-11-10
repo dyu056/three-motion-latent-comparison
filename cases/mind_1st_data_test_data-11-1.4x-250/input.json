@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-11-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-11-1.4x-250",
+  "prompt": "A dilapidated industrial environment features concrete walls, exposed metal structures, and a grimy tiled floor, centered around a translucent, humanoid statue on a circular pedestal. The scene is illuminated by stark red neon signs, including \"NO SIGNAL\" and \"DOWNTOWN,\" alongside cool blue and warm white artificial lights. This low-light atmosphere creates a gritty, futuristic aesthetic, with reflections shimmering across scattered debris.",
+  "image_content_sha256": "b4942d2e8208ab54e3147d2c10510b2fde90f9c4360e7d27fe5b632378d4ad7f",
+  "prompt_sha256": "e92695d6d7c7fed9cbd7b1a04cddbf33058c173bae56d95cb2be193b3797bd67",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

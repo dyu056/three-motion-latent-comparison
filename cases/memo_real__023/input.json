@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__023",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__023",
+  "prompt": "A first-person view of a beaker filled with dark brown iodine solution with vitamin C solution being poured in. The camera smoothly tilts upward, causing the beaker to gradually exit the field of view. The camera then tilts back down, and the beaker re-enters the frame, revealing that the brown iodine solution has completely decolorized and turned into a clear, colorless liquid.",
+  "image_content_sha256": "212f1e6d27af8c6413e0e4b1fe0074a8994702bc31468c87326bfbcf8c8fc351",
+  "prompt_sha256": "3274b49a382b797e55cd77ae2decc473f2082477ce372a0111831dfacfbaaa8a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

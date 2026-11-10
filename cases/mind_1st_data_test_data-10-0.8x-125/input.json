@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-10-0.8x-125",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-10-0.8x-125",
+  "prompt": "This video segment depicts a vast, open-air stone courtyard enclosed by high, weathered block walls under a partly cloudy blue sky. The ground is paved with large, rectangular stone slabs, and several tall, fluted stone columns are strategically placed throughout the area, with one wall featuring glowing blue symbols. Various wooden shelves, crates, barrels, and small tables furnish the space, illuminated by bright natural daylight that casts sharp shadows.",
+  "image_content_sha256": "ae37b1b01c38036425880b4c4984e357dcf1c5ba67e42be2938be2d9be1ac32a",
+  "prompt_sha256": "d45abf38b704ec89484eeacf085b887f96b6ce5d1a69772bba11f87c72e803cd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

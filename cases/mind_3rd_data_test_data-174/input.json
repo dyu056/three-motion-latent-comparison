@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-174",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-174",
+  "prompt": "The scene depicts a brightly lit, modern art gallery with pristine white walls and a polished light wooden floor. Three framed photographs, showcasing red lanterns, a landscape, and an abstract composition, adorn the main wall, while a black tufted leather bench and a red fire extinguisher are positioned to the right. Overhead, a grid of rectangular light panels and spotlights provides even illumination, with a dark-clad individual carrying a backpack centrally positioned within the space.",
+  "image_content_sha256": "dd6636eebcbe44df043decf84f37c0ab924931d561665679b9a5dee6bdcf4110",
+  "prompt_sha256": "b1435754bfb24478905ecc659c21fd117e0a44f241871ad870624aad31f73c34",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

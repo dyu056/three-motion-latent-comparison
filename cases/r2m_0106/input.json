@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0106",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0106",
+  "prompt": "A Nordic coastal cabin clearing, realistic landscape photography, wide grassy open area facing the sea, a small black wooden cabin with warm window light, a solitary windswept pine tree, a stone fire pit, a red canoe resting upside down, a narrow path leading to a simple wooden dock, overcast sky, minimal and spacious scene, easy-to-recognize landmarks for revisit shots",
+  "image_content_sha256": "474fefa412a69b4ee0020cf6d7497b75a203841d1e756cd505134ddeb681a203",
+  "prompt_sha256": "10e75eb01c4e96498a6e2088538ee5558ea5f6005a75c03489c03d500b9ce3bb",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

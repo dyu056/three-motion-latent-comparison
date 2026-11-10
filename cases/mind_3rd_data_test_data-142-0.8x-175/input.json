@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-142-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-142-0.8x-175",
+  "prompt": "The scene depicts a sun-drenched urban pedestrian walkway, flanked by multi-story buildings with storefronts and a dense canopy of mature trees. Ornate black lampposts displaying green banners line the brick-patterned path, interspersed with numerous wooden benches. A low sun casts long, sharp shadows across the pavement, creating a warm, late-day ambiance.",
+  "image_content_sha256": "544654e38418b54245341dafb3d8544df615c6f992405d52f222a3fa4767fe66",
+  "prompt_sha256": "7c0eec7b6cb35a5f6220ad7c65e7ef9d83153c9b5ff40fc9043de52c83f682bb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

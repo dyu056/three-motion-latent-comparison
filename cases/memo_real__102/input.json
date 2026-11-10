@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__102",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__102",
+  "prompt": "A first-person view of a beaker of clear water on a table with orange food coloring being dripped in. The camera smoothly tilts upward, causing the beaker to gradually exit the field of view. The camera then tilts back down, and the beaker re-enters the frame, revealing that the orange dye has dissolved and spread throughout the water, turning it a vivid orange color.",
+  "image_content_sha256": "63c80e2bfea55057d5c935a684565854f1bf7dedaa68c71b61bc8071935d2529",
+  "prompt_sha256": "4e42989eb7aee406bec25152214f83f167103990e7b323536b8ceb0aea5b91ec",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

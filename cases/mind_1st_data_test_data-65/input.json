@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-65",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-65",
+  "prompt": "The scene depicts an otherworldly, constructed environment set against an absolute black void. Intricate architectural elements, including platforms, pillars, and archways, are fashioned from a combination of glowing, translucent cyan material and textured, metallic bronze. These structures are internally illuminated by the cyan elements and warm light emanating from the bronze, creating a high-contrast, ethereal atmosphere.",
+  "image_content_sha256": "06f5dd70640698a8a211da42c6ae7b12dc39ab5e054b97dd344f42a84441e163",
+  "prompt_sha256": "2f48a38511637420633bdbaf1826f73462f2083da7fd675b80bbae1704fb8160",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

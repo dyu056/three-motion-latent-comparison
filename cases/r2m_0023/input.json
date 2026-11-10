@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0023",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0023",
+  "prompt": "A minimalist hotel lobby, circular chandelier, reception desk at the far end, one red sofa, tall potted palm, marble floor, strong landmarks, photorealistic, minimal clutter",
+  "image_content_sha256": "26da0a02de9b74affa5205a2e9a3212dda85f25ceb2a4cbd3694b611f0ab2006",
+  "prompt_sha256": "820c6f7be2cff523d94df7c75a794a74c98a1071778cadad2b82f6d9ec3193dd",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0036",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0036",
+  "prompt": "A serene lakeside clearing, small dock, overturned rowboat, one lantern post, mountain reflections, open natural layout, realistic, suitable for revisit comparison",
+  "image_content_sha256": "ff5ea9cab867e6dbebc6a51dc0aab338dc77279cd2e1a2e40da29fa2bba73d70",
+  "prompt_sha256": "43f35f57b4e7536bdc4978e32b45919f7ab6dcb2713d57df4d625aaa1e912720",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

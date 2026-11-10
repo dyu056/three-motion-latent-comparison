@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__HongKong_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__HongKong_007",
+  "prompt": "First person view as a person standing on a Hong Kong street sees a fox (subject) in the front-right running toward the back-right, while a pig in front walks toward the right. As the fox continues to run, the subject exits the FOV. Observer turns the head toward the bottom-right and then re-sees the subject in its FOV and having turned around to run in the opposite direction which is towards the front-left with continuous motion.",
+  "image_content_sha256": "a1cadd0616730a7176c2d1776542a56f941aa45358d15bb6cafc2116c7dc684c",
+  "prompt_sha256": "14d9e75bb2aaaeacd4092feb839640e9735a66b76e4fdd95aa8c51079a90265c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

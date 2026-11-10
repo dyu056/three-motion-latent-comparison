@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__HongKong_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__HongKong_001",
+  "prompt": "First person view with a bicycle on a street in Hong Kong is moving straight ahead and sees a person(subject) crossing from the right to the left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps riding forward and re-sees the subject in its FOV who keeps walking towards right and having completed the crossing with continuous motion.",
+  "image_content_sha256": "f51f7e3d0ed1051b052bc9cb90b24400ba394bce66e1b846ab13e2d605addfcb",
+  "prompt_sha256": "375e3929ffe3c8726a96742c40e364ad8cb83abedbea93095fbf4bff382207b2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

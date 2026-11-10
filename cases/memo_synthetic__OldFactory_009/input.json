@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_009",
+  "prompt": "First person view as a person standing in an old factory sees a person (subject) in the front-right running toward the back-left, while a large truck in the front-left drives toward the front-right. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and then re-sees the subject in its FOV who keeps running towards back-left and having continued the run with continuous motion.",
+  "image_content_sha256": "ccdfe3f34a78e66a99a0a1fb6c3289f7edfb78197f6a44736bf20fa8a4da96df",
+  "prompt_sha256": "27986a927976a94611545bf182be7e8c2592b8d63e17352a330be6f0395929b6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

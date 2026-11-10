@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0042",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0042",
+  "prompt": "A broad canyon overlook, one coin-operated binocular viewer, stone barrier wall, a trail marker post, open dramatic geology, realistic cinematic look, long sightlines",
+  "image_content_sha256": "6dd5336d8cd7a79c8cb2caa6c98ab62db8f3262c880481bb432e85cdac6cc5a3",
+  "prompt_sha256": "668118207ded9bc06c20236a0a54929558c6ca1ba72a3bd3006a8c6bf5e98e34",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

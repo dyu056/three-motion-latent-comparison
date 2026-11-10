@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_004",
+  "prompt": "First person view as a person standing on a fenced path in a medieval village sees a wolf (subject) inside the fence running from the front toward the observer's back-left, while another wolf outside the fence runs toward the observer's back-left and a pig inside the fence walks toward the left. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and then re-sees the subject in its FOV and having changed direction to run toward the camera view's right with continuous motion.",
+  "image_content_sha256": "d2f2ccf01a5fc771339b862700e7feb646e612af5c806a739c7658fc06435de0",
+  "prompt_sha256": "9ffc321c9b6ba9cbb6e46b8f8d611e07c34a29175ad6fbb03fe6e785801eaa2c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-69",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-69",
+  "prompt": "The scene presents a contemporary virtual broadcast studio characterized by curved walls, some featuring horizontal blue and purple LED strips, and a central screen displaying the \"Unreal Engine\" logo. Furnishing the space are a light-cushioned three-seater sofa, a matching armchair, glass-top side tables with warm lamps, and an oval desk accompanied by a large potted palm. The environment is professionally illuminated by overhead studio lights, including softboxes and spotlights on a truss system, alongside ambient wall sconces, creating a bright and polished atmosphere.",
+  "image_content_sha256": "0879d97f7c7b154fea51f470982c3617b33ce0821e822779e745af679c918dbd",
+  "prompt_sha256": "37a135f67812f737e9d5b21a2ca300ea8e0b8d4861199f7208f3b96e0337f8e2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

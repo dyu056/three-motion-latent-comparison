@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_008",
+  "prompt": "First person view running forward on an East New York street sees a car (subject) in the front-left driving right to cross, while another person further in the front-right runs toward the observer's back-left. As the observer continues to run and passes the vehicle, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps running forward and re-sees the subject in its FOV which keeps driving towards left with continuous motion.",
+  "image_content_sha256": "f82b0a9eb51158da6297f4778c394e24d12f2a1b113fa2e594721e558500ff20",
+  "prompt_sha256": "9860bbaf174abd11e5968e63356b63e31a54cbf7bdf0f54fd1e2aefb089ac5fa",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

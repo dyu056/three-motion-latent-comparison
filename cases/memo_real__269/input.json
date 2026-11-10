@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__269",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__269",
+  "prompt": "A first-person view of a pot of hot cooking oil with dry vermicelli noodles being placed inside. The camera smoothly tilts upward, causing the pot to gradually exit the field of view. The camera then tilts back down, and the pot re-enters the frame, revealing that the vermicelli has rapidly expanded and bent into a puffy, crispy mass from the hot oil.",
+  "image_content_sha256": "dd2fe87ecbcccd7e5723b128b094b2c14349804a281686b80311889d271ed035",
+  "prompt_sha256": "b06dbaba1f98d8c4aa569b831a9c24ce67c4f111ee2af9a04dc8513c6a5d3211",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

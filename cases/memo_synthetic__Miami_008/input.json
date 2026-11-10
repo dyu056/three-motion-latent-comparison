@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_008",
+  "prompt": "First person view as a person walking forward in an alley on a Miami street sees a person (subject) on the main road in front walking toward the left. As the subject continues to walk, the subject exits the FOV. Observer walks onto the main road and turns left, then re-sees the subject in its FOV who keeps running forward and having continued walking, while another person in front walks toward the observer's back-right with continuous motion.",
+  "image_content_sha256": "cc6f09fb59af86c91c891be3791b6b5816629a75436e190fb11dbc93bd2bc7ba",
+  "prompt_sha256": "7e1ba95281417e8f5ce9c0ff32d29b1860eb4ab792ed36976f495a1db1b7ca26",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0086",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0086",
+  "prompt": "A storybook castle courtyard, one well, banners, stone arch gate, trimmed topiary, spacious whimsical illustration style, readable structure",
+  "image_content_sha256": "ad411d45b930a45ed6255959c565e30a484e6a259e5563b02c54b1d9ea544f30",
+  "prompt_sha256": "d974041e7f80cb5ae5f01d0b84d98390cedf523d01fe11610ffd01773acc59c8",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

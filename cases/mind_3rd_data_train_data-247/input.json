@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-247",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-247",
+  "prompt": "A male figure, dressed in a dark leather jacket, dark pants, and a dark blue backpack with reflective accents, is situated on a vibrant green grassy field. The background features a line of deciduous trees and a chain-link fence enclosing a dirt-pathed sports area with visible bleachers. The scene is illuminated by soft, diffused daylight, suggesting an overcast sky and creating subtle, even shadows.",
+  "image_content_sha256": "cccca236738c414254b5c7d46a00abf8ae2a3813b1b8293814ce6dc69512e4f4",
+  "prompt_sha256": "ec25ad1704498f7421860aa78192759951dd0eaf9403198f888eb006eccabc90",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

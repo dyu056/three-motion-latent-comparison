@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-81",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-81",
+  "prompt": "A vast desert landscape stretches under a clear, brilliant blue sky, characterized by numerous undulating golden sand dunes. The sand surfaces display fine ripple patterns, and the dunes cast long, soft shadows that accentuate their contours. A bright, intense sun illuminates the scene, revealing a distant body of water shimmering on the horizon.",
+  "image_content_sha256": "804ace4b00557d46742dfdc841311886f9114fad3ba41ff8011555c981f725d7",
+  "prompt_sha256": "3a1996e2075757bad9050d8451281749b28e133fd67bd44ebe4e48727d4f96de",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

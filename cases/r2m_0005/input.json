@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0005",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0005",
+  "prompt": "A large museum courtyard, central black cube installation, shallow reflecting pool, white concrete walls, one narrow staircase, minimal people, spacious and architectural, realistic lighting, clear landmarks, long sightlines",
+  "image_content_sha256": "3075ff594987993c95031acee49456c83d3dee0ce544fe79c9c2d584cb9d5166",
+  "prompt_sha256": "1ec3d46c9de408a8c64d01bf93a9fe94e89aedb9305ea740e7d0705b16db9251",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

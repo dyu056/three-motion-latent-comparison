@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-145-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-145-1.2x-225",
+  "prompt": "A long, dimly lit industrial corridor features a highly reflective, striped floor leading past various complex machinery and extensive piping. A person wearing a dark backpack is centrally located on this pathway, flanked by stacks of metal barrels. Artificial overhead lighting casts reflections across the polished surface, illuminating the dense factory-like environment.",
+  "image_content_sha256": "da3c9f6e4d34118707ebc67ab4619d49fe01439d7305bfd165018575563dbd9d",
+  "prompt_sha256": "852d5738387bb84a4c7c790433f3ea5c2133a009506d19537a276ab228e0c887",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

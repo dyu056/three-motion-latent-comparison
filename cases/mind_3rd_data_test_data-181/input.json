@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-181",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-181",
+  "prompt": "The opulent, Middle Eastern-inspired interior hall features a sandy floor partially covered by light-colored hexagonal tiles. Ornate white pillars with red and gold spiral accents line the space, complemented by walls adorned with similar decorative panels and arched windows displaying blue geometric patterns. Bright, natural light streams through the openings, illuminating the environment and a dark armored figure detailed with prominent orange and gold accents.",
+  "image_content_sha256": "384d4001cbb520bc1203c44ee958c541241818540bf8f8a715c165992ceed83f",
+  "prompt_sha256": "27a4f606ebf7b1823f34b1120a33399b1db7e57e5bbc7a780cccf779aae59d12",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-184",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-184",
+  "prompt": "A vast, snow-covered mountainous landscape unfolds under a clear, bright sky, characterized by undulating snow dunes and distant, rugged peaks. A lone figure, clad in camouflage attire and carrying a dark backpack with a prominent reflective stripe, occupies the foreground of the pristine white terrain. Bright, natural daylight casts sharp, elongated shadows across the snow, emphasizing the stark contrast between the figure and the luminous environment.",
+  "image_content_sha256": "b7e9696053674a743812def5e981d9d947fd9f273dbc54cd126e4327ff82fcbc",
+  "prompt_sha256": "16c9ae4913bcb60a70696c23d4f7617d450d07d60c9a4d43ceef1b71d84d3d0c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

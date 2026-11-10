@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0104",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0104",
+  "prompt": "A serene Japanese zen garden courtyard, photorealistic, broad open gravel ground with carefully raked patterns, a large flat stone in the center, a red maple tree near one corner, a small stone lantern beside a moss patch, a wooden veranda running along one side, low surrounding walls, soft morning light, calm and spacious composition, clear memorable landmarks",
+  "image_content_sha256": "40b4a51c1a65ecad42186e03cf5282680abe1f57779effe4d55ca129a6590527",
+  "prompt_sha256": "50078b9671a65c1a30ba4e2143e182bc7062101eb9b199b49de71ec1f33fe362",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

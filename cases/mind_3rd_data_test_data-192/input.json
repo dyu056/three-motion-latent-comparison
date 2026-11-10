@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-192",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-192",
+  "prompt": "A male figure in camouflage-patterned clothing stands on uneven dirt ground within a vast, dark industrial junkyard. The environment is dominated by towering, haphazard piles of discarded materials, including numerous rusty metal barrels, stacks of old tires, and various plastic containers and scrap metal. Dim, localized lighting casts deep shadows across the debris, emphasizing the grimy textures and creating a desolate, cluttered atmosphere.",
+  "image_content_sha256": "097ecfa1ccfa0708fb9acc122b991fe8f867fd158949e059dbbbcbb1a6b21fe3",
+  "prompt_sha256": "2d6c9647352bf76cef66b67ab0dcb25d9efc113345cbc9d1b0f63b22fbb3fa2f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

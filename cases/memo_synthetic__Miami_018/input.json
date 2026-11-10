@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_018",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_018",
+  "prompt": "First person view as a person walking forward on a bush in Miami sees a fox (subject) in the lower-front-right running toward the observer's back-right, while a person in the lower-front-right walks right and another person in the lower-front-right walks toward the observer. As the subject continues to run, the subject exits the FOV. Observer turns to the right and keeps walking in place and then re-sees the subject in its FOV which keeps running towards front-right and having continued the run with continuous motion.",
+  "image_content_sha256": "a18c3fd69eed8f1d5ec8a502d818ee87dad56eadf2178bdae0aa2d0af27d854b",
+  "prompt_sha256": "52602ec65ff72857779a71e68ebc0a6a1fef1b45aa509e46515307ccf726c479",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-237",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-237",
+  "prompt": "The scene presents a twilight landscape imbued with a pervasive purple and magenta luminescence, casting long, distinct shadows across the terrain. A cobblestone path occupies the foreground, flanked by a rustic wooden fence on the left and several large, dark logs on the right. Scattered evergreen trees emerge from a misty, undulating background, completing the somber, stylized environment.",
+  "image_content_sha256": "3f77e0fbbd58857285feeed8d67798b3c266ccccaa6509e2550c4244183d42d9",
+  "prompt_sha256": "bea05cc0411b6edec6f984eb4a98d32452c932daa077538186eaab004b6b9ebe",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

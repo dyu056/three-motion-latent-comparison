@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_015",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_015",
+  "prompt": "First person view as a person running forward on a New York street sees a person (subject) in the front-left walking toward the observer's back-left, while a fox in the front-left runs toward the observer and another person in the front-right runs toward the observer. As the subject continues to walk, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps running in place and re-sees the subject in its FOV who keeps walking towards front-left with continuous motion.",
+  "image_content_sha256": "d5978af28ea8dc16448e343249cdd6ec00443bb0968d54030a30ab778bf3d2f7",
+  "prompt_sha256": "cf3b56dbef0c4477046d360794b17140e8650a2018a9c15a54c83bef5515025a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

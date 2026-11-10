@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-218",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-218",
+  "prompt": "A stylized medieval village square features a light-colored cobblestone path surrounded by buildings with timber frames, stone bases, and shingled roofs. Wooden stairs ascend to upper levels, while a tavern sign, arched doorways, and windows with flower boxes adorn the structures, alongside a wooden bench laden with items. A male figure in a dark leather jacket stands centrally, illuminated by bright daylight that casts sharp shadows across the scene.",
+  "image_content_sha256": "82ea8d18555ed6c6ce520c23b479fbb37b0181ae63307320385f891d7d5392b0",
+  "prompt_sha256": "f2f51789b969bec06b201a52b5f086065dc15669b5da5247a2b6c5e680a9af99",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0103",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0103",
+  "prompt": "A quiet futuristic transit hub, sci-fi concept art, expansive interior with glossy floors, towering curved ceiling, a glowing blue holographic pillar in the middle, a row of white waiting pods along one side, a suspended digital timetable, a single maglev platform edge with yellow safety line, minimal crowd, cool ambient lighting, spacious layout, distinct reference objects for moving away and returning",
+  "image_content_sha256": "0795f0d6ba6b5c489551865e39fa91a07e6d3013246350dc71d7796e261561d7",
+  "prompt_sha256": "c09f63d7c0be3d8f08c1ad1d2c53d83f79347006b1b14878018a5d4d76b573c2",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

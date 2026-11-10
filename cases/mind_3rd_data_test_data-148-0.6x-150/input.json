@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-148-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-148-0.6x-150",
+  "prompt": "A vast, arid landscape of dark, reddish-brown mountains and valleys stretches under a clear blue sky with sparse clouds. A lone individual, clad in dark attire and carrying a backpack, traverses the shadowed foreground. Dramatic low-angle lighting casts deep shadows across the immediate terrain, while distant peaks are illuminated with a warm, orange-red glow.",
+  "image_content_sha256": "87254b893cf3ba740e4b9a2f8816f248a1c8c36c0b108dd888335a87835d8853",
+  "prompt_sha256": "e904a66e5d9690d38c4dfb8c0a9db21a66be6e31ab27943881fbc81179675ca5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

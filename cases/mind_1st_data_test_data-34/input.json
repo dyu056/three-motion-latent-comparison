@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-34",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-34",
+  "prompt": "An arid, rocky desert landscape stretches under a bright, hazy sky, dominated by a rugged cliff face on the right. This steep rock formation is richly textured with scattered green shrubs and a dense, vibrant carpet of purple flowers. Natural sunlight bathes the scene, casting a soft glow over the distant hills and highlighting the geological features.",
+  "image_content_sha256": "aee97ed59b5e1203c3553f0cafe9749dd8c87b399429d2494ec2eda5bc8aa9d3",
+  "prompt_sha256": "e6c04446bd7d35a1364f2fb657690cfe5d61284991072a09d321fc2c6bf6efbb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

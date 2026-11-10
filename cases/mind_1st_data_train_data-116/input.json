@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-116",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-116",
+  "prompt": "The scene presents a stylized, expansive mountainous landscape characterized by towering, light-colored rock formations and deep, verdant valleys. Lush green grass and a mix of deciduous and coniferous trees densely populate the slopes and valley floors, alongside winding rivers or serene bodies of water. A brilliant, clear blue sky bathes the entire environment in bright, even daylight, creating a vibrant and pristine atmosphere.",
+  "image_content_sha256": "504e8dbd199e1b240c9533292a40f254835611ea357c6620d94b41a0beeb7632",
+  "prompt_sha256": "2c47c4e12835351185cbb48cb2f3f485b021fa9f0ad9018d2c3a0f69fe02865b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

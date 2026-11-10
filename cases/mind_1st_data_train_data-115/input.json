@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-115",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-115",
+  "prompt": "A vibrant, stylized village scene unfolds under a clear blue sky, featuring two distinct, light brown buildings with red roofs, one adorned with a clock face and a street lamp. A grassy path leads to stone stairs flanked by low walls, ascending to a higher platform where a small, triangular wooden structure is visible. Lush green trees, abundant foliage, and stacked wooden barrels complete the bright, sunlit, cartoonish environment.",
+  "image_content_sha256": "8de08563fef9c694515b1305456077299858a1b00d3bfe66fe6d96e1b0dd7f7c",
+  "prompt_sha256": "a92010db9c5bca3eb6a88bae2c68019a078462d07746a70c4afddb110eae1676",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

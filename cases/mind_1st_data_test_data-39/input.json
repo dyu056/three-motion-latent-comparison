@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-39",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-39",
+  "prompt": "The scene presents a vibrant, rocky river valley under a bright, partly cloudy sky, where a clear stream flows over stones. A prominent, ancient tree with gnarled, exposed roots anchors the foreground, its lush green canopy dominating the immediate landscape. Rocky outcrops and distant, purplish mountains frame the verdant terrain, all illuminated by a clear, natural light that highlights the rich textures of foliage and stone.",
+  "image_content_sha256": "ed53af96ae60affbb2e9684affb6b52c16aaffafc2ce354b2c1f6d17e76a4ae8",
+  "prompt_sha256": "95def8ec83b5e33d3bfac46214bfa8f36d41076887950543cf866c63a2a2353b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

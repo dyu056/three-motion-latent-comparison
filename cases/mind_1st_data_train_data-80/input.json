@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-80",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-80",
+  "prompt": "The video presents a sequence of futuristic, high-tech interior environments, characterized by clean architectural lines, geometric patterns, and a predominantly cool-toned color palette. These sterile spaces feature sleek white and blue furniture, integrated glowing panels, holographic displays of human figures and globes, and large screens exhibiting data or stylized mountain landscapes. Artificial blue and white strip lighting, along with illuminated accents, creates a bright, vibrant, and organized atmosphere throughout the advanced settings.",
+  "image_content_sha256": "30ce6d59e8bccd7951f8abcee6f2d83c32dcf926342d00d2b44c593ef1b2f132",
+  "prompt_sha256": "85af27a78941efc82626f134e3372566c8be95691042950204e09ada482d9d5b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

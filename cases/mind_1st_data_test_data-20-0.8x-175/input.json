@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-20-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-20-0.8x-175",
+  "prompt": "The scene presents a rugged, open landscape characterized by undulating terrain and numerous large, grey boulders partially covered in green moss. Sparse, gnarled trees with dark, twisted branches are scattered across the environment, while vibrant green grass densely covers the foreground and patches of ground. Bright natural daylight illuminates the setting, casting distinct shadows and revealing a clear blue sky adorned with scattered white clouds.",
+  "image_content_sha256": "bd75046bee00c4bdedf35f15749286013cc1d280be59cbffc12268df49678497",
+  "prompt_sha256": "5085c1d3da706a061d300a6e899a87bd763d077a0cd4ef3d24e1d9031034b5aa",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

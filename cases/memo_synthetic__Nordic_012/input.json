@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_012",
+  "prompt": "First person view as a person standing by the river on a Nordic street sees a crocodile (subject) in the river in front swimming toward right, while a bird above in the front-upper flies right. As the observer turns the head upward, the subject exits the FOV. Observer looks back down and then re-sees the subject in its FOV and having continued the swim towards right with continuous motion.",
+  "image_content_sha256": "8a4fe99095c49e4b2c650114223dfe0fe7eee8d6726a0426ffd8fa277f2dbc90",
+  "prompt_sha256": "e99d4599e439ac77b045f0af012863de6f14b91917fbc5d52f8a90082e2e088e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

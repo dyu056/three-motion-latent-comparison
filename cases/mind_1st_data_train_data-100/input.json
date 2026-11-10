@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-100",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-100",
+  "prompt": "A weathered asphalt road, marked by a faded white center line, extends through an arid, reddish-orange desert environment. Sparse, light green trees, scrubby bushes, and a prominent fallen tree trunk flank the road, with wooden fence posts visible on the right. The expansive blue sky, dotted with scattered cumulus clouds, illuminates the scene with bright, natural daylight, creating distinct shadows.",
+  "image_content_sha256": "4197755ad123c23f6af3a73ddf8364080001dd51f472018a5b39bd32718ca2d9",
+  "prompt_sha256": "bdd8eaf2aaddda96be56307cd56f0984fabafba6556a3fb72afc0b541949f774",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

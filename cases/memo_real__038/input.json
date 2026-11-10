@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__038",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__038",
+  "prompt": "A first-person view of a clear glass of water on a table with milk powder being poured in. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the milk powder is dissolving and sinking, and the water has turned opaque white.",
+  "image_content_sha256": "67118c41dbdd137847e5b785404e271b4ec77dd38d65b5352677855925dc2c03",
+  "prompt_sha256": "363de9e952cb7847b0c6efac3baee156b8da53a980166975d8932816f63f9cb0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

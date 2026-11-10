@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-64",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-64",
+  "prompt": "The scene depicts a rustic, Western-style saloon interior, featuring extensive dark wood paneling, floors, and ceilings, often complemented by sections of deep red walls. A prominent wooden bar with stools, shelves stocked with bottles, and several round tables with chairs furnish the space, alongside decorative wagon wheels and barrels. Natural light filters through multiple windows with draped curtains, blending with the warm, ambient glow from various lamps to create a classic, inviting, yet somewhat dim atmosphere.",
+  "image_content_sha256": "c27ca22685e64fc25674a866df3f533cbac7587b0ab8db8b51d83f11f7530b7c",
+  "prompt_sha256": "b126ccf3ea2bfd25e84739a75cb0721ee20a6189d66c6662d0fe4effddbf9499",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

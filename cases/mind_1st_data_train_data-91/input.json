@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-91",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-91",
+  "prompt": "A vibrant pedestrian plaza is framed by multi-story brick buildings housing storefronts, with abundant mature green trees lining the thoroughfare. In the foreground, a yellow umbrella shades an outdoor seating area with blue tables and chairs, adjacent to a mobile snack cart topped with a blue and yellow striped umbrella. Golden, low-angle sunlight bathes the scene, casting long, distinct shadows across the red brick pavement and creating a warm, inviting atmosphere.",
+  "image_content_sha256": "3f426a6f3b843710fdf76383e2f32f243d3960540ee5b0c46d4282cedf7edafe",
+  "prompt_sha256": "06f793af9e87e1164c08a2e1443d17830fedbcc17470dcdc9b5f0a8724206427",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

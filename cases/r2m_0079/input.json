@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0079",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0079",
+  "prompt": "A vast library field, bookshelves arranged like crop rows, one reading lamp, a ladder, distant clock tower, surreal open intellectual landscape, clear visual reference points",
+  "image_content_sha256": "13bdd96b7783c89136cf36a4239dd0f3ae72e37cae7977b486f6d737edc76b81",
+  "prompt_sha256": "1e00418e65fea6a9df37dc233496180f2ee4399a3a764bcfae70f6677f8bdf5f",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

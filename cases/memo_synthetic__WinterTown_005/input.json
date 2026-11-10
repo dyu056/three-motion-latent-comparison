@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_005",
+  "prompt": "First person view as a bird flying in the sky of Wintertown is moving straight ahead and looks down and sees an elephant(subject) walking from left to right. Observer flies forward and the subject exits the FOV and follows a curved path to the left and performs a U-turn. Observer keeps flying in place then re-sees the subject in its FOV which keeps walking towards left and having continued the run with continuous motion.",
+  "image_content_sha256": "aa1d0b90587e672ffcdd88cf26ac23f2fc7ac5a6d35b8b43b44f1193a1b41815",
+  "prompt_sha256": "6ad3b3eecfed5d3d45ae425334c250f8a8d3474a29251348676ba5c97c3fb032",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

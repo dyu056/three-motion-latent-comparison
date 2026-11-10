@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__200",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__200",
+  "prompt": "A first-person view of a glass of purple cabbage juice on a table with disinfectant liquid being poured in. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the disinfectant has reacted with the cabbage juice and the liquid has turned a pale yellow color.",
+  "image_content_sha256": "88ef26d5362607428334f8889960cefa64f44a2cba302d98b0efa29fbc18bb7f",
+  "prompt_sha256": "f1a04be0de20b1f0e0c8f606a1e0c1eebba98c3e55cf67713e3b148060f07a2d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

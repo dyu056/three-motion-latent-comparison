@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0101",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0101",
+  "prompt": "A spacious modern art museum atrium, ultra-realistic architectural photography, wide-angle view, polished concrete floor, tall skylight, white walls, a bright red suspended sculpture in the center, a long wooden bench on the left, a black information kiosk near the entrance, a staircase with glass railing at the far right, sparse visitors, strong natural daylight, clean composition, clear visual landmarks for revisiting, cinematic perspective",
+  "image_content_sha256": "8ea4973a4e50b2ef91d019b171f704b07b8603567706ee4424cc3c94a65b480e",
+  "prompt_sha256": "6d5bf8056c820af603236db189773d4edb1fdad1507d8ecbff8a0979244b48d4",
+  "source_image_size": [
+    1376,
+    768
+  ]
+}

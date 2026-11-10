@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-212",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-212",
+  "prompt": "A person wearing a dark jacket and backpack descends a wide stone staircase with a black metal railing. Beyond the stairs, a paved hexagonal pathway borders a tranquil pond, reflecting the dense green foliage of surrounding trees. The lush park environment, dotted with dark lampposts, is illuminated by soft, natural daylight.",
+  "image_content_sha256": "10c15e0c2365c666489cfe46c8d8b726f57d9da26ca3a238184d14f2e8ea57f4",
+  "prompt_sha256": "cf5eabcdce6a33f4368dd61baceb7b0081563f30a77435c62e9b06bbaaeae1a7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

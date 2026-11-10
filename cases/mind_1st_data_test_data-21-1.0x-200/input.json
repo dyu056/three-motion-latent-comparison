@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-21-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-21-1.0x-200",
+  "prompt": "An expansive, open-air courtyard is enclosed by towering, grey stone-block walls and paved with large, irregular stone tiles, all beneath a clear blue sky with scattered clouds. Numerous fluted stone columns punctuate the space, accompanied by various wooden furnishings such as barrels on stands, open shelving units displaying pottery, and small tables with chairs. Bright daylight illuminates the scene, casting distinct, elongated shadows that emphasize the architectural forms and create a clear, well-defined atmosphere.",
+  "image_content_sha256": "b007fcb203a205aff48efe526465dc2045a237d4416f1b049b97fdbd5bfb52b5",
+  "prompt_sha256": "ff35bd10fe86fa3ad99435883afa03f571d9afefd71a369ad34f4dac65c68013",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

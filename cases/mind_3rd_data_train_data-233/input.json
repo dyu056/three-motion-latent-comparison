@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-233",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-233",
+  "prompt": "A vast, undulating snow-covered landscape dominates the scene, featuring prominent white dunes and a distant mountain peak under a sky that gradients from deep blue to a pale, greenish-yellow. A male figure, clad in dark clothing, walks across the snow, casting a distinct, elongated shadow to his left. Strong, low-angle illumination dramatically sculpts the snow's contours and silhouettes the figure against the bright, stark terrain.",
+  "image_content_sha256": "8420a26f37359b017a80c13a17405187b4b4fc77ca668d32f03bc4a0dcbd62fd",
+  "prompt_sha256": "b146e743f79533c0a52ec72ea3f4a5b401c66ade70db989641e2f25a5d0d28f5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

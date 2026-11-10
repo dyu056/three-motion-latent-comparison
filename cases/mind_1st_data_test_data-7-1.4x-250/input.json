@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-7-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-7-1.4x-250",
+  "prompt": "This expansive open-air stone courtyard is enclosed by high, block-constructed walls and punctuated by numerous tall, fluted pillars. The ground is paved with large, irregular stone tiles, and the overhead sky features clear blue with scattered white clouds. Various wooden furnishings, including bookshelves, tables, chairs, and barrels, are arranged throughout, illuminated by bright daylight that casts long, defined shadows.",
+  "image_content_sha256": "b6a0b515b692859e52b311d973076e160456f0924cb3c0824a2412347264b22e",
+  "prompt_sha256": "ca57e7b00458710274c4fcc51717d09293f9dfb55f162e5197478bdcd7e6b4ce",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

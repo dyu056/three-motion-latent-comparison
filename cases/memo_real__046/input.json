@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__046",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__046",
+  "prompt": "A first-person view of a glass into which yellow soda has just been poured, generating abundant bubbles. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the foam has completely subsided and the yellow soda sits flat and still in the glass.",
+  "image_content_sha256": "323133a4b3efeff0406a48d87238efbbcb1c51ccb9c584e02b187509c6c2b5e2",
+  "prompt_sha256": "5504a27ab4572e900d0889a4defa180543df70f9bfd59de008b1e707df5452d9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

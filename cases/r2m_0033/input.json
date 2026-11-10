@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0033",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0033",
+  "prompt": "A calm salt flat with shallow water reflections, one isolated signpost, distant abandoned truck, huge sky, minimal but readable landmarks, cinematic realism",
+  "image_content_sha256": "ddd18860f7ee901bb284264f0bb978518ce7b632cf64e296902169f67dd5e972",
+  "prompt_sha256": "c8338493a2aade7493b8bc29dae221753dee71b149c65674f0563065a8bcac7b",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

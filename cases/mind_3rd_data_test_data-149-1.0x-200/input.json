@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-149-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-149-1.0x-200",
+  "prompt": "A vast, arid landscape unfolds under a clear, light blue sky, featuring deep reddish-brown canyons and undulating dark terrain. A figure, viewed from behind, wears a dark, textured backpack with geometric patterns and dark clothing, traversing the dark ground. Bright natural light illuminates the environment, casting distinct shadows and highlighting the stark contrast between the dark foreground and the vibrant canyon walls.",
+  "image_content_sha256": "d596233615ce777e7f892eba241fdc23119018b97dc049a71f258e6b443101b2",
+  "prompt_sha256": "37f6c50ce4d42fdb527cb085148d85a1cdaa9b376cd2ad85a75ce83288b68b2c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

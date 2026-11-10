@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-73",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-73",
+  "prompt": "The scene portrays an ancient desert city composed of sand-colored, multi-story buildings featuring arched entrances, small windows, and prominent golden domes, alongside a large pyramid-like structure and a humanoid statue. Paved courtyards and sandy ground define the pathways, with sparse green vegetation clinging to walls and palm trees dotting the landscape. Bright, direct sunlight casts sharp, defined shadows across the exterior, while interior passages are dimly lit, revealing tiled floors and deep, cool-toned shadows.",
+  "image_content_sha256": "c77784f4b63119059591ba97234f9a00508d0822674e222f46b7cde9c3732187",
+  "prompt_sha256": "505d256e0c7ee18d3f57c97b02407f77a1601f374746769d2595120d39917d03",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

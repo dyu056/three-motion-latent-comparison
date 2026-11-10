@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_007",
+  "prompt": "First person view as a person standing in Wintertown sees a crocodile (subject) in the water in front swimming from left to right, while a wolf on the opposite bank runs from left to right. As the subject continues to swim, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV and having performed a U-turn to swim in the opposite direction which towards left with continuous motion.",
+  "image_content_sha256": "4a00dad57769513e9178e5e9499dab1fadd0522318c887c7469bc279c5b11c9e",
+  "prompt_sha256": "4f06b0247b871a0e39313abcb3f2364b4dd34e9c1c80c7a249f896363475b468",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

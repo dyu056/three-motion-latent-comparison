@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-190",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-190",
+  "prompt": "The scene presents a dimly lit, enclosed architectural space, possibly an alley or covered market, featuring timber-framed structures, stone walls, and an ascending staircase on the left. Multiple lattice windows and wall-mounted lanterns emit a warm, inviting glow, contrasting sharply with the pervasive deep shadows. A dark, human-like silhouette stands centrally on the irregularly paved ground, enveloped by the atmospheric, low-light environment.",
+  "image_content_sha256": "523a1e48586a0dc2c6de83447bc9842d8c4fe09313e07a47c6d0c000f398db34",
+  "prompt_sha256": "a4e3fcd0871a4277fa4a4ebbeaaa0834666ff2c43b03b5fb20be94ce8efe81b4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

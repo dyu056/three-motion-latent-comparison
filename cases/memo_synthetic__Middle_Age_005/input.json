@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_005",
+  "prompt": "First person view as a deer standing on a medieval field sees a pig (subject) in the front-right running toward the left, while a wolf in the front-right runs toward the left and a fox in the front-left runs toward the right. As the observer lowers the head, the subject exits the FOV. Observer raises the head back and re-sees the subject in its FOV which jumps over a fence in front and continued the run towards left with continuous motion.",
+  "image_content_sha256": "34726c789822f8438352003cec2bb248a7118f92387a5e35161f7027f4c21e79",
+  "prompt_sha256": "0067a4ea21bc62edcd026d1034fe082b8a89090e198de2d273fd2bebe995d8df",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

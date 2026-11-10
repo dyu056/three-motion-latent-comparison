@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0030",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0030",
+  "prompt": "A large indoor swimming pool hall, lane markers, lifeguard chair, orange safety float, skylight reflections, clean spacious composition, realistic architecture, visual reference points",
+  "image_content_sha256": "5b56a1c5beda62680b8292de214f44a24b6bd7361e59faf66dfa9558780c6c9a",
+  "prompt_sha256": "965c9366f40fda228b2b31f6f33aca280f69fd1942df13762b110c706966cc48",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

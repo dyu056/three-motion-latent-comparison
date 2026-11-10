@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_008",
+  "prompt": "First person view as a person standing in a Citypark sees a bird (subject) in the upper-front flying toward the upper-right, while a person in front runs toward the observer. As the subject continues to fly, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's left with continuous motion.",
+  "image_content_sha256": "5a7bd6e78ff4cf70b7fbb73817485290d1a26321037cc3fe3f35a5fc2bb5a35d",
+  "prompt_sha256": "acc313e10039d56700fbd019dbc107486812d4fa14c9403ae3102e4ce7149dc6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

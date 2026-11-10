@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><title>三组视频 latent 实验</title>
+<style>body{font:15px/1.65 system-ui;max-width:1250px;margin:30px auto;padding:0 20px;background:#f7f8fa;color:#162b38}img,video{max-width:100%}article{background:white;padding:16px;margin:18px 0;border:1px solid #dce2e8;border-radius:12px}select,input{font:inherit;padding:8px;margin-right:10px}code{word-break:break-all}.nums{font-variant-numeric:tabular-nums}</style>
+<h1>同首图：直行 / 右转 / 右转视频精确倒放</h1>
+<p id="counts"></p><p>A、B 共用首图、原始 prompt 和随机数。C 是 B 的浮点 RGB 逐帧倒放，首帧位于 B 的末端。三组均经同一冻结 VAE 独立编码。图中使用去掉首尾后的 8 个 latent；所有 region 的 cosine、Pearson、MSE 在 CSV/JSON 中保留。</p>
+<p>原始单视频 24fps，三列预览为 8fps 慢放。latent flip 只是索引对齐；因果历史及四帧分组不同。这里不把低相关性解释为信息不可恢复，也不把合计结果称为官方 benchmark 分数。</p>
+<p><a href="summary.json">汇总 JSON</a> · <a href="cases.csv">逐例全部指标 CSV</a> · <a href="README.md">实验定义</a></p>
+<p>视频为网页播放副本；数值来自原始浮点 RGB 与 latent。原始张量保存在实验档案中。</p><img src="summary.png" alt="汇总图"><hr>
+<select id="filter"><option value="">全部 benchmark</option><option>R2M-Bench</option><option>MemoBench</option><option>MIND</option></select><input id="query" placeholder="搜索 scene ID / split"><button id="next">再显示 20 例</button><div id="list"></div>
+<script>
+let cards=[],shown=20;const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function render(){let f=document.querySelector('#filter').value,q=document.querySelector('#query').value.toLowerCase();let filtered=cards.filter(c=>(!f||c.benchmark===f)&&(c.scene_id+' '+c.split).toLowerCase().includes(q));document.querySelector('#list').innerHTML=filtered.slice(0,shown).map(c=>`<article><h3>${esc(c.scene_id)} · ${esc(c.benchmark)} / ${esc(c.split)}</h3>${c.status==='complete'?`<video controls preload="none" poster="${c.artifact_base}/poster.jpg" src="${c.artifact_base}/comparison.mp4"></video><p class="nums">cosine（去首尾）：A/B ${c.cosine.forward__right.toFixed(4)} · A/C ${c.cosine.forward__right_reversed.toFixed(4)} · B/C ${c.cosine.right__right_reversed.toFixed(4)} · flip(B)/C ${c.aligned_cosine.toFixed(4)}</p><a href="${c.artifact_base}/report.json">完整指标</a> · <a href="${c.artifact_base}/input.json">原始 prompt 与来源</a> · <a href="${c.artifact_base}/input.jpg">首图预览</a>${c.heatmap_ready?` · <a href="${c.artifact_base}/pairwise_cosine.png">时间位置热图</a>`:``}`:`<p>${esc(c.status)}</p>`}</article>`).join('');}
+Promise.all([fetch('cards.json').then(r=>r.json()),fetch('summary.json').then(r=>r.json())]).then(([c,s])=>{cards=c;document.querySelector('#counts').textContent=`完成 ${s.complete} / ${s.expected}；失败 ${s.failed}；待完成 ${s.pending}`;render()});
+document.querySelector('#filter').onchange=document.querySelector('#query').oninput=()=>{shown=20;render()};document.querySelector('#next').onclick=()=>{shown+=20;render()};
+</script></html>

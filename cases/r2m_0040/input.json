@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0040",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0040",
+  "prompt": "A quiet autumn orchard, a lone ladder against a tree, stacked crates, a white shed, open rows of trees, soft realistic light, readable layout",
+  "image_content_sha256": "724fba0a2826c2c0699081db51a49bf1d61f20fae18be8664c90a3474e8d3cde",
+  "prompt_sha256": "83a235e153f75a39c676a4edba3e97d5c4bbb128a5e90d86f742ab32ad127e9c",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

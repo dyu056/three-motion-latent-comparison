@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-12-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-12-1.2x-225",
+  "prompt": "This rustic bar interior features dark wooden plank floors, paneled walls, and an exposed beam ceiling, with a deep red accent wall at the far end. On the left, round wooden tables with chairs are arranged, one displaying a green cloth and bottles, beneath framed artwork and a mounted animal head. A long, dark wooden bar counter with stools occupies the right, backed by shelves stocked with bottles, all bathed in a warm, inviting glow from pendant lights and a table lamp.",
+  "image_content_sha256": "48d22cced373db0c2ed22b4812f457ad08be22ff53deb91564b186515ec4c900",
+  "prompt_sha256": "2d61a7b19e131d2b7c3da5bf53d2b9e2d226797e12f18f68294f66226ca02a39",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

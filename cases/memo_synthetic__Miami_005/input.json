@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_005",
+  "prompt": "First person view as a fox running forward on Miami Beach sees a person (subject) in the front-left running toward the right, while another person in front walks toward the observer's back-right. As the observer jumps up, the subject exits the FOV. Observer lands and then re-sees the subject in its FOV who keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "8d504cc026077bcaac7522053423dcd30998265aef88c0f062a57b27c6fdb6db",
+  "prompt_sha256": "3070ad28afeee69507fc4dcb6460b429777073807262ba8611fd1d3cb7f26349",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

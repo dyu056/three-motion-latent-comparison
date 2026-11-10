@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-40",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-40",
+  "prompt": "A monumental, dark, fan-shaped structure with a textured, fluted surface forms the primary subject. Intricate golden carvings, resembling stylized foliage and a central ornate mask, are prominently displayed on its front. The entire composition is bathed in bright, natural daylight under a clear blue sky with scattered white clouds.",
+  "image_content_sha256": "463ed9f9cec05138845cdbf204505eaeb8f9fe5f54a02f357c6b67ab799aa709",
+  "prompt_sha256": "bd4562351c4fd0cb794c912ada92c82cbdb0fcd08241b560ce88afd7285329a4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

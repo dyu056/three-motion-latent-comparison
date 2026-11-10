@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-136-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-136-1.4x-250",
+  "prompt": "A male figure, clad in dark clothing and carrying a black backpack, walks along a sun-dappled dirt path bordered by lush green ferns and dense forest undergrowth. Warm, golden light filters through the overhead tree canopy, casting distinct patches of illumination and shadow across the verdant landscape. In the background, weathered stone ruins are partially visible amidst the abundant foliage, suggesting an ancient or abandoned structure within the natural setting.",
+  "image_content_sha256": "98723eb8305fb7d203540b99d964a52182a0a2e9a97c85b0573eca26105e3b6b",
+  "prompt_sha256": "fa772e17e4608a1e7f80da8c93adbee13856b1f0fa8a3449dedc5662b5bb59e8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

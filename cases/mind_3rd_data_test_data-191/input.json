@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-191",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-191",
+  "prompt": "Ancient, textured stone walls and a sandy floor define a sun-drenched corridor, featuring a set of stone steps on the left. Ornate golden structures with red banners and robust stone columns punctuate the architectural space. A dark armored figure, accented with glowing orange elements, stands centrally under a warm, bright light that casts sharp shadows.",
+  "image_content_sha256": "c61e0cb75b4ebf351ea25e6d3acd3abb5e1d693465806ca6c305f7add55fe8a3",
+  "prompt_sha256": "e11a472a9e44e7e463753a017c0b7ef36a6939a2a2872b5d0708b3f2c9689309",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

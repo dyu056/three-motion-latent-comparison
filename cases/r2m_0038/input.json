@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0038",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0038",
+  "prompt": "A broad snowy field, one red cabin, telephone poles receding into distance, a fence corner, pale winter sky, spacious realistic scene, distinct environmental identity",
+  "image_content_sha256": "1be402b3a12555b69aba7cf4412132b5f1bd31be6abd08bd72393da0fbdb2eaa",
+  "prompt_sha256": "1bfbf1ddea988aefd430d3e1a0b58d731bb06af905edd2ffd3281956b8df2e01",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

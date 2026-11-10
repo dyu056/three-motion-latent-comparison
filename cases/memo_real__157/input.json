@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__157",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__157",
+  "prompt": "A first-person view of a measuring cup of salt water on a table with milk being dripped in, creating a milky haze. The camera smoothly pans to the right, causing the measuring cup to gradually exit the field of view. The camera then pans back to the left, and the measuring cup re-enters the frame, revealing that the milk has dispersed further into the salt water, forming a larger and denser white haze.",
+  "image_content_sha256": "38456f6f1396081093587efb430a4611e8d0795867ac72a8f345c84219faf7e2",
+  "prompt_sha256": "2dce76361ac9ace4d4ebdbb1cfa8ca8dc8eae50d0573efd23292b9dd80dcca28",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

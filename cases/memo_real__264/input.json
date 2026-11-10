@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__264",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__264",
+  "prompt": "A first-person view of a pot of boiling water with raw chicken breast being placed inside. The camera smoothly pans to the right, causing the pot to gradually exit the field of view. The camera then pans back to the left, and the pot re-enters the frame, revealing that the chicken breast has turned white and fully cooked in the boiling water.",
+  "image_content_sha256": "4bc92cd45feae24d96ab3b4f469e4a8c0749a8639cc45d4179827a74b8713176",
+  "prompt_sha256": "4badd5aba6d2e805101de01de2bdd1eae95abfaecb1adea8e791fb791fc14f81",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

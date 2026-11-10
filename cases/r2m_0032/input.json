@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0032",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0032",
+  "prompt": "A high mountain meadow, one weathered wooden cabin, a lone pine tree, stone trail markers, wide grassland under clear sky, open natural realism, navigable scene",
+  "image_content_sha256": "dd7079d71ca01d23f33ff80d5613de16124224fcfd2b4448be972d37ca4f0329",
+  "prompt_sha256": "f403746518191721afb9972b4b1031a76a7606e7f99a020af2c9081e15bd0c65",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

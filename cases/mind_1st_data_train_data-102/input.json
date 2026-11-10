@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-102",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-102",
+  "prompt": "The scene depicts a vibrant, stylized mountain landscape featuring towering, rugged peaks flanking a deep valley. Lush green hillsides are densely covered with dark green coniferous trees and dotted with numerous large, smooth, light blue boulders. Bright, clear daylight illuminates the environment, casting sharp, distinct shadows across the terrain and objects under a brilliant blue sky.",
+  "image_content_sha256": "8c7ebb996eb2dff0dfe3c04c42b793dda1bf7c7a857e742f8f85b060c67bd32f",
+  "prompt_sha256": "f517ec07216c92c395bbc7b061ae0bc73b9fe03fef7fc601054efcb1dcb2f454",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

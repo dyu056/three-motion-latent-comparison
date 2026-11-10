@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-134-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-134-0.8x-175",
+  "prompt": "A brick-paved pedestrian thoroughfare is bathed in the warm, golden light of a low sun, casting long, distinct shadows across the ground. On the left, a food cart with a blue and yellow \"SNACKS\" awning is positioned near a person wearing a dark backpack. The right side of the street is lined with multi-story buildings adorned with banners and streetlights, leading towards a brightly illuminated horizon.",
+  "image_content_sha256": "3e29e1279d17b83bd9a8120eb1673bae7adbf015b44766d1ea90560f131a6981",
+  "prompt_sha256": "9fe44bc002e3d8c8a748db25c6b57532f2ae3f0b193cb626a5c077c81f270196",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

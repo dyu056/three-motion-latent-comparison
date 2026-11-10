@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__075",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__075",
+  "prompt": "A first-person view of a clear glass of water on a table with a dropper filled with soy sauce positioned above it. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that drops of soy sauce have dispersed and spread in the water, creating dark brown swirling patterns.",
+  "image_content_sha256": "d3e7eed63f700594d461ea21413ddd554bf53f10002071f7f1b936d18874f68e",
+  "prompt_sha256": "1c539e46060ffe998837a92c8caa45c68f506a14fd06f81e90397139c70fd77b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

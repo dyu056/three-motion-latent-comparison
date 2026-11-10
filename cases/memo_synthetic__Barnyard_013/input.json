@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_013",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_013",
+  "prompt": "First person view as a person standing in a Barnyard sees a fox (subject) in the front-left running right, while a bird in the upper-front-left flies right. As the fox continues to run, the subject exits the FOV. Observer turns the head to the right and re-sees the subject in its FOV which keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "407e08cc1c7a50a915636a4a0f042997ec65b5011fd710caa4d7081b0500c697",
+  "prompt_sha256": "0b70f67a131fafd268b72f5187353b170d45a5aa114cb02ccdea78ff394af065",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

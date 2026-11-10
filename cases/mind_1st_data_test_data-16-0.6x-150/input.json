@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-16-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-16-0.6x-150",
+  "prompt": "The environment is a dark, dilapidated urban landscape featuring narrow, industrial alleyways and a central plaza. Concrete walls display vibrant graffiti and digital \"NO SIGNAL\" screens, while the wet, tiled, and cobblestone ground is strewn with debris and discarded boxes. The scene is illuminated by a moody interplay of cool blue, green, and warm yellow neon lights, casting a stark glow on the grimy surfaces and a prominent humanoid statue.",
+  "image_content_sha256": "a47ebc506ff40c994a00bef0368c34f81e2124174f86050eff360330904deab0",
+  "prompt_sha256": "d4a1189fbe9ecbeea2d372454cc452f69a649996cebe1fe365d5266fad9e1b88",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-45",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-45",
+  "prompt": "A stylized winter village is blanketed in deep snow across undulating terrain, set against a clear, bright blue sky. The landscape features numerous snow-laden evergreen trees and gnarled deciduous trees, alongside charming wooden buildings with stone foundations and snow-covered roofs. A winding path traverses the scene, punctuated by wooden fences, glowing lanterns, and scattered rocks, all bathed in crisp, clear daylight.",
+  "image_content_sha256": "cfffacf1de1d6651242be41432724433b2b1d3e82ce945c59595eda7c5195eb0",
+  "prompt_sha256": "90f2a9a106a7c631a7a52ad903297255454f2cea161cfd0603b141e29ee7a96b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

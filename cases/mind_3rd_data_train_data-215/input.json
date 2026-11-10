@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-215",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-215",
+  "prompt": "A paved park pathway, strewn with fallen leaves, extends into a verdant landscape characterized by dense green trees and lush foliage. A figure, clad in a dark jacket and pants and carrying a prominent black and grey backpack, walks along the path, which is bordered by dark metal fences. Distant park benches and lampposts are discernible under a soft, natural daylight illumination.",
+  "image_content_sha256": "cf41537bf7020495df160b2cd71f4df87bc96a01350a5dd973312c05ce5d95d9",
+  "prompt_sha256": "3ad4b8d7a1e9e8d1c66a8b0f241531c21cf193204305b5aafeb1a748f769cfdc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

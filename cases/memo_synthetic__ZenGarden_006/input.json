@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_006",
+  "prompt": "First person view as a person walking in Zen Garden sees a nearby person (subject) in front walking from right to left, while a distant person in the front-left runs toward the observer. As the observer continues to walk forward and passes the person, the subject exits the FOV. Observer follows a curved path to the left and performs a U-turn around the tree trunk and keeps walking forward and re-sees the subject in its FOV who keeps walking towards right and having continued walking with continuous motion.",
+  "image_content_sha256": "a7db99a79bf2e0ff01eb660e47d565a079226a09bec6c69679a2e3761db92dc3",
+  "prompt_sha256": "c86bf4810bcd6d7b832c7be806848bc0767892e1f1a7b2713268a378c02f184d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

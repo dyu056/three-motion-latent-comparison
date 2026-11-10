@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-93",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-93",
+  "prompt": "The scene unfolds within a grimy, industrial interior featuring concrete walls, exposed metal structures, and reflective tiled floors. A prominent, pale humanoid statue stands on a pedestal, surrounded by multiple screens displaying \"NO SIGNAL\" icons and walls marked with graffiti. The atmosphere is dimly illuminated by contrasting neon strip lights and overhead spotlights, casting an eerie, artificial glow across the derelict environment.",
+  "image_content_sha256": "4682a9e21a77aee7c84d0803f45c8ee281e073fda49b3b59e7fe807d64582487",
+  "prompt_sha256": "6de260620e761d83d5d3023163f44ce3d35839b1152c12aba0606b78328ddfa3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

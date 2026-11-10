@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__011",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__011",
+  "prompt": "A first-person view of a clear glass of water with a small marshmallow sinking quickly to the bottom. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the marshmallow has completely dissolved and the water has turned a soft yellow color.",
+  "image_content_sha256": "cdb0bd2bbfa35425093d182225b83ba80f73877feb5c88ed006111f10f9654ca",
+  "prompt_sha256": "80c1f0e6bccc503c91367d7b27882ed3f8872d39db528636cd80f227551e442a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

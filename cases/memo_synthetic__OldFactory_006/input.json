@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_006",
+  "prompt": "First person view as a lion running in an old factory sees a nearby person (subject) in the front-left running toward the observer's back-right, while a distant person in the front-right runs left. As the observer continues to run and passes the person, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps running forward and re-sees the subject in its FOV who keeps running towards front-left and having continued the run with continuous motion.",
+  "image_content_sha256": "56eaa6ba9eb90244152058070e93fc3d6f6ebd1f8a75365385d26a1ad1a9563b",
+  "prompt_sha256": "28f4b37ff9aa8c5a870e783853483fa19ad6969e104897f2d86327aec29d8051",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_020",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_020",
+  "prompt": "First person view running forward on a New York street sees a wolf (subject) in the front-left running forward, while another person in the front-right runs forward and a fox in front runs toward the observer. As the observer continues to run and passes the wolf, the subject exits the FOV. Observer turns to the left while keeps running and then re-sees the subject in its FOV and having continued the run towards right with continuous motion.",
+  "image_content_sha256": "7b4ac1773d82b00bc335cd9fd2b6c63b372c0eea04fdc8e53cb6fbb60bbb5d94",
+  "prompt_sha256": "9eead45e1e4cabc7d453454e988a492f9e9efc5a2f5bb769dc14252fb8fc8af5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

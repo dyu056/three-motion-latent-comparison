@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__063",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__063",
+  "prompt": "A first-person view of a clear measuring cup into which Sprite has just been poured, generating abundant bubbles. The camera smoothly pans to the left, causing the cup to gradually exit the field of view. The camera then pans back to the right, and the cup re-enters the frame, revealing that the bubbles have completely dissipated and the Sprite sits still and flat in the cup.",
+  "image_content_sha256": "9d76874b056f17a952c2d2d4e5d08621a1b2b9dc3bcd1d5abdf7919ce48f2040",
+  "prompt_sha256": "b0e3cdec6bc1cdd5236b03334a28f94b02c750b60a0e7bb3111d2970ac0b275f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

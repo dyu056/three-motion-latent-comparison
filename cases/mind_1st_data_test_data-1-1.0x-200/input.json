@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-1-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-1-1.0x-200",
+  "prompt": "The interior of a rustic, two-story establishment features dark wooden floors, ceilings, and wainscoting, complemented by deep red walls. A prominent wooden bar with stools and shelves stocked with bottles anchors one side, while multiple round tables with chairs are distributed throughout the main floor. Decorative wagon wheels, framed pictures, and a grand wooden staircase leading to a balcony complete the scene, which is warmly illuminated by natural light from several windows and artificial fixtures.",
+  "image_content_sha256": "86040e86c4f5b2d28179c44eb55efbf501c8235f50bcabbe56be4dc1f6070490",
+  "prompt_sha256": "3b43247b2dd5238432e3d69f8cbb2fddaa9b8935bdff68ddf52d965554a56a87",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

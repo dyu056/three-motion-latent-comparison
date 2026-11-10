@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-44",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-44",
+  "prompt": "A richly appointed, wood-paneled room, likely a library or study, features dark leather Chesterfield seating arranged around a central coffee table on a patterned rug. Extensive wooden bookshelves filled with volumes and a long cabinet with multiple drawers line the walls. Dramatic shafts of sunlight pierce through venetian blinds, casting strong geometric patterns across the floor and furniture, contrasting with the warm, ambient glow from the chandelier and lamps.",
+  "image_content_sha256": "c31129304aa4b338b665b0c1b91829053eccdcb8fdb57c7206756e084762372b",
+  "prompt_sha256": "07bc533366bbbcbe5f03cbb788dcdb989c9342505b021771898519452560c51a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

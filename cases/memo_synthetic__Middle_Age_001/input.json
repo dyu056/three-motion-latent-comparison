@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_001",
+  "prompt": "First person view as a wolf on a street in a medieval village is moving straight ahead and sees a pig(subject) walking from left to right. Observer jumps up and the subject exits the FOV. Observer then lands and keep running forward and re-sees the subject in its FOV and having continued walking towards right with continuous motion.",
+  "image_content_sha256": "08239709133bb350fb17ad456f19df38e687e0e49e8d64e373976d564ce6839b",
+  "prompt_sha256": "69cd7cdb59973a30df501d572e21f27efafa6c090f055631a67fac0efe213ee6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

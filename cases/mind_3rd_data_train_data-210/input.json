@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-210",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-210",
+  "prompt": "A dark, enclosed urban corridor features a humanoid figure in a black, reflective suit with prominent orange-red glowing accents moving away from the viewer. Corrugated metal doors flank a central opening, above which a rectangular white sign emits a soft illumination. The wet-looking, dark floor reflects the ambient light, while a distinct red glow emanates from the space beyond the central aperture.",
+  "image_content_sha256": "8c08481e72ff6766b766ee6eb9e87c3ff3298705a0fa56ad9255a68bf90c7449",
+  "prompt_sha256": "01c9cdb09ca8d62b35ef3ed0b23afb2b6250622623950b481eeee1572c522b31",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

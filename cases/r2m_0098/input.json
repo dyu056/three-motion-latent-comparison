@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0098",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0098",
+  "prompt": "A 1990s shopping mall parking lot, one shopping cart corral, tall neon sign, storefront facade, few light poles, broad nostalgic suburban space, strong orientation",
+  "image_content_sha256": "60cf6a565a82e65355c70aeb4782dfe896fc4bf4ebafdc16d1bb2ff546401a0c",
+  "prompt_sha256": "91140a153036790243fc5275921534e00fe0ea7f79a535256d690858d62bbf5e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

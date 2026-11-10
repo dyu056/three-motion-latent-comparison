@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__243",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__243",
+  "prompt": "A first-person view of a glass cup on a table with water being poured in from a bottle. The camera smoothly pans to the left, causing the cup to gradually exit the field of view. The camera then pans back to the right, and the cup re-enters the frame, revealing that significantly more water has been poured into the cup, raising the water level noticeably.",
+  "image_content_sha256": "a6bc2c3d33e3a33f1b11c335808eda435aaf1fef18069f1c5fb2461a6da590b5",
+  "prompt_sha256": "f18eb53afbdbbd45b03e2ddba96110d6e472e743baca9286188e7587cb058b94",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__240",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__240",
+  "prompt": "A first-person view of a glass into which purple carbonated drink has just been poured, generating abundant foam. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the foam has completely settled and the carbonated drink sits flat and calm in the glass.",
+  "image_content_sha256": "8404f63d0bdef6963cc808a8c5380b4651c3098f4f5e357ad0a43b238fd4bcad",
+  "prompt_sha256": "f1c09ce9359bad4eab95884cb0083abe3a0d66aa32758b84b711e2d433604dd8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

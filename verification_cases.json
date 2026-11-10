@@ -1,0 +1,4266 @@
+{
+  "passed": true,
+  "count": 710,
+  "cases": [
+    {
+      "scene_id": "memo_real__001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__020",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__021",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__022",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__023",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__024",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__036",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__037",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__038",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__040",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__042",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__043",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__044",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__045",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__046",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__047",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__048",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__049",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__050",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__051",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__052",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__053",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__055",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__056",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__057",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__058",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__060",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__061",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__062",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__063",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__064",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__065",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__066",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__069",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__070",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__072",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__075",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__076",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__077",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__078",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__079",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__080",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__081",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__082",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__083",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__084",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__085",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__086",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__087",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__088",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__089",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__090",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__091",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__092",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__093",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__095",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__096",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__097",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__099",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__100",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__102",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__103",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__105",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__107",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__117",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__118",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__119",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__120",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__122",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__134",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__138",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__139",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__144",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__145",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__146",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__147",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__148",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__149",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__154",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__156",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__157",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__158",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__159",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__160",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__165",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__166",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__167",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__168",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__169",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__170",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__171",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__172",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__173",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__178",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__179",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__180",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__182",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__191",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__192",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__194",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__195",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__204",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__205",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__206",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__209",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__210",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__211",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__212",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__214",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__216",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__218",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__219",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__220",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__221",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__222",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__224",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__234",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__236",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__237",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__238",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__239",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__240",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__241",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__243",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__246",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__247",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__248",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__249",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__251",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__252",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__253",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__254",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__256",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__257",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__259",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__260",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__261",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__264",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__268",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__269",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__270",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__272",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_real__273",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Barnyard_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityPark_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityStreet_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityStreet_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityStreet_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__CityStreet_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Havana_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__HongKong_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Japanese_Street_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_020",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_021",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Miami_022",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Middle_Age_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYC_East_019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__NYstreet_020",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__Nordic_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__OldFactory_020",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__WinterTown_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "memo_synthetic__ZenGarden_017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-0-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-1-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-10-0.8x-125",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-11-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-12-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-13-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-14-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-15-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-16-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-17-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-18-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-19-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-2-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-20-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-21-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-22-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-23-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-24-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-25",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-26",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-27",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-28",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-29",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-3-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-30",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-31",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-32",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-33",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-34",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-35",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-36",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-37",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-38",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-39",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-4-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-40",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-41",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-42",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-43",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-44",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-45",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-46",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-47",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-48",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-49",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-5-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-50",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-51",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-52",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-53",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-54",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-55",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-56",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-57",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-58",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-59",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-6-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-60",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-61",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-62",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-63",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-64",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-65",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-66",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-67",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-68",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-69",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-7-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-70",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-71",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-72",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-73",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-74",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-8-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_test_data-9-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-100",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-101",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-102",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-103",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-104",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-105",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-106",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-107",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-108",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-109",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-110",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-111",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-112",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-113",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-114",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-115",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-116",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-117",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-118",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-119",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-120",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-121",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-122",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-123",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-124",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-75",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-76",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-77",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-78",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-79",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-80",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-81",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-82",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-83",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-84",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-85",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-86",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-87",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-88",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-89",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-90",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-91",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-92",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-93",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-94",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-95",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-96",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-97",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-98",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_1st_data_train_data-99",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-125-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-126-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-127-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-128-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-129-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-130-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-131-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-132-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-133-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-134-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-135-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-136-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-137-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-138-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-139-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-140-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-141-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-142-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-143-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-144-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-145-1.2x-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-146-1.4x-250",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-147-0.8x-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-148-0.6x-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-149-1.0x-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-150",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-151",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-152",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-153",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-154",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-155",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-156",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-157",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-158",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-159",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-160",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-161",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-162",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-163",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-164",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-165",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-166",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-167",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-168",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-169",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-170",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-171",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-172",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-173",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-174",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-175",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-176",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-177",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-178",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-179",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-180",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-181",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-182",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-183",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-184",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-185",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-186",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-187",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-188",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-189",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-190",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-191",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-192",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-193",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-194",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-195",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-196",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-197",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-198",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_test_data-199",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-200",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-201",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-202",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-203",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-204",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-205",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-206",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-207",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-208",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-209",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-210",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-211",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-212",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-213",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-214",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-215",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-216",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-217",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-218",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-219",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-220",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-221",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-222",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-223",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-224",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-225",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-226",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-227",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-228",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-229",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-230",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-231",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-232",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-233",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-234",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-235",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-236",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-237",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-238",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-239",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-240",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-241",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-242",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-243",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-244",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-245",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-246",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-247",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-248",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "mind_3rd_data_train_data-249",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0001",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0002",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0003",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0004",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0005",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0006",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0007",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0008",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0009",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0010",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0011",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0012",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0013",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0014",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0015",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0016",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0017",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0018",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0019",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0020",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0021",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0022",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0023",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0024",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0025",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0026",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0027",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0028",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0029",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0030",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0031",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0032",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0033",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0034",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0035",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0036",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0037",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0038",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0039",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0040",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0041",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0042",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0043",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0044",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0045",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0046",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0047",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0048",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0056",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0057",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0058",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0059",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0060",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0061",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0062",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0063",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0064",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0065",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0066",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0067",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0068",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0069",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0070",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0071",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0072",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0073",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0074",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0075",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0076",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0077",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0078",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0079",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0080",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0081",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0082",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0083",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0084",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0085",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0086",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0087",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0088",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0089",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0090",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0091",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0092",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0093",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0094",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0095",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0096",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0097",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0098",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0099",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0100",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0101",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0102",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0103",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0104",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0105",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0106",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    },
+    {
+      "scene_id": "r2m_0107",
+      "passed": true,
+      "fp64_metric_check": true,
+      "raw_and_videos_checked": false
+    }
+  ]
+}

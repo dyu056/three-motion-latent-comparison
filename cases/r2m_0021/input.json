@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0021",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0021",
+  "prompt": "A spacious museum hall, one dinosaur skeleton centerpiece, long benches, a large skylight, directional signage, polished floor reflections, open interior, photorealistic, recognizable landmarks",
+  "image_content_sha256": "132c2135a6f110c5d0681a5c05d6e039d8e8cecabe0561115143cf824966a2ce",
+  "prompt_sha256": "ba9e78601f54653b78280c5be640e7764b1b9212bb68a72e076baef1cfe5c1a3",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

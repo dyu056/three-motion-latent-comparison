@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-75",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-75",
+  "prompt": "A futuristic, multi-level industrial interior features dark concrete walls and a contrasting light blue corridor. Metal truss structures and lush foliage, illuminated by vibrant red and blue light, define the lower sections, while neon blue lines outline floor pathways. Large wall panels display glowing white and red holographic projections of text, code, and geometric shapes, complemented by a thick, multi-colored cable snaking across the corridor floor, all bathed in an atmosphere of green and blue architectural lighting.",
+  "image_content_sha256": "9abd1566c40ad4b699595994a80d990885eb304793ad42076a986cb83d9bf8fc",
+  "prompt_sha256": "3a0c18fbd7e4ea5bdb92225f8b28cd4f387524dbacd499c834f6c8117fc4768d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

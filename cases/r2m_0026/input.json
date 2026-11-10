@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0026",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0026",
+  "prompt": "A modern art gallery room, one massive abstract painting, a white bench, polished concrete floor, high ceiling track lights, open negative space, realistic, memorable visual anchor",
+  "image_content_sha256": "851ca7418c717c547fb3bf275a62ab81cadb7aa0b67369b0f5ee7e7d6448d3d2",
+  "prompt_sha256": "49008bc7fef6fe86534acdbdf60297edeb8ac67ffdb42722c63034ccb9d2c30e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

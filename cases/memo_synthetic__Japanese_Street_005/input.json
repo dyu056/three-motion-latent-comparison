@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_005",
+  "prompt": "First person view on an electric scooter on a Japanese street sees a nearby person(subject) crossing from left to right, while a distant person runs toward the observer's back left. As the observer continues to ride forward, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps riding forward, and re-sees the subject in its FOV who keeps walking towards front-left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "0af9965aeac478ec7a839d1aa58de9a25f43022aaaa122ca812cce838e3efb6c",
+  "prompt_sha256": "4c984521b9fcbaf2830663fe3453f9290a5cbe5e0f12cae65b4c793e35951c02",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

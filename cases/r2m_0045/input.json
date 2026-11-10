@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0045",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0045",
+  "prompt": "A volcanic plain with black sand, one research rover, orange marker flags, a basalt outcrop, cloudy dramatic sky, spacious realism, high scene readability",
+  "image_content_sha256": "dbfedc16e5992ad0abf853e89b6d9d364883b8da764a2e1538608e946efeeb59",
+  "prompt_sha256": "ed0879534ebdd5119055253a495773f49e4f54f5ff2bb3ba2ed9c239d51ebd18",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

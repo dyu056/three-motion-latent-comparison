@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__138",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__138",
+  "prompt": "A first-person view of a beaker of clear water on a table with soy sauce being dripped in. The camera smoothly tilts upward, causing the beaker to gradually exit the field of view. The camera then tilts back down, and the beaker re-enters the frame, revealing that the soy sauce has dissolved and diffused throughout the water, turning it a uniform dark brown.",
+  "image_content_sha256": "62810daafb8cca7cf59b45eab3e0bde86be9c6e23b7d5084241fe5a2e497124c",
+  "prompt_sha256": "ad115ea2983b7ecba933d5643d2406ee875fa04dbfef178ade6d860fdfd91922",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

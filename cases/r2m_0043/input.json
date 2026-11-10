@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0043",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0043",
+  "prompt": "A grassy hilltop with ancient standing stones, one wooden sign, winding footpath, open moorland, naturalistic lighting, spacious composition, strong landmarks",
+  "image_content_sha256": "40850ca615c493491fb8a1ae0342c9782019a0b83a9a13f5c1d42703873b1483",
+  "prompt_sha256": "e986ee67e9524322353b3d13be9c566e6665c494a5df7cfe8b3be808b961ca55",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

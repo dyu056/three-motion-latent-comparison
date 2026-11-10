@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_007",
+  "prompt": "First person view as a person standing on a Havana street sees a nearby person (subject) crossing from front to front-left, while a distant person in the front runs toward the front-left. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and then re-sees the subject in its FOV which keeps walking towards front-left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "7696efa476c4a1078da814a40beddca353e63ec1ceec4d45084df55ab090452b",
+  "prompt_sha256": "81f52e23ce72ac2e00014d0d103a40351c6fad1ed0191344182e9180156085fb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

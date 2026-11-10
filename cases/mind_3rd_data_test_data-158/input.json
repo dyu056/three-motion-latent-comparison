@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-158",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-158",
+  "prompt": "The scene depicts a dimly lit, cluttered outdoor environment resembling a junkyard or makeshift settlement, dominated by a rustic shelter with a corrugated metal roof and wooden frame. Numerous rusty corrugated metal sheets form walls, while stacks of old tires and weathered metal barrels are scattered across the dirt ground. Artificial light sources cast sharp shadows, creating a stark and gritty atmosphere against the dark background.",
+  "image_content_sha256": "01d0f6481a1d97ba820dabea8bb534888af67fa3f0b3a320181debcca04f8116",
+  "prompt_sha256": "f07fdd28166410d674191560768ccf8ba103b2896b48547df480fca7d6f31cea",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-111",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-111",
+  "prompt": "The scene depicts a dark, expansive void above a segmented, textured ground plane, which features embedded glowing blue-green patterns and occasional warm orange illumination. Tall, translucent blue-green panels with etched designs rise from the surface, alongside smaller glowing blocks. Irregular, glowing orange-hued rock fragments are suspended within the deep black expanse, creating a high-contrast, ethereal environment.",
+  "image_content_sha256": "e2c0b416cec007481c6654408d0d0add539c607b7fddbf44538a6224f322b5e9",
+  "prompt_sha256": "4323b83359289842890cf887b5597a35d23ffab493a305708255b24e0ebc5a5c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-180",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-180",
+  "prompt": "An expansive, multi-level industrial facility features a complex network of overhead pipes, conduits, and structural beams. A figure wearing a dark backpack walks along a metal walkway with mesh railings, overlooking a lower section characterized by blue-paneled walls, yellow safety barriers, and a prominent \"CAUTION\" sign. Artificial overhead lighting illuminates the functional architecture, creating stark contrasts between brightly lit areas and deep shadows along the path.",
+  "image_content_sha256": "6470a34b6e08273adf8d8a0c145262a57c8d8eedd7096acd0b6e04d89ce1a686",
+  "prompt_sha256": "98f4a02b6852d023e8425165abe92586bab82bc5b970555f14ce289e86ec5e36",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

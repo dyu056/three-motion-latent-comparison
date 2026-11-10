@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-123",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-123",
+  "prompt": "A grand, dimly lit banquet hall features dark wooden ceilings and walls adorned with ornate, patterned wallpaper, while the floor is laid with dark parquet. Multiple long wooden tables are meticulously set with an opulent feast of fruits, breads, and drinks, surrounded by wooden chairs and accented by decorative rugs. The entire space is bathed in the warm, flickering glow of countless candles and candelabras, creating a dramatic and intimate atmosphere amidst deep shadows.",
+  "image_content_sha256": "d9bf3d27e79fa72d8242dd30667b73f0783bfba52cdb031dc2699491d66d7122",
+  "prompt_sha256": "c52e8f633b3c061357dcb04c6371821215ec37b5321a8c4455ff689085a94b52",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

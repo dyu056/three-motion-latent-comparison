@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__144",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__144",
+  "prompt": "A first-person view of a chocolate sauce bottle held upside-down with its cap open, chocolate slowly dripping out. The camera smoothly pans to the right, causing the chocolate sauce to gradually exit the field of view. The camera then pans back to the left, and the chocolate sauce re-enters the frame, revealing that the chocolate sauce has continued to drip and accumulated into a larger, rounder mound below.",
+  "image_content_sha256": "af637f6d0148dda7a3e7ed4d873b725760f8c1e6a25c4de3be46fc5928ebd006",
+  "prompt_sha256": "0dfd3453863a0f026370af401899e26baf8c61ed503b8f5bda5a8a448ed6fc45",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

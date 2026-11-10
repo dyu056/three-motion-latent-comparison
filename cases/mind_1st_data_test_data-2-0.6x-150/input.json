@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-2-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-2-0.6x-150",
+  "prompt": "The scene portrays a rustic, two-story wooden saloon interior characterized by rich red walls and wide plank flooring. A long, ornate wooden bar with stools dominates the main floor, flanked by several round tables and chairs, while a grand staircase ascends to a balustraded upper level. Warm, ambient lighting emanates from ceiling fixtures and windows, illuminating decorative wagon wheels, barrels, and shelves filled with bottles.",
+  "image_content_sha256": "495b176e6dd44d9f5f1bd76879375d999424e03c9f9271d223741b710ecda907",
+  "prompt_sha256": "dbc630c6b92f1fa2243f695786c14bcf9eba093bbe78aaa0e4e9f1e0add3fd4b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

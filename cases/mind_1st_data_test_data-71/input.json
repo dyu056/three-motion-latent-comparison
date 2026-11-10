@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-71",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-71",
+  "prompt": "The scene presents a well-lit industrial warehouse interior, dominated by multiple tall metal shelving units densely packed with cardboard boxes and wooden pallets. On the concrete floor, a substantial stack of empty wooden pallets is visible, alongside scattered cardboard pieces, a coiled cable, and two industrial barrels. Bright artificial overhead lighting combines with intense natural light streaming from a large, distant open doorway, illuminating the stark, functional space.",
+  "image_content_sha256": "48bef4fae5e70d4e218c382822d05031c1e42337f68a911d7f954b4d1f0be832",
+  "prompt_sha256": "22965026de81ee6968026c4156f94a1b813c8273f5cb8188fb6da5d2828402af",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

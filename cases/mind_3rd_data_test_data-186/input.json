@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-186",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-186",
+  "prompt": "The scene presents an expansive, ancient or futuristic architectural complex characterized by monumental, weathered stone structures and abstract arches integrated into a lush, alien landscape. A male figure, dressed in a dark grey textured jacket and matching trousers, stands centrally on a light grey paved platform adorned with vibrant purple flowering flora. Bright, clear daylight illuminates the environment, casting soft shadows and highlighting a circular, metallic-toned object partially embedded in the ground to the right.",
+  "image_content_sha256": "1b8451b378095ffd9f27b33eaa5de831db869d253c6c90a0c633cccb0fa42a41",
+  "prompt_sha256": "cf70635adb9bb7e83d08a8441c77464e54f687db514223518b24a9432eabda3c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

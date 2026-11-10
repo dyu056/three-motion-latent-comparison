@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_003",
+  "prompt": "First person view on a tractor in the countryside is moving straight ahead and sees a person(subject) walking from the right to left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps driving forward and re-sees the subject in its FOV who keeps walking towards right and having completed the crossing with continuous motion.",
+  "image_content_sha256": "3ae3426773130e4e9bd1083ed6ecdddbd5e5ec726636052839fd6a6a3ad3b4b9",
+  "prompt_sha256": "f91a5c00ab18972bee531c678979a520e1712317957edd90d9e2a2503cea2b79",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

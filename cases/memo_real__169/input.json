@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__169",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__169",
+  "prompt": "A first-person view of a clear glass with a small amount of dish soap, with water being poured in. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the water and dish soap have produced a large amount of dense foam filling the glass.",
+  "image_content_sha256": "8f55f310eceb0bc0340f023e797937604e8ad93e7c714110ec0ce3c0b937dece",
+  "prompt_sha256": "dc8421d622f70cbdfc317e07bcbb0221e8b6f763b401e7c0e834e10dd5d99d2b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-110",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-110",
+  "prompt": "A stylized, retro-themed kitchen and dining area are depicted, featuring vibrant teal cabinetry, green tiled backsplashes, and red dining furniture. The kitchen is equipped with a stove, refrigerator, microwave, and various utensils, complemented by framed rooster artwork and natural light from a window. A pineapple-shaped ceiling lamp illuminates the red dining table and chairs, which rest on a patterned rug, creating a cozy, warmly lit interior.",
+  "image_content_sha256": "415c8e13f1dec205329f6fb7a4a76167e3ce1f3dec1f9ee5c1e0d20ac2bcaf60",
+  "prompt_sha256": "2afab23cc630747bd1d1ad00ebebae27c94119ee9f7529ef25326652e16670a7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

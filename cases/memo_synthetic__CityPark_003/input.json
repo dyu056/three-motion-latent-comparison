@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_003",
+  "prompt": "First person view as a person in a city park is moving straight ahead and sees a sports car(subject) driving on the road from the left to right. Observer passes the vehicle (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV which keeps driving towards left and having continued driving with continuous motion.",
+  "image_content_sha256": "5f640e85ac1cf977588bb429ddb6a0b6b69bcac870f8fe0e26b9c344b6088209",
+  "prompt_sha256": "b13bcc5f2e55c303f9aa4b5dbe6529d48a02b285b20be6660177d27a5f021456",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

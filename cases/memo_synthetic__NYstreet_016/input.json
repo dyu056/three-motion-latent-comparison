@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_016",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_016",
+  "prompt": "First person view as a car driving forward on a New York street sees a person (subject) in the front-left walking toward the front-right, while another person further in the front-left runs toward the back-right and a fox in the front-right runs toward the back-left. As the observer continues to drive forward and passes the person, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps driving forward and re-sees the subject in its FOV who keeps walking towards left and having continued walking across the road with continuous motion.",
+  "image_content_sha256": "f6757cc641d14f9236240604a553793f129a688a0cbaa2b6eddb899323a6173d",
+  "prompt_sha256": "1870632bf0cac1a3e851a36f734e71ede8fe834eee7b5090458a028838bcac44",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

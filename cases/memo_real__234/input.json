@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__234",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__234",
+  "prompt": "A first-person view of a glass of hot water on a table with a laundry pod being dropped in. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the laundry pod has dissolved, its outer shell breaking open and releasing its contents into the water.",
+  "image_content_sha256": "f76bd69b20f298c086d8a9aee9af8727cf84adc0342d3dc7be63dea2237fdbac",
+  "prompt_sha256": "90d11cd4cf96457558efe001fb10ec511175070b76807e19a6aeea027c31407d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

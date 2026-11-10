@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-51",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-51",
+  "prompt": "The scene presents a dark, futuristic interior hall, characterized by an intricate network of bright yellow-orange neon-like conduits tracing across the metallic ceiling. Paneled walls display glowing red grids and a prominent \"CAUTION\" emblem, while the tiled floor features illuminated blue-cyan hexagonal sections. A sleek, yellow and white futuristic vehicle is parked on the right, all bathed in the vibrant, artificial glow of the high-tech environment.",
+  "image_content_sha256": "239d2955e44f693259eb69b006558aa630bd62c7b8e9583487b478c15d2fdb81",
+  "prompt_sha256": "2aba05e086ab4e905b049afc06173e44c508b1e28cc9e93ef4869e173a5ceb77",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

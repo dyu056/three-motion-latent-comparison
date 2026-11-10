@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-216",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-216",
+  "prompt": "A male figure, wearing a dark jacket and backpack, walks along a snow-dusted dirt road marked with tire tracks. The road is bordered by a rustic wooden fence and leads through a winter landscape of snow-laden evergreen trees and distant, hazy mountains. An overcast sky provides soft, diffused light, creating a cool, muted atmosphere across the frozen terrain.",
+  "image_content_sha256": "51d2adca9727ed801955aaf726056c21c5e33efb3323f6a0e3d07afc99476f52",
+  "prompt_sha256": "c488f2210f6d204c71ed58a96a75efe75bce12afb592d4225a355e28b4e6bba8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

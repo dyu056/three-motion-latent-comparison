@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_005",
+  "prompt": "First person view as a person on a Nordic street is standing still and sees a wolf(subject) crossing the road from left to right. Observer jumps up and the subject exits the FOV. Observer lands and then re-sees the subject in its FOV and having continued walking towards right with continuous motion.",
+  "image_content_sha256": "e60eeb2ed3d02b6903469a71a68025426991c4bb4ed1c642b9943e1651622307",
+  "prompt_sha256": "9b96108357925ac7e9b5564a0be472fe7788b4d8e1c20aee679bf7f23dbde58f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_014",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_014",
+  "prompt": "First person view as a person standing in a zen garden sees a bird (subject) in the upper-front flying toward the upper-right, while a person in the front-right walks from right to left and another person in front walks toward the observer's back-right. As the bird continues to fly, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's upper-left with continuous motion.",
+  "image_content_sha256": "a7a212bc786fcedfe78b37d0abf24318e4a6161a8aeb11778cd0d73f3333328f",
+  "prompt_sha256": "6ff8c376dd16eb136334ea9d0155cbb5e23373c1264a32d58928962feb4465ec",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

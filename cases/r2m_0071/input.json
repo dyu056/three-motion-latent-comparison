@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0071",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0071",
+  "prompt": "A giant empty room under open sky, one floating door, a stone fountain, a single cypress tree, tiled floor extending endlessly, surreal but spacious, recognizable anchors",
+  "image_content_sha256": "c1be560848079960c65ad0b00b8bdfa6948ad69e5ca38776e89275ff2766236b",
+  "prompt_sha256": "95b75104a1576af4eed4f9feb5f668096cbd223fa2fcefc0e2f595d24a28340c",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

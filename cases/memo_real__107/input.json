@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__107",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__107",
+  "prompt": "A first-person view of a memory foam pillow on a table with a deep indentation pressed into it. The camera smoothly tilts upward, causing the pillow to gradually exit the field of view. The camera then tilts back down, and the pillow re-enters the frame, revealing that the memory foam has slowly recovered and the indentation has largely filled back to its original shape.",
+  "image_content_sha256": "06626bf34e233319dcac8ea5bf89a7264a2f21d6253e811dc2c7b19f335b9f9a",
+  "prompt_sha256": "bab47c2eee29c27d1d0ead1b2765f289d4779553739b6da741c827201855c0f1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

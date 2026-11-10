@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-121",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-121",
+  "prompt": "The interior of a dimly lit diner or restaurant is visible, with large windows featuring horizontal blinds that overlook an expansive, overgrown outdoor landscape. The space is furnished with numerous booth seating arrangements and dark red tables, some accompanied by freestanding chairs, while wall decor includes a chalkboard menu, framed pictures, and a shelf unit displaying bottles. Warm artificial light sources illuminate the subdued interior, contrasting with bright exterior light that streams through the blinds, casting distinct horizontal patterns of light and shadow across the floor and walls, with tables often holding condiment dispensers and small potted plants.",
+  "image_content_sha256": "d8075e274ed1a1522f2e3b7fd878bedb3664b523c206c12aca1826472db00081",
+  "prompt_sha256": "8739fcb9573bf2fe707bcbab3b923671957a683c6a1b4b3040c76296f24246f2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

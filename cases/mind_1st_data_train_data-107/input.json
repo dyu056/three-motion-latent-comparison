@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-107",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-107",
+  "prompt": "The scene presents a dark, metallic, industrial interior, characterized by a futuristic aesthetic with exposed conduits and structural paneling. Dominant blue and red accent lighting illuminates various sections, highlighting stacked crates, control panels, and large cylindrical tanks. Prominent oval-shaped bulkhead doors, often shrouded in mist and emitting bright white light, serve as focal points within the dimly lit, cavernous spaces.",
+  "image_content_sha256": "018a25e383a5dffe82ed4c1a8cb91b99159d378961fa1d7bbd3ff482f4d02d9d",
+  "prompt_sha256": "f43109142c68aaa0b92909e046f927794f4253043274c75b95ff4de967a2494e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

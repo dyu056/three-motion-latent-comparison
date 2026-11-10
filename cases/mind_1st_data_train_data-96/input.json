@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-96",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-96",
+  "prompt": "The scene depicts an expansive outdoor courtyard, paved with large, light-toned stone tiles, enclosed by towering walls constructed from grey, rectangular stone blocks. Numerous tall, cylindrical stone columns with simple capitals punctuate the space, interspersed with various wooden furnishings such as barrels, cabinets, tables, and crates arranged along the perimeter and within the central area. Bright natural daylight illuminates the environment, casting long, sharp shadows across the ground and structures, creating a high-contrast, open-air atmosphere under a clear blue sky with scattered white clouds.",
+  "image_content_sha256": "b007fcb203a205aff48efe526465dc2045a237d4416f1b049b97fdbd5bfb52b5",
+  "prompt_sha256": "0c123426f10a33334f65db9ac24c0966b4139a29428a2022cb29cbcd540e89aa",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

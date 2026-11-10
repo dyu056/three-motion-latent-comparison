@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__057",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__057",
+  "prompt": "A first-person view of a glass of warm water with a medicine capsule being placed inside. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the capsule has sunk and partially dissolved, its outer shell breaking apart in the water.",
+  "image_content_sha256": "29a380a7104e93a5af3ea858d07ae3c8adf50bebdc3a55e4af9eb93fdcd15b32",
+  "prompt_sha256": "a017c5554214d39c940458b93a00eb9c6a016d393c5529de1273670baba48b07",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

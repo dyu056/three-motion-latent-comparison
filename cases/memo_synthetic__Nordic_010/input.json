@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_010",
+  "prompt": "First person view as a person standing by the river on a Nordic street sees a fox (subject) on the opposite bank in the front-right running from right to left, while another person further on the opposite bank runs left. As the fox continues to run, the subject exits the FOV. Observer turns the head to the left and then re-sees the subject in its FOV and having turned around to keep running in the opposite direction which is towards right with continuous motion.",
+  "image_content_sha256": "735b8dc12ee02b861d895eb45185f3240e0899240a74e3fd64c19af85ebd4ca5",
+  "prompt_sha256": "2a10d80d929f99fcf581b68521afda60fde3573e1c47240303a6a13a5e6fc0ea",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

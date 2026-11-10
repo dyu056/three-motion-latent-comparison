@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-209",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-209",
+  "prompt": "A sleek, futuristic metallic corridor, illuminated by cool blue and silver artificial light, extends forward with reflective wall panels and a polished floor. At its distant end, a large window frames a hazy cityscape under a twilight sky, contrasting with the interior's stark design. A figure in dark clothing and a black backpack walks centrally down the pathway.",
+  "image_content_sha256": "e346d616209508381ab66d23d29a234abf2a3f92312bab3e05a75ec35ce13137",
+  "prompt_sha256": "8b64a396171ae17cf61c62288f780ae096ef9a06cb43a7747b11eb18340f5d51",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

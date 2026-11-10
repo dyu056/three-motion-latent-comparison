@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-179",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-179",
+  "prompt": "A grand, ornate building with intricate arched windows and decorative stone latticework forms the backdrop, accessed by a wide stone staircase. A futuristic armored figure, predominantly black and grey with striking yellow highlights, is centrally positioned, moving towards the structure. The scene is bathed in bright, warm sunlight, casting sharp shadows and creating a vibrant, well-defined atmosphere.",
+  "image_content_sha256": "9f041e0ed07662d9d0398c36d9839abc523b2de03558669c01862a7758e6dc7d",
+  "prompt_sha256": "eecab3b315eade0b0b829920af675c008f7c50b48bd48ca6db16ad99cd7decd8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__246",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__246",
+  "prompt": "A first-person view of a glass cup on a table with puffed rice being poured in. The camera smoothly pans to the left, causing the cup to gradually exit the field of view. The camera then pans back to the right, and the cup re-enters the frame, revealing that considerably more puffed rice has been poured into the cup, filling it further.",
+  "image_content_sha256": "00845b843d330383091d7ba57008a1aec2b33d1ef09c6e4ea5aa4aaf22168560",
+  "prompt_sha256": "0f93f6acee81fe66c0aed74f4c0670f1b6a40dff73735ae36bd1bf564755424c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityStreet_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityStreet_001",
+  "prompt": "First person view as a person on a city street is moving straight ahead and sees another person(subject) crossing the road from the right to left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking towards right with continuous motion.",
+  "image_content_sha256": "891894cecffefdc8ccc7dfec4401276cff4d0c5fcf169074f7e3382783f6fbc7",
+  "prompt_sha256": "3752c7890eca57e71b4728352e045c7eed3f8a2bd9777da12957c05400e72058",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

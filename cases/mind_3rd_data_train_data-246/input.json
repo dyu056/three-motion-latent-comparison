@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-246",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-246",
+  "prompt": "The scene presents a sunlit pedestrian street or town square, bordered by multi-story brick buildings featuring storefronts and awnings. A wooden pedestrian bridge with dark metal railings spans a rocky, dry bed in the foreground, where a male figure in a dark jacket and backpack is positioned. Bright daylight filters through overhead trees, casting distinct dappled shadows across the brick-laid ground, illuminating streetlights with banners and landscaped planters.",
+  "image_content_sha256": "b958dc5773e9123bcaec765fe6f704c1c31394937b72c38a41422a558d607fb0",
+  "prompt_sha256": "3a2e497b54bf1349dd3303a8c8f17ee49d77530641cbec768459e5b989d10ce2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

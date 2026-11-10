@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0039",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0039",
+  "prompt": "A coastal cliff plateau, one stone trig point, a wooden bench, a warning sign, narrow trail to the edge, expansive sea view, photorealistic, easy-to-recognize landmarks",
+  "image_content_sha256": "915f131869673231cc7ad931568c54a25d66009a400fd0adcc42bca15de02361",
+  "prompt_sha256": "b35dc688c1950588c9d406f20d6bfaa297916f143ea238ea85093e6f9e5d19c5",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

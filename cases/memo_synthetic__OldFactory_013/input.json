@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_013",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_013",
+  "prompt": "First person view as a person standing in an old factory sees a bird (subject) in the upper-front flying toward the upper-right, while a person in front walks from right to left and another person walks from left to right. As the bird continues to fly, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's left with continuous motion.",
+  "image_content_sha256": "062d09fff33c4ea4a7e9bebfa27899aa523bab79a31b0a34611c9e9ea0f1dc9a",
+  "prompt_sha256": "be43c516e3b2b583a995b0d38e00e7a724202eaab9351c298108de39edbbf519",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

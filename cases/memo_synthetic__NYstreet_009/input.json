@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_009",
+  "prompt": "First person view as a person standing on a New York street sees a person (subject) in the front-right running toward the front-left, while another person further in the front-left crosses toward the right. As the observer turns the head upward, the subject exits the FOV. Observer turns the head back down and re-sees the subject in its FOV who keeps running towards front-left and having continued the run with continuous motion.",
+  "image_content_sha256": "f86fd8b40760048df42f23d3296e9e021128db46a9a006ebb2aa54f3a513c1ac",
+  "prompt_sha256": "dffb73f1db205cee8e0cb30b6107c624044c26ea8c530c3332b569eb5ec5446b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

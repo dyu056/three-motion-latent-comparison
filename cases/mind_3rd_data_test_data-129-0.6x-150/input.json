@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-129-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-129-0.6x-150",
+  "prompt": "A serene lake, reflecting dense green foliage, stretches across the background under a soft, diffused light, with a subtle mist obscuring the distant bank. In the foreground, a wide, terraced pathway of red brick pavers and grey stone steps descends, bordered by ornate stone balustrades. A male figure, clad in a dark leather jacket and a reflective backpack, walks down these steps, his back presented to the viewer.",
+  "image_content_sha256": "b3db6c4fadad155cd012e628ee1845bbd1a402b7f2057f74036cd80a65c02d27",
+  "prompt_sha256": "32be0feed8416b5e35dba4ef55b6a936996ad8e3c788eda3c6bd4ab50e620333",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

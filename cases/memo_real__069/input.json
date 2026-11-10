@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__069",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__069",
+  "prompt": "A first-person view of a clear glass of water on a table with a blue surfactant agent being added. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the surfactant has fully dissolved and the water has turned a vivid blue color.",
+  "image_content_sha256": "f5d9c17fe63fcfe6ccccbaf1823276a7b22ecae210719bfa4c97b3de1d5bfbde",
+  "prompt_sha256": "2684c00bfbbeb849bb0647b4e217100a76283d51a232a3a60105be88adde5bf5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

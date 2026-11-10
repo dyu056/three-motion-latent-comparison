@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_016",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_016",
+  "prompt": "First person view as a person standing on a slope in a zen garden sees a wolf (subject) in the lower-front running toward the back-right on a slope, while a bird in the front-right flies toward the upper-left and another bird in the front-left flies toward the observer's upper-right. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and then re-sees the subject in its FOV which keeps running towards back-right and having continued the run with continuous motion.",
+  "image_content_sha256": "625df7aba07b5a9b2cae9c6456ff4ae67622a3cf985725d99f46aeeda732e1a9",
+  "prompt_sha256": "f14530526bfe81b46343ce2c02a32028652b1ca37c2236bb4b9b90c9d341a119",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

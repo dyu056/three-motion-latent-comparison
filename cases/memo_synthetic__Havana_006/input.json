@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_006",
+  "prompt": "First person view as a person on a city street in Havana is standing still and sees a pig(subject) running from right to left. The subject exits the FOV, and the observer turns the head to the left. Observer then re-sees the subject in its FOV which keeps running towards front-left and having continued the run with continuous motion.",
+  "image_content_sha256": "44bbd90c56039a38f6d308bf006ee146c4e4de2210fd66fcd2a570b9ed831867",
+  "prompt_sha256": "cf28d6195450917e200a216c2841d444d4957614fda393636d6f1962d1bafd33",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-177",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-177",
+  "prompt": "A dense, verdant jungle environment, illuminated by the warm, golden light of dawn or dusk, features a rocky outcrop on the left and abundant green foliage throughout. A large, ancient stone structure, partially overgrown with vegetation, stands prominently on the right side of the frame. A male figure, dressed in dark clothing and carrying a black backpack, is positioned centrally on the dark green ground, facing the ruin.",
+  "image_content_sha256": "122d693138b223bc0a4769b23208119165b15b2d227c6c4166354de82b44cb99",
+  "prompt_sha256": "c80d904cb3f03555ec72bbd3e7c1d30b8821776846dbc274b23cb0022b9a7e2f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

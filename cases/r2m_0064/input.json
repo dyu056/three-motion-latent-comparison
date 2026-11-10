@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0064",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0064",
+  "prompt": "A vaporwave plaza, pink sun on horizon, checkerboard floor, one marble bust pedestal, palm trees in symmetric rows, open nostalgic virtual scene, strong visual anchors",
+  "image_content_sha256": "4ccdf1d5c92037c736d0d7ce69cdd5184ec47cf549d816c73fbb1cd3e00ac2c3",
+  "prompt_sha256": "264ffc6a8fded3a27bf83c6df84c3d6031a3d02771886383d95037a17413e99b",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__206",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__206",
+  "prompt": "A first-person view of a piece of cardboard standing upright with honey applied to its surface, slowly dripping downward. The camera smoothly tilts upward, causing the cardboard to gradually exit the field of view. The camera then tilts back down, and the cardboard re-enters the frame, revealing that the honey has dripped noticeably further down, forming longer golden streaks on the cardboard.",
+  "image_content_sha256": "6e059162c21d16d53276382668c38b201811d74276752977f3b9dc033be31da2",
+  "prompt_sha256": "4cd4165f86578ee794a3a2bc8fa05c3efa00fc858956abaed48a196d481ef6f1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

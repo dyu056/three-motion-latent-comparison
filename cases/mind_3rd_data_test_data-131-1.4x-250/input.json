@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-131-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-131-1.4x-250",
+  "prompt": "A pedestrian plaza with brick paving is illuminated by golden hour light, casting long shadows from trees and street furniture. A two-story building with a \"THRIFTY\" sign and striped awnings lines the left, while a lamppost with hanging baskets and \"DOWNTOWN WEST\" signs stands centrally. Benches are scattered throughout the sun-drenched scene, which features a male figure with a dark backpack traversing the path.",
+  "image_content_sha256": "6bde076f25014ec23ffb0f8ebd52217783ddd77f7f58c2d43f74931ff1a59e88",
+  "prompt_sha256": "333754afa55c101cdf73fd665a7e33be159583576abed8bf6eb6cc95cd4a40ff",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

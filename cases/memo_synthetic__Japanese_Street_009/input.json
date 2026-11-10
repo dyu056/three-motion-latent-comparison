@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_009",
+  "prompt": "First person view as a person standing on a Japanese street sees a bird(subject) in the upper-front flying right, while a person in front runs right. As the bird flies further away to the right, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV and having turned to fly toward the camera's upper-front-left with continuous motion.",
+  "image_content_sha256": "ff007dd24e5550a6eb160a5871ad0c6ad82fcc0e3b6bd22155364d1a765b4593",
+  "prompt_sha256": "90c55828567eb658545ad65fea4fbdd054f3b257f5456f51a3045e20f21819ac",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

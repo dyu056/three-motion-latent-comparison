@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0073",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0073",
+  "prompt": "A broad grass plain with oversized household objects, one giant chair, one standing mirror, a mailbox, long shadows, whimsical surreal realism, readable scene layout",
+  "image_content_sha256": "245fcf26990983acf60f7b9bfc2cbb181f17cf10c8e706f50c1d8d4b25d1e44b",
+  "prompt_sha256": "cfcdda9bd42dcb693aad4adf9ef4b143ad60e1db4122453ce6bd6af701e6003b",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_005",
+  "prompt": "First person view as a fox is running straight ahead in Zen Garden and sees a person(subject) moving from the right to left. Observer passes the subject (exits FOV) and follows a curved path and performs a U-turn to the left. Observer keeps running forward then re-sees the subject in its FOV and having continued walking towards right with continuous motion.",
+  "image_content_sha256": "8b2cc1059db25d08663d558de828076fc43a122cb2251eb38b8d475329aacccd",
+  "prompt_sha256": "ad9ebfee397b6799d921ec626507435534aaa85d3be6792f4cea60cf7ff696c9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-53",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-53",
+  "prompt": "The scene presents an organized industrial warehouse with a concrete floor marked by white lines and a high metal-trussed ceiling featuring skylights. Tall, multi-tiered metal shelving units, densely packed with cardboard boxes and blue plastic crates, flank the central aisle. A large, brightly illuminated roll-up door dominates the far end, complemented by a wooden workbench, a stool, and a metal barrel in the foreground, all under a mix of natural and artificial light.",
+  "image_content_sha256": "eacc0c17bcf4c5f2bc7d17ebfe595673ab9b85b1e925b2ab4a9545141013af80",
+  "prompt_sha256": "d6554f068f3a8add9628de35a5d9e79906f35a41a4fb83d3678169eb72e4224c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

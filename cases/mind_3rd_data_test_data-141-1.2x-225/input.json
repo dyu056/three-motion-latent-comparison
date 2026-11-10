@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-141-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-141-1.2x-225",
+  "prompt": "A vast, arid landscape dominates the scene, characterized by dark, undulating hills and distant reddish-brown rock formations under a partially cloudy sky. In the foreground, a figure wearing a dark jacket, jeans, and a backpack walks across a steep, shadowed slope. Dramatic, low light bathes the rugged terrain, emphasizing deep contours and the stark, desolate atmosphere.",
+  "image_content_sha256": "d5c106ef182dcd6a66e87178924cd4accb189b3e2f3278261dd13ffaeee73ae7",
+  "prompt_sha256": "ab6a26bb53652beb3d498d9aea0c6223c6d918f47e620d06560f5fb5c33db306",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

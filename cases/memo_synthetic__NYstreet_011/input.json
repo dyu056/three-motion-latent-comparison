@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_011",
+  "prompt": "First person view as a person standing on a New York street sees a bird (subject) in the upper-front falling toward the lower-right.  As the bird continues to fall and drops out of range, the subject exits the FOV. Observer bows the head and then re-sees the subject in its FOV and having started walking to the left with continuous motion and sees another person in front walks toward the right..",
+  "image_content_sha256": "cd13b86f02901f915a4853dbe661f700cc4514792500faf987d54414da67fe74",
+  "prompt_sha256": "31cfc1a68e57f100029ac5addc0fcc19d3ae4b20fcce247827b04663e78ae317",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

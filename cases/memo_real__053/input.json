@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__053",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__053",
+  "prompt": "A first-person view of a test tube filled with cola on a lab stand, with salt being added. The camera smoothly tilts upward, causing the test tube to gradually exit the field of view. The camera then tilts back down, and the test tube re-enters the frame, revealing that the cola is erupting with a large surge of foam and bubbles.",
+  "image_content_sha256": "ff0cf00dcb56c2c628e7387a04c0ef064dde4a858a76cd5763ab5c7394a7eafb",
+  "prompt_sha256": "b3c91333cc4d77c682300d1ad48bd3a9c8005a9cacfb51146c4944a899a3ba33",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

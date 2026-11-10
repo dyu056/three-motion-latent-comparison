@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-166",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-166",
+  "prompt": "A solitary figure, clad in dark attire, stands centrally on a vast, arid desert plain. Distant, low-lying mountains define the expansive horizon under a clear, bright sky. The scene is intensely backlit by a brilliant, high sun, casting a prominent silhouette and a long shadow directly forward across the textured ground.",
+  "image_content_sha256": "3922c44adfae9233a894e9da9173fef88594b10c2f36ecb95e61981a634ee515",
+  "prompt_sha256": "8ab00b63aa9009f2fb66dc7d852b6acdf26288b1be140fb369a009845658d462",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

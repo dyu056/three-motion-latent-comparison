@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-125-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-125-0.8x-175",
+  "prompt": "A dense, sun-dappled jungle environment is illuminated by warm, golden hour light, casting long shadows across the verdant ground. A male figure, dressed in a dark jacket and trousers with a black backpack, walks across the grassy, rocky terrain. In the background, an ancient stone temple ruin is partially obscured by lush trees and ferns.",
+  "image_content_sha256": "c7642d6c72187e304167abe955198c2b790a2ad3de15940c88a187c36d818671",
+  "prompt_sha256": "c5de1d08dbb4f28125ccee0b2056f88170dabfda9cb6c027c91ad282a74ca4c8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

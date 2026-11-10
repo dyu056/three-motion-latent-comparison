@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0016",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0016",
+  "prompt": "A large airport drop-off zone late at night, blue signage, empty luggage carts, one illuminated pillar, glass facade reflections, spacious lanes, realistic cinematic look, stable perspective cues",
+  "image_content_sha256": "6a45c4b7d3ace3bbc685b697300402a6f551fb7172a291b88b0008a260397612",
+  "prompt_sha256": "8e7b56801efd1881b85f6490ee3bc64f0f061b68f83c73d3f062a21aa1751097",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

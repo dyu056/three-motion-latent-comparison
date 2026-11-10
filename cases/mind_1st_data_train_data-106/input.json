@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-106",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-106",
+  "prompt": "A modern studio environment features curved grey walls with brown trim, a central circular platform embedded with lights, and two large screens displaying the Unreal Engine logo. The space is equipped with multiple studio lights, two video cameras, a white bar stool, and an armchair, alongside blue and black checkerboard acoustic panels. Bright, professional illumination defines the technical ambiance of the setting.",
+  "image_content_sha256": "da40e762eac87b839ec9933a76e856b4f035bbcbb870d5bb0e4f9753bcdd74d4",
+  "prompt_sha256": "383b19257f2d2f3ef2526c9211a6da738e3dfc048d67e64d8994eccbc9ddfd31",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

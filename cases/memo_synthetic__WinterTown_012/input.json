@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_012",
+  "prompt": "First person view as a person walking forward on a snowy slope in Wintertown sees a person (subject) in front walking toward the front-left, while another person at the bottom of the slope runs toward the observer. As the subject jumps down the slope, the subject exits the FOV. Observer turns to the left and keeps walking in place and re-sees the subject in its FOV and having started running towards front-left with continuous motion.",
+  "image_content_sha256": "7ef7425c6483358eb90582acd9dd432078e84c910442a1a1d8689503f83732a3",
+  "prompt_sha256": "4a0d8a9e2d5f713b102459fdb506ec82b305745a84212139ac5e1c13e44d431e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_001",
+  "prompt": "First person view as a person in a city park is moving straight ahead  sees another person(subject) crossing the road from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "8e690b8cdea963f9b308f90dfad26bd03e652f844f3a22ee278fb468288c9fa8",
+  "prompt_sha256": "05e4f4f676931adde74730da7a735169702f9bd2906e3584311b3196fa9cf0ac",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0007",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0007",
+  "prompt": "A calm waterfront promenade, one lighthouse at the end, metal railings, a row of evenly spaced lamps, a circular map sign, open sky and sea, photorealistic, clean composition, easy spatial orientation",
+  "image_content_sha256": "7fad79a8789b02e10ba8fe21b7526c803128c1779ff21ab8e9a528688672eef1",
+  "prompt_sha256": "519bad1f2c7bb3fb17769402840d13c8ca562fa65945358f65ee8372376123b3",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

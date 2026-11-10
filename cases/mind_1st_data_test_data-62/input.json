@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-62",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-62",
+  "prompt": "A rustic wooden cabin with a corrugated metal roof and an extended porch stands on a grassy clearing, bordered by a dense forest of tall evergreen trees. A dirt path winds past the cabin, which is adorned with a picnic table, chairs, and several blue and white barrels, while a utility pole rises among the trees. Bright natural sunlight permeates the scene, casting a soft, atmospheric glow over the remote, wilderness environment.",
+  "image_content_sha256": "f4f882d557052db466cdd9824af7ef118991356334bd93963727931bbdca880b",
+  "prompt_sha256": "150e251d61b7f8b1f8766dc6f051863166c8d4fab1b98951d19ac60e7b2a1fdd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

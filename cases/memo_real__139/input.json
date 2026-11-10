@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__139",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__139",
+  "prompt": "A first-person view of a clear glass of water with a small compressed towel tablet being placed inside. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the compressed towel has absorbed the water and expanded into a full-sized towel.",
+  "image_content_sha256": "21ee49149e8455c4faeb5427eceffcccd2c1c632d814591f4303f0cbf0d6195a",
+  "prompt_sha256": "1850571c2899df479a66bc5028cd496e9fc2d86314432df945ac335573bde6e2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

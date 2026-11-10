@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-42",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-42",
+  "prompt": "The environment is a modern, multi-room broadcast studio featuring high ceilings with exposed lighting grids and a central raised platform. Prominent details include a news desk with glowing red and blue accents, rich wooden wall paneling, multiple screens displaying the \"Unreal Engine\" logo, and a distinctive blue and black checkered acoustic wall. The lighting scheme combines bright overhead spotlights, softbox lights, and vibrant neon floor strips, creating a high-tech, professional, and dynamically illuminated atmosphere.",
+  "image_content_sha256": "adcc843fc63b45a26e9af345b31594c4898c07f5ef6400ba7276e667e3e8221d",
+  "prompt_sha256": "1a19057a98492af2f089c9c349903fae6e0c2cff89fac8343c6ae75f5be9ce21",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

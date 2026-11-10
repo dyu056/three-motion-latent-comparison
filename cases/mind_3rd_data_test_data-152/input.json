@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-152",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-152",
+  "prompt": "The scene presents a vast, arid landscape characterized by deep reddish-brown geological formations, including a prominent canyon wall with striated textures on the left. A figure, viewed from the back, wears dark clothing and a textured dark blue backpack, casting a distinct shadow on the uniform reddish-brown ground. Bright daylight illuminates the expansive terrain under a clear, pale blue sky, creating a stark and exposed atmosphere.",
+  "image_content_sha256": "d596233615ce777e7f892eba241fdc23119018b97dc049a71f258e6b443101b2",
+  "prompt_sha256": "d02e2be537ebe964d9162d06f316e1098140ca231cfa788571e979bf3365d95e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

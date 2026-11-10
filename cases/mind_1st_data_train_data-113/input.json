@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-113",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-113",
+  "prompt": "A stylized, snow-covered village unfolds across rolling, white-dusted terrain under a clear blue sky. Numerous buildings with warm-toned walls, red-tiled roofs, and prominent brick chimneys line cobblestone and packed snow paths. Bright daylight casts distinct shadows, illuminating details such as wooden wells, glowing streetlights, and snow-laden evergreen trees.",
+  "image_content_sha256": "23fdd878c1b7b50de010f2c561db5f852e481633cda96aeb1b56eec4ee72b604",
+  "prompt_sha256": "d8115e52cb9e302288c5e238a026fd3a414e2c668877945a6e05286287f581fd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

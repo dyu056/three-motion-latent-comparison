@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0035",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0035",
+  "prompt": "A spacious desert basin, one rock arch, a dead tree stump, a rusted water tank, long shadows, photorealistic and uncluttered, strong visual anchors",
+  "image_content_sha256": "ec65edccc7d2f904ec98ce781cab7561311c1c1c1d3e30bedcb433a0636d50d8",
+  "prompt_sha256": "e85949fcf72b3d55b8d6167c7662ebd6fe52ea6dee3e721682bb220f16a0feb4",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

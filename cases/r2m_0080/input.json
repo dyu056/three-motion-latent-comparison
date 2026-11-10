@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0080",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0080",
+  "prompt": "A snowy ballroom without walls, one chandelier hanging in the air, a grand piano, mirrored floor, open horizon, elegant surreal emptiness, strong landmarks",
+  "image_content_sha256": "31285f5697956903013ee78768d595a0dcfc024c71aa293edcb6bf5ec1db56e1",
+  "prompt_sha256": "245554225bc2940b895743349909f546266815a606c3d0617b41d9ccd5615e96",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

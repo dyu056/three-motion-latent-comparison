@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-38",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-38",
+  "prompt": "A worn asphalt road, marked with a faded white center line, bisects an arid landscape characterized by vibrant reddish-orange soil. Tall, slender trees with light green foliage, resembling eucalyptus, line both sides of the road, interspersed with dry brush and scattered wooden posts. Bright natural daylight illuminates the scene under a clear blue sky dotted with white cumulus clouds, casting distinct shadows across the parched ground.",
+  "image_content_sha256": "46ed10ed9306b470819bd22703f3bed512256c4c7c9293aa4f2320b9140edd22",
+  "prompt_sha256": "8ed61adbf485642661ce699d308835ea759f18df507f80e095699fa3e91239fc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

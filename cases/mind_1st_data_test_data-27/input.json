@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-27",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-27",
+  "prompt": "The scene presents a futuristic, modular interior environment constructed from dark gray and metallic panels, featuring industrial shelving, marked floor sections, and a prominent \"H\" symbol on a wall. Large windows reveal an exterior geographical feature of a vast, snow-covered mountainous landscape bordering a body of water, suggesting an arctic or extreme climate. The lighting atmosphere is predominantly cool-toned and artificial, with internal illumination contrasting with the bright, cold light emanating from the exterior vista.",
+  "image_content_sha256": "9da0d21d0579aba8ea9b06f84c5f57ea9727683c15cfb87ef13332bfe0d9bc2a",
+  "prompt_sha256": "256ab0f2e3defb7eecd377b1d8d35587226c77fc39007e96577d226fc514d4b9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

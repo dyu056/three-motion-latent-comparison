@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_013",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_013",
+  "prompt": "First person view as a person standing on a New York street sees a person (subject) in front-left running towards right, while another distant person from front crosses the road towards right and a car makes a right turn driving from left to right. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and re-sees the subject in its FOV who keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "7bafc3e9a9baaadabe34cc99f8287f5868d69161f8e4e36b9ae30e7a2d988ecb",
+  "prompt_sha256": "bb73a1214a2c541b322b11e4887e234fb7868b95be023c24e29fabf574b38277",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0056",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0056",
+  "prompt": "A vast energy facility courtyard, one plasma tower, blue light conduits, maintenance walkway, emergency beacon, open industrial sci-fi landscape, consistent geometry",
+  "image_content_sha256": "54a5c595ff2fdf93a51ac338fa9c3dac0f8df980b8c2cc32bcda3063d5d5c962",
+  "prompt_sha256": "77c72975ae6ff5cae85816f5348a8cc657ee585929042eaab7fb9f44b76e654f",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

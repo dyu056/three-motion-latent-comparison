@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_015",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_015",
+  "prompt": "First person view as a person standing in an old factory sees a person (subject) in the front-left running toward the back-right, while a wolf in the front-left runs toward the back-right. As the subject continues to run, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV who keeps running forward and having continued the run, while another person enters the FOV in the front-left walking right with continuous motion.",
+  "image_content_sha256": "a6fecc77fcded7ae929d7084a2ea140f310ac7ab1dbc7821a01399507e9463a5",
+  "prompt_sha256": "132ac2b4669bea76fb7d80dd3806dbe6dfd6b48a79eecab49363ba52d27a1ccd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

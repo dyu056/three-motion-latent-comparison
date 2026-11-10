@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0084",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0084",
+  "prompt": "A stylized desert caravan rest area, one cloth tent, blue water barrel, windmill, open sand, warm hand-painted fantasy look, strong visual anchors",
+  "image_content_sha256": "b35b9116b0bd86cd027fc0993e7907f2c994ebcd57d4c07a6a8c965d99c6e9bf",
+  "prompt_sha256": "426206a3a0c0406e7f659c264ae8c4e575d3a153fd949dd863f064a8fe4df53a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

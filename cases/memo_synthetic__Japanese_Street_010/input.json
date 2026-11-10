@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_010",
+  "prompt": "First person view as a person standing on a Japanese street sees a wolf(subject) on the right running toward the front-left, while a person in the front-left crosses the road towards right. As the observer bows the head, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having continued running toward the front-left with continuous motion.",
+  "image_content_sha256": "1dfa28a62c1ef06943f985d7b0277075130c5a5d8d4afc383ac38e1ec9cb5f65",
+  "prompt_sha256": "46602e1fb963fd07b90df2d0a43a3e738fb37cb600cdcaf28c0d3a16b63ae6e2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

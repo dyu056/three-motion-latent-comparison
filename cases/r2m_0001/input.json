@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0001",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0001",
+  "prompt": "An open modern plaza at dawn, a single red sculpture in the center, long stone benches, a glass bus stop on the right, a clock tower in the far background, spacious composition, distinct landmarks, recognizable visual anchors, minimal clutter, long sightlines, explorable environment, suitable for camera movement and memory revisit, consistent geometry, cinematic realism",
+  "image_content_sha256": "2ed7a27db5d2e8361167309aae1ab3487f74fd05a5d834884409cdebad073c72",
+  "prompt_sha256": "102068b76c330119c8fcaf397d9d28a3b2d50b4b57ca59d3e9ead6b01488b59e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-162",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-162",
+  "prompt": "A vast desert landscape features expansive golden-orange sand dunes with intricate ripple patterns, meeting a clear, light blue sky at the horizon. A male figure, dressed in a dark, functional jacket, trousers, and a backpack, is positioned on the sandy incline. Bright, natural sunlight illuminates the scene, casting sharp, elongated shadows and accentuating the warm hues and textures of the sand.",
+  "image_content_sha256": "83877189af8baa14834004927053c7df0142ae29a9ab1f83bcbb7bf91868c2be",
+  "prompt_sha256": "73a8942a2b8d100847a51f487e6540407e0928a584940504a38871f48eb4d59b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

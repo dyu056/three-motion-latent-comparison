@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0008",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0008",
+  "prompt": "A spacious train station forecourt, central information pillar, a red ticket machine, glass canopy entrance, patterned pavement, realistic urban design, clear landmarks, broad walkable area",
+  "image_content_sha256": "f0d065129a001fe906c17e410c7008cf75089cf74766503f506146c626ddddb1",
+  "prompt_sha256": "7b7ff4508f46fb4e896267b621deaec46b6a4e6bf8619a06d47286c63d6a9eea",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-199",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-199",
+  "prompt": "An expansive desert landscape features undulating golden-orange sand dunes stretching to the horizon beneath a clear blue sky with scattered white clouds. A solitary figure, viewed from behind, wears dark clothing and a prominent dark backpack, casting a long shadow on the rippled sand. Bright natural daylight illuminates the scene, creating a stark, open atmosphere.",
+  "image_content_sha256": "73ac284a5058c49e3de28dfcc76d527a5e3330b093c28a8fbd999b664726cc6c",
+  "prompt_sha256": "9e2073fdb3306286f10532b37dd7570ee88b7251ed135ee73959a3aee802b833",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

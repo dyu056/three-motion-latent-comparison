@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-208",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-208",
+  "prompt": "A person, dressed in a dark jacket and backpack, stands centered within a vast, light-colored desert expanse. Two prominent, dark-ridged mountains or large dunes frame the distant horizon, casting long, distinct shadows across the undulating terrain. The entire scene is illuminated by the warm, golden glow of a low sun, creating a serene and expansive atmosphere under a clear, transitioning sky.",
+  "image_content_sha256": "626b6ae79675afa7a393f5d5ce4f64b765a5a83cd48cbf202a4de52327818b5d",
+  "prompt_sha256": "b4a11f5919cbf3c97ba771ecc31df36ddef4534abfdd205a312b3ba2f4b39bc1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

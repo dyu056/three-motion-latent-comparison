@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-147-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-147-0.8x-175",
+  "prompt": "The scene unfolds within a sprawling, multi-level industrial complex featuring high ceilings, intricate metal frameworks, and various operational machinery. A figure wearing a dark jacket and backpack traverses a clearly marked pathway, delineated by prominent yellow and black safety stripes. Artificial lighting, a blend of cool blue and warm yellow tones, illuminates the functional and somewhat sterile environment, casting reflections on the polished floor.",
+  "image_content_sha256": "935fc8df5afb559db502bc861c6d1cf5980ff8f5d41d41efcacff2626e33c5c8",
+  "prompt_sha256": "6b49274629d493d814311ae2586fe0954bf6f4e7d0fe991da20bb9873d96eee6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

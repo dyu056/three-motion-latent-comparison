@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_009",
+  "prompt": "First person view as a person walking forward in Wintertown sees a wolf (subject) in the front-left running toward the observer's back-left, while a person in the front-left walks toward the right. As the observer continues to walk, the subject exits the FOV. Observer turns around towards left to face rear-left and keeps walking in place and re-sees the subject in its FOV and having changed direction to run toward the camera view's front-right with continuous motion.",
+  "image_content_sha256": "f524b49d58cabb36dbe7f2deccb69d542f644dc71f4aad8abd3a15ad1f66515d",
+  "prompt_sha256": "cac3436ef31d9b9623fd5910c4469161c072a65b41146a616d0cb9b34149b705",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

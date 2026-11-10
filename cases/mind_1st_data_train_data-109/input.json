@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-109",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-109",
+  "prompt": "The scene traverses a series of distinct interior environments, including a brightly lit, abstract architectural space featuring glass panels, a multi-colored checkered floor, and glowing cyan structural outlines, alongside dark, utilitarian corridors and a circular industrial shaft. Specific objects include cylindrical light fixtures, vibrant botanical displays within glass enclosures, and metallic walls adorned with orange and black warning stripes, complemented by holographic elements and digital warning signs. The lighting atmosphere varies dramatically, shifting from ethereal, diffuse brightness in the abstract areas to stark, localized illumination and deep shadows within the industrial passages.",
+  "image_content_sha256": "8e16867fb1cfb31f3331dd99ed6b5779a9b2a7d573377a0ffc2c2beb3376b8d1",
+  "prompt_sha256": "8c9ea87f5e5d9d88af2328a7aa6e2f6996d474cc9fefc843f68a11328b68cc77",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

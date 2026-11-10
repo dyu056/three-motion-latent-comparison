@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-92",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-92",
+  "prompt": "The expansive, multi-zoned interior features an industrial architectural style with high ceilings, exposed metal trusses, and large glass panel walls. A reflective teal floor anchors the space, which is adorned with abstract digital art, geometric wall cutouts, and large screens displaying dynamic graphics, alongside prominent circular industrial portals, potted greenery, and scattered seating. The atmosphere is dramatically illuminated by a complex interplay of artificial light, casting vibrant hues of blue, red, yellow, and purple through atmospheric haze, creating a futuristic and immersive visual experience.",
+  "image_content_sha256": "e686e9d507b5ae8b52908a4f22a617d843132a685ceb9b560bdd8ae1163145f4",
+  "prompt_sha256": "edccc5df63d26a6014a611f491243f14987cd84066bc56451e92ddbf7ebbabc7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

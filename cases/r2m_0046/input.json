@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0046",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0046",
+  "prompt": "A vast futuristic transit plaza, glowing circular portal structure, holographic sign to the left, sleek monorail track overhead, reflective ground, open sci-fi architecture, clear landmarks",
+  "image_content_sha256": "9f1fff2098b0b9a72002f933da4556370a96978f9d1191dd83dbc1b8729a344c",
+  "prompt_sha256": "512146d79a4465ca415316fef3e1e3b21c61b8db8086aa5149faf0b8539729a2",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

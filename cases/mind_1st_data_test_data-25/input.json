@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-25",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-25",
+  "prompt": "The scene presents a futuristic, industrial interior composed of metallic walls, floors, and ceilings in a cool grey and blue color scheme. Utilitarian corridors are detailed with stacked crates, integrated wall panels, and various sealed doorways, while large windows occasionally reveal a stark, snow-covered exterior landscape. The entire environment is uniformly illuminated by artificial, cool-toned lighting, establishing a sterile and functional atmosphere with distinct shadows.",
+  "image_content_sha256": "f73bc112c35ca3670551e519448640a1f20a142ea0a5f20f519c608cbc034901",
+  "prompt_sha256": "2ac8155e35f7a85e67fff04bb924ff68dc8d4f9b8e6ab9d6fba38f9886650d24",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

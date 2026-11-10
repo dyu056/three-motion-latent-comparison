@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_007",
+  "prompt": "First person view running in Zen Garden sees a person (subject) in the front-left walking forward, while a fox in the front-left runs toward the right. As the observer runs past the person, the subject exits the FOV. Observer turns around towards left to face rear-left and keeps running backwards and re-sees the subject in its FOV who keeps walking towards right and having continued walking with continuous motion.",
+  "image_content_sha256": "e0ea44b8f25957ffaf1e14e605c745edca1fe7b14779634500e50bd131e73629",
+  "prompt_sha256": "34d9c672f4b2c5067780a4a8dcb8e3850e5d65c06aac827bc748cc1cc7465025",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-159",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-159",
+  "prompt": "A dark, angular industrial corridor with metallic walls and a sloped ceiling extends into the distance. A male figure, clad in dark attire and a backpack, stands on a highly reflective, wet floor that mirrors the overhead illumination. Intense blue and cyan light emanates from overhead fixtures and ground-level strips, casting a stark, futuristic glow across the entire scene.",
+  "image_content_sha256": "f04c34c31cc249658ca0e3213271dea88be066929729e39967b3bed411d49caa",
+  "prompt_sha256": "b23e5e948402c184fffddd6f1bada4855b2b756b63004af7c8765cee3336cc65",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

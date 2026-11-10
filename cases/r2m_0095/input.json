@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0095",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0095",
+  "prompt": "A minimalist samurai-era courtyard, one stone lantern, wooden gate, raked gravel, pine tree, open meditative composition, stable geometry",
+  "image_content_sha256": "248c3fd4119343e51d802ee73a7e10674e90a6f8f5ec26d282a1bb5402e2bc44",
+  "prompt_sha256": "071349d5c41cf602cf96b5de1d2b1d6c539522d657996f300d88e6b741a04c35",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

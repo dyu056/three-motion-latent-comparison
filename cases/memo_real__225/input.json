@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__225",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__225",
+  "prompt": "A first-person view of a lit candle on a table with a piece of thermal paper held near the flame by tongs. The camera smoothly tilts upward, causing the candle setup to gradually exit the field of view. The camera then tilts back down, and the candle setup re-enters the frame, revealing that the heat-sensitive area of the thermal paper has expanded noticeably, showing a much larger blackened region.",
+  "image_content_sha256": "0e87afac2d7951ffd0dae5dd030701c835bd24a52f91ac7a04a969bc2e9ffe10",
+  "prompt_sha256": "19cb9b1a8dc2fe54a08e57c743ffc55872f03971dab4500d22b7b4cf7eddb1ea",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

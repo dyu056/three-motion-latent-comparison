@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0070",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0070",
+  "prompt": "A recursive virtual museum, central staircase loop, suspended frames, glowing waypoint marker, polished floor, open and uncanny digital architecture, clear spatial identity",
+  "image_content_sha256": "95489f8d00ab95b2b0984e1068ab1a0d0cb5a9c99ccf424bc660ec7518104c78",
+  "prompt_sha256": "fc8a10fea34a47fa4161e555d886f42f1d2557a107ee8586f2b54d6824be8e06",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__024",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__024",
+  "prompt": "A first-person view of a tube of expanding foam adhesive being squeezed out onto a surface. The camera smoothly pans to the left, causing the foam to gradually exit the field of view. The camera then pans back to the right, and the foam re-enters the frame, revealing that the foam has expanded dramatically, puffing up into a large, textured mass.",
+  "image_content_sha256": "785962a2a25f75315e917587f3cc22181a7ad4a71ac1f247b1e0e1d289eb242e",
+  "prompt_sha256": "69f6067c7794bdb6d5fb75d6d72351164acd61867ecf1396a4f0c4bc5cdc7754",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

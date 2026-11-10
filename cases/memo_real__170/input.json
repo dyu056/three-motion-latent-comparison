@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__170",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__170",
+  "prompt": "A first-person view of a clear glass with a small amount of dish soap, with water being poured in. The camera smoothly tilts upward, causing the glass to gradually exit the field of view. The camera then tilts back down, and the glass re-enters the frame, revealing that the water and dish soap have produced a large amount of dense foam filling the glass.",
+  "image_content_sha256": "61eab7bd66f23111c9c672d789afe12aa44065c27a2e784b6ede806464ef7ccd",
+  "prompt_sha256": "71b0a8caf2d698f9efd7fb4864954f2d56a1c5b542344ecbd0abc54b851f0981",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

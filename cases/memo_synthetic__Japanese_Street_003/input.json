@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_003",
+  "prompt": "First person view on an asphalt road is moving straight ahead and sees a person(subject) crossing from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "14d9b951b08f2d77131d293e927b86f9231d36fc7face102aee93a7f72126dd8",
+  "prompt_sha256": "bb49d19ceb84bc01ed7dd096b90820d598e56f94e513c93648825f41a9f2e20f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

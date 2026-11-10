@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__090",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__090",
+  "prompt": "A first-person view of a clear glass of water on a floral tablecloth with golden honey being poured in. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that noticeably more honey has accumulated at the bottom of the glass, forming a thick, dense golden layer beneath the clear water.",
+  "image_content_sha256": "ca239c1fab699e5d53455a6175457fb9a9f5b94c20c93cadb58fdb85b5951ea9",
+  "prompt_sha256": "4b8d610c12dfd3a4f867fac07e639b2aaa16ade49eae5fbfad66eb5fdace9225",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

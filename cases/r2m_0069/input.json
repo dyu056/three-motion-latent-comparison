@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0069",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0069",
+  "prompt": "An abstract color field room, one yellow sphere, one blue arch, one striped pillar, matte floor, huge negative space, minimal landmark-based composition",
+  "image_content_sha256": "0000c4da92d9c75675da40c20273d318990d422dabec3c97520483a8caf29181",
+  "prompt_sha256": "259fb588eee51ef0372058aa40398da8e3e8161034a37ed5066cbdb2abbd8fd9",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

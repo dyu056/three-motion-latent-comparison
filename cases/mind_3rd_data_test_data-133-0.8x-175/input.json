@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-133-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-133-0.8x-175",
+  "prompt": "A male figure, dressed in a dark jacket, trousers, and backpack, stands on a dark, undulating ridge. The expansive background features a desolate, arid landscape dominated by deep red rock formations and canyons under a clear blue sky with scattered clouds. Strong, low-angle sunlight illuminates the scene, casting long, sharp shadows that emphasize the dramatic, rugged contours of the terrain.",
+  "image_content_sha256": "e1ccf86cab2dc633d1c6b2ed1add460a336e5f191082a6f1ca3f9a49449b41c0",
+  "prompt_sha256": "89fdd6c59c98952b7fb8b26eb9e30f88ccad8af0c5068dd7ff71d2ba0073cfdf",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

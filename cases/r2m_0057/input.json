@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0057",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0057",
+  "prompt": "A submerged underwater research dome plaza, panoramic glass walls, one docking hatch, kelp outside, robotic maintenance arm, spacious futuristic underwater scene, recognizable anchors",
+  "image_content_sha256": "12167bf006d6676253c72dba91fd49b08e676085946460c82a11a2da0ebf7725",
+  "prompt_sha256": "2be8ee0883ebb7767bde777f8724c9bb043732e1391a75328a1c81eba2e1d36e",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

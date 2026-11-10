@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-76",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-76",
+  "prompt": "A utilitarian interior space, characterized by concrete walls and floor, is illuminated by a cool blue fluorescent light, revealing red industrial cabinets, a workbench, and a central yellow and black robotic device. This contrasts with a brightly lit, futuristic urban exterior featuring towering, blocky buildings adorned with geometric patterns and a large stylized face, under a clear blue sky. The cityscape includes large industrial trucks and distinct patterned street markings.",
+  "image_content_sha256": "4b8415a8580fcd96e79a0da2aa7de1262934e1dfc0b2afe25022773e2fbb7479",
+  "prompt_sha256": "be6f5f370fabf206e5c092af9b555316cf4b1976d2147d43abfba930fc87ccb0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

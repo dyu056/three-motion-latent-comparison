@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-207",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-207",
+  "prompt": "A dimly lit, utilitarian corridor with textured concrete walls and a dark floor extends into the distance, bathed in an intense red glow from an unseen source. A humanoid figure, clad in a black and yellow armored suit with prominent orange glowing accents, stands centrally, facing away from the viewer. Dark doorways and subtle architectural details line the immediate foreground, contributing to the confined, industrial atmosphere.",
+  "image_content_sha256": "f993a7bade19f2f984b681b0773983547fe73909d557ad20d1a97e03f373942d",
+  "prompt_sha256": "159dd1645f6ac21fbbc86bac1a720fd515fdaf56d0b30f743d1346bca03eaba3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

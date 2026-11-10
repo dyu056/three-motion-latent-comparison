@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0029",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0029",
+  "prompt": "A quiet train station interior, central analog clock, ticket windows, blue platform sign, long waiting benches, open circulation area, cinematic realism, distinct landmarks",
+  "image_content_sha256": "6c95bc6fc3b03204d0d15a455a4b528c88ceb4894e68d69b537c63a8c9bba551",
+  "prompt_sha256": "234cead214e2e3b4422ecff947fbbdd1cebe17741880db1294ed3b8b70dd1b61",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

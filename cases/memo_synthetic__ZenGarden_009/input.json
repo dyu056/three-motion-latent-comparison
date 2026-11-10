@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_009",
+  "prompt": "First person view as a person standing in Zen Garden sees a fox (subject) in the front-left running toward the right, while a wolf in the front-right runs toward the left. As the observer jumps up, the subject exits the FOV. Observer lands and then re-sees the subject in its FOV and having continued the run towards right with continuous motion.",
+  "image_content_sha256": "70780107af69ad23b0c10c148191f45ce3ee8a7aeb54e7961a201d441c079d00",
+  "prompt_sha256": "f88167d32efa111e137a80ade65a0dc9e7f0c5d4e61700718020856bbaba7d13",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

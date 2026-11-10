@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-17-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-17-1.2x-225",
+  "prompt": "The scene depicts a sprawling, multi-zoned interior space with a polished, light blue floor, segmented by glass partitions and concrete walls. Prominent features include a glass-enclosed \"GARDENS\" area with lush greenery, a \"RESEARCH\" section with tables and chairs, and an industrial zone featuring large circular machinery and control panels, all traversed by a thick bundle of colorful cables and illuminated by a glowing vertical light column. The atmosphere is illuminated by a dynamic interplay of artificial light, including bright overhead fixtures, neon accents in red, blue, and green, and glowing panels displaying abstract patterns, creating a vibrant yet somewhat sterile environment.",
+  "image_content_sha256": "05cd8ec9f89a7e9afd4ecbd03daa38f7f1ce21ddf9ad342109f0ca0f54ac6efc",
+  "prompt_sha256": "f1cdc46d3d4c553757ae5bc500e20b94fbf53d6032b592dbf08494632f63ecaf",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

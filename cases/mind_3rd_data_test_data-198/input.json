@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-198",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-198",
+  "prompt": "The interior of a subway car features a long, narrow aisle bordered by symmetrical rows of light blue upholstered seats. Overhead fluorescent lighting illuminates the beige-paneled walls, which display transit maps and digital signage indicating \"Northwood-B STOP AHEAD.\" A person wearing a dark jacket and backpack is positioned centrally in the aisle, contributing to the enclosed, somewhat sterile atmosphere.",
+  "image_content_sha256": "486a6a5d4ac0a7d2cd31adebb9e65160107b63bd7268d7050e9d043d95b41b3f",
+  "prompt_sha256": "166af733e64a7f4c52d06518db74dbf690b5ad28927cfb2529468f6f51e6412a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

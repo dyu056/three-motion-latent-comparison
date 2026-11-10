@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_011",
+  "prompt": "First person view as a person standing in Wintertown sees a fox (subject) in the front-left running toward the right, while a person in the front-right walks toward the left. As the subject continues to run, the subject exits the FOV. Observer turns the head toward the bottom-right and then re-sees the subject in its FOV and having changed direction to run toward the observer's front-left with continuous motion.",
+  "image_content_sha256": "a144c92cf22c7523969db37326f36f5f5414390e25b4eea4caccad4e498bff8c",
+  "prompt_sha256": "fada8f25180615f2dc4e8bfd9c684c8848645d5dd6997701adfc0224235239b4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

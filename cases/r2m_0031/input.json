@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0031",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0031",
+  "prompt": "A broad sandy beach at low tide, one red lifeguard tower, driftwood log, distant pier, gentle footprints in sand, open horizon, photorealistic, clear memory anchors",
+  "image_content_sha256": "52ced55cb55f2e4792ff21f0c92e76b142c690cef94c53cb6bcbebc756a3e9f2",
+  "prompt_sha256": "79abbf2573424406f33d30620c0489deb15b81fcadc5c30d8ec31d8079219b2f",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

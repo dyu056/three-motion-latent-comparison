@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-119",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-119",
+  "prompt": "The futuristic interior presents a sleek lounge environment dominated by a blue and white color scheme. A prominent, spiraling white sculpture with integrated cyan lighting serves as a central focal point, complemented by modular white and blue seating, low tables, and potted greenery. Cool, artificial illumination emanates from recessed fixtures and linear wall accents, casting a vibrant glow on wall-mounted screens displaying data interfaces and large artworks depicting snowy mountain ranges and cosmic nebulae.",
+  "image_content_sha256": "696024cb0ceaad0d7d7c30f7e698b2a5bb6837415685a4754ce8a1c74135a152",
+  "prompt_sha256": "95c5b2fca8968620cdceecabe0701e1b8fe35bad342ae14b73baa4d3992feaf9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

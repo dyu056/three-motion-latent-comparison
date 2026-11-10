@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-182",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-182",
+  "prompt": "The scene presents a dramatic volcanic landscape under a twilight sky, dominated by an active volcano with incandescent lava flowing from its summit and down its slopes. Dark, rugged volcanic rock formations in the foreground and midground are interspersed with glowing rivers and pools of molten lava, from which steam rises. A solitary figure, viewed from behind and wearing dark clothing with a backpack, stands observing this fiery terrain, illuminated by the intense orange glow.",
+  "image_content_sha256": "bea0b99d5e4f272b2389cc630e40e4c6eae15c307b39f03afe9efebe285838c2",
+  "prompt_sha256": "5a91914caa44c35aeddd80934b94800ce4e9cfb86c477afada4598e4aea0c181",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

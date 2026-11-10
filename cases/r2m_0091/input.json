@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0091",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0091",
+  "prompt": "A 1970s motel courtyard, one ice machine, turquoise pool, retro sign, striped deck chairs, broad concrete layout, nostalgic cinematic realism, clear visual markers",
+  "image_content_sha256": "2a162512df3acd3e0588e0967a21fc8656219b8425ffade96d7da7d0b6b42a38",
+  "prompt_sha256": "4ca03ee3f3e2d40d8ca6ab56d766163363155e8feb6803e884028854038b13a7",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

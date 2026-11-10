@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_001",
+  "prompt": "First person view as a person on the balcony of a house in Zen Garden is standing still and sees another person(subject) in the front- left running towards back-right. Observer jumps up and the subject exits the FOV. Observer lands and then re-sees the subject in its FOV and having started running back in the opposite direction which towards front with continuous motion.",
+  "image_content_sha256": "7b439868f1bb8ca335dc92adf965489dfb0633fb4e2bb82c076273dd3e733c34",
+  "prompt_sha256": "45ba8ac723760dcfe12a77a827351a0cd875f5a700f75fc45e7478206a8df1be",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

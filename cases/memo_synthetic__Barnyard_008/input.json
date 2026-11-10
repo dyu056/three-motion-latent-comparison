@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_008",
+  "prompt": "First person view as a person standing in a Barnyard sees a tractor (subject) in front driving toward the back-left, while another person in the front-left walks right. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and re-sees the subject in its FOV which keeps driving towards the back-left and having continued driving with continuous motion.",
+  "image_content_sha256": "4f2c188e115b2211e84794f8e728935cfc78c170a84204eff40be8b838968266",
+  "prompt_sha256": "35d3a122cefe426275a7706e5dbed8d02f7ff7e8a7ba6c40bf0c1bc89655a421",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

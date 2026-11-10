@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__154",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__154",
+  "prompt": "A first-person view of a stress ball that has been flattened inside a cardboard tube, being slowly released. The camera smoothly pans to the right, causing the stress ball to gradually exit the field of view. The camera then pans back to the left, and the stress ball re-enters the frame, revealing that the stress ball has slowly recovered its original round shape, fully expanding back to normal.",
+  "image_content_sha256": "adff9e1bce297cf2f2c52a450a0d3dcc6cc85d7e7314e895df88f2e0b5c82c13",
+  "prompt_sha256": "b5ccc40271604db91bf06990009fb53facf8348f452e0bf7928d744901830863",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

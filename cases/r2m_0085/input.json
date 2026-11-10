@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0085",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0085",
+  "prompt": "A quiet anime school courtyard, central clock pole, shoe lockers by the side, one cherry tree, wide concrete ground, soft afternoon light, memorable layout",
+  "image_content_sha256": "2b7288b2d66dcb27208e6b4d365e189c1dfdba36c4dc552c5577786d53574642",
+  "prompt_sha256": "dabbc3f5d3590b2928e45486dd4c0a087c16fd2855e9ccd22610f2d07c636c19",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

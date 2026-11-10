@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-214",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-214",
+  "prompt": "A narrow, subterranean passage is shored up with rough-hewn wooden logs forming the walls and ceiling, with an uneven earthen floor. Black electrical cables trace the left wall, while a stack of raw timber logs occupies the right foreground. A single overhead light fixture illuminates a male figure in dark attire standing centrally, his form starkly lit against the deep darkness that engulfs the tunnel's receding end.",
+  "image_content_sha256": "257e6f5e9b4d8549b283a606a9e1bc748a786ca5021c73f373b984b36993e062",
+  "prompt_sha256": "8efc11a97190f4621713554927bb3164d5491b49f5178e3ad187eb77de7fce87",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

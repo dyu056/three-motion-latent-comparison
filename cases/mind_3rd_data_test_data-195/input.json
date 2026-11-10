@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-195",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-195",
+  "prompt": "A brightly lit, stylized outdoor scene features a paved stone courtyard with distinct shadows, bordered by a low stone wall with battlements on the right and stacked wooden crates and planks on the left. A central male figure, clad in a dark brown jacket and trousers, stands before a wooden scaffolding structure. The background consists of rolling green hills adorned with numerous evergreen trees, all set against a clear blue sky with scattered white clouds under vibrant daylight.",
+  "image_content_sha256": "f70da016bdcb48892ebb7eab53ef6992e3915a752fbca67d46e5094121802df4",
+  "prompt_sha256": "ea0862c3e3e7a9576109e26dc3ead4b9382751e7f4bb869276a3533a8d2eb987",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

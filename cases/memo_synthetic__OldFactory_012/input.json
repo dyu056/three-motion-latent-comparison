@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_012",
+  "prompt": "First person view as a person standing in an old factory sees a fox (subject) in the front-left running toward the front-right, while another person in the front-left runs toward the right. As the fox continues to run, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV and having changed direction to run toward the back-left with continuous motion.",
+  "image_content_sha256": "779d5eed3efe8b653b01a06663e4e88fdd84917852dbf2235f16aa78f20d0f71",
+  "prompt_sha256": "a1809de064a6d066bd4140c9ffb4f65d8d9eb3020eb3816e5e76e5f698c5acf9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

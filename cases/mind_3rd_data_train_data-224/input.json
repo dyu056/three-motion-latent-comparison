@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-224",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-224",
+  "prompt": "The scene presents a paved park environment adjacent to a serene lake, bordered by a dense treeline under a soft, overcast sky. Ornate wooden benches with dark metal frames are systematically arranged on the red brick-patterned walkway. A prominent metallic globe sculpture, resting on a stone base with steps, stands beside a tall lamppost, all illuminated by diffused natural light.",
+  "image_content_sha256": "7436e6442fe9a993ebc673da790916d3ebcb5f641c65dc28070e60635ec05fbc",
+  "prompt_sha256": "1cd63602cc49b9b94340066da5d423d62ac80b507476ae7ca8a6d1cfcb78936e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

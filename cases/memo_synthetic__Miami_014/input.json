@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_014",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_014",
+  "prompt": "First person view as a person standing on a Miami street sees a fox (subject) in front running toward the back-right. As the fox continues to run, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV and having turned around to run in the opposite direction which towards back-left, while another person enters the FOV in front walking toward the left with continuous motion.",
+  "image_content_sha256": "b6bb4230598ac3831366f265144ca57c6309932f489cac85987df0d9de8d34d4",
+  "prompt_sha256": "1803de98221d7d7c71a341a975b109725d43c55f5bf6ae46b1c60a3737796afc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

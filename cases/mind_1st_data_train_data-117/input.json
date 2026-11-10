@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-117",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-117",
+  "prompt": "A white, stone-block archway frames a sunlit vista, with sparse dark grass and vibrant pink and orange flowers growing from the paved ground within its confines. Beyond the arch, an arid, light-colored landscape extends towards a distant settlement of white buildings nestled among dark green foliage on rolling hills. The entire scene is bathed in bright, clear daylight under a vivid blue sky, creating a serene and open atmosphere.",
+  "image_content_sha256": "f20acaa4592f71a2188bcec6f9b92fa6f8bdef4f5b38acc919dabc85d90eaea0",
+  "prompt_sha256": "11e7cb378fca564dbb7618a77f411cbb4e6017ba0b77f0b10dd758b7fadacd2f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0062",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0062",
+  "prompt": "An empty simulation chamber, white grid floor, one red chair, a freestanding staircase, floating frame portal, open abstract virtual space, memorable landmarks",
+  "image_content_sha256": "20734e6ace0c83a5610b89b031d79f2278d00683830280beacf7b20beae98966",
+  "prompt_sha256": "7091aa147a4e224be87c978048dfb8d4841349d16ca21e2cecc05a66518bee60",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-165",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-165",
+  "prompt": "An outdoor urban passage is bordered by a contemporary building on the left and a tall panel fence on the right, with distant structures blurred under bright, diffused daylight. The building showcases a red brick facade, a concrete base, and vertical wooden screening, from which a wooden ramp extends onto the earthy path. A lone figure, clad in a dark jacket and a blue backpack, walks away from the viewer along the unpaved ground.",
+  "image_content_sha256": "93ef97733a34f527eb1393a7c6c3c5766115f9a32867fea71f9ca4df572badad",
+  "prompt_sha256": "020a4f89d6d61739aa4fdfad433985fa2be5e2093590a271334c02abb09bb450",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

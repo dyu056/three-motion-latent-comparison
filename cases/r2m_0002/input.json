@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0002",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0002",
+  "prompt": "A nearly empty university campus square, large circular fountain, one bronze statue, symmetrical library building, tall flagpoles, wide paving stones, soft morning light, spacious composition, distinct landmarks, recognizable visual anchors, minimal clutter, long sightlines, explorable environment, suitable for camera movement and memory revisit, realistic atmosphere",
+  "image_content_sha256": "75dd7b4ccded1f9dee8793bcbd02ce2aa8efe7c0e4a36837a693ac98b8f2ee4d",
+  "prompt_sha256": "800458949777ba1deb33cb6bda9833e9c740ea3537bfd088d0e6dbcca1ff6111",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

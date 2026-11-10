@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-124",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-124",
+  "prompt": "A bright blue sky arches over a sandy path leading towards distant, light-colored buildings with terracotta roofs. A tall, dark green cypress tree stands prominently beside a massive, light-toned stone tower on the right, while the immediate foreground features stylized dark grass and irregular black rock formations. The entire scene is illuminated by clear, crisp daylight, creating a vibrant outdoor atmosphere.",
+  "image_content_sha256": "0e8dbed3f62c98daa969ad4b30c7aef9083927f4b5826ec0ce25d5e89c5debfc",
+  "prompt_sha256": "3148a3053f7807ab5cc8953f29c1987ec7cc42e4fc03cd8dd980ed58164c9411",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

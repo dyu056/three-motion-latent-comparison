@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_009",
+  "prompt": "First person view as a person walking forward in a Citypark sees a person (subject) in the front-left walking toward the observer's back-left, while a fox in front runs toward the observer's back-right. As the subject continues to walk, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps walking in place, and re-sees the subject in its FOV who keeps walking towards front-left and having continued walking with continuous motion.",
+  "image_content_sha256": "3f7df281c77e0c8a76d086e68cfa609964a9f351a37feac48e2dd47a26b7c75e",
+  "prompt_sha256": "ae983a4db86a7269d5ace6d98697ee80cfe9fc35efb2ed1a08eef80387eacad3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

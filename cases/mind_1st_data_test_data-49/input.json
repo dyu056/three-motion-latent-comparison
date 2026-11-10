@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-49",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-49",
+  "prompt": "The interior scene presents a stylized, somewhat dilapidated domestic space, encompassing a living room and an adjacent kitchen-dining area. Walls are adorned with distressed peach-patterned wallpaper, complementing dark wooden floors and a muted ceiling. The environment is furnished with vintage upholstered armchairs, wooden tables, bookcases, a television, and a radio, all illuminated by bright natural light filtering through curtained windows, establishing an aged and contrasting atmosphere.",
+  "image_content_sha256": "c3a46ad4981f661220cc1a2c42cb0e01e1aa14a91bed7750206be4d8a458f0da",
+  "prompt_sha256": "eb2b09d585258988059ea38199aec98f1dac42f4781a12b567ef47b25ad2e00e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

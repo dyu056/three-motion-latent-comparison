@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-222",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-222",
+  "prompt": "A grand, dimly lit underground hall features a dark red herringbone-patterned floor extending towards a distant, ascending staircase. Arched alcoves line the aged, stone-textured walls, leading to a coffered ceiling adorned with intricate red, gold, and blue patterns. A lone figure, clad in dark clothing and carrying a prominent blue backpack, stands centrally within the cavernous space.",
+  "image_content_sha256": "996d2027e463f08e1ced1df68c254d6d04094159449afce95f40a8360f8209f7",
+  "prompt_sha256": "c020e7afb1f5d262c63180fd87f4f85ef02de5f9acc091a584ea5215eacd6b75",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

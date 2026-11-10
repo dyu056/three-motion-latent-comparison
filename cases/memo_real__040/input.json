@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__040",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__040",
+  "prompt": "A first-person view of a glass into which cola has just been poured, generating a large head of foam. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the foam has completely settled and disappeared, leaving only clear cola in the glass.",
+  "image_content_sha256": "0a9c5cdbd2534c1d8e0b80d0e1a73362d512b7129c8c938c145b73647a4aab7a",
+  "prompt_sha256": "ae940d483ebfdad5d75db27bd9148d3bbde422e34726145cc9937e2a79a84d34",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

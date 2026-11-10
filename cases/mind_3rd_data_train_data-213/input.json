@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-213",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-213",
+  "prompt": "The scene unfolds within a dimly lit, ancient-style interior featuring stone steps ascending towards a darker recess, flanked by walls adorned with intricate geometric patterns and carved archways. A central figure, clad in a dark, futuristic armored suit with prominent orange and red glowing accents, is positioned on these steps. Low, warm light selectively illuminates the textured stone and the figure's glowing elements, casting deep shadows that contribute to a mysterious atmosphere.",
+  "image_content_sha256": "464a86162b445f58f2f81cf93b3d0d9652989ee93d8a69f774a396f53a3bdc78",
+  "prompt_sha256": "599ab012b9d569e051e7e0facc5c793029fc92197a5c9496fc3d519c2c50e9d6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

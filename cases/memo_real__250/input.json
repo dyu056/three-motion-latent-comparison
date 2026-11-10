@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__250",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__250",
+  "prompt": "A first-person view of a transparent cup on a table with yogurt being poured in from above. The camera smoothly pans to the right, causing the cup to gradually exit the field of view. The camera then pans back to the left, and the cup re-enters the frame, revealing that significantly more yogurt has been poured in, raising the level noticeably in the cup.",
+  "image_content_sha256": "2c10ccc0f4047a78e71f5b77135f93ea8b857dc5578521a2743be084b5804f4d",
+  "prompt_sha256": "ac4d99e46c248052d3b2abd831e4581ef66e1979c7047d21ec9fee76c7544c82",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

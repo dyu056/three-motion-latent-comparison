@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "case_count": 710,
+  "worker_count": 16,
+  "all_workers_exit_zero": true,
+  "frozen_code_and_weight_metadata_unchanged": true,
+  "all_registered_artifact_sizes_verified": true,
+  "pairwise_plots": 710,
+  "registered_bytes": 318507317717
+}

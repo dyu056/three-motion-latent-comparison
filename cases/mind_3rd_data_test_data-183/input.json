@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-183",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-183",
+  "prompt": "A dark, cavernous environment features massive, rugged rock formations, some adorned with sparse foliage, flanking a path partially submerged in shallow water. Centrally positioned, a dark armored figure with distinct orange glowing accents on its suit stands, facing deeper into the passage. Strong, natural light shafts pierce through overhead openings, creating high-contrast illumination on the wet ground and distant rock archways.",
+  "image_content_sha256": "0fde8413fd164a5492b38a654f0cc4433db68884b933717b181c4fec64bbdf83",
+  "prompt_sha256": "78345bad9bfb592d6d343c77f5a013ad8fde26e35e31a0cb907e3ef66b418ad6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

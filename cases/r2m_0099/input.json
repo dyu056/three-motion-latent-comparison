@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0099",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0099",
+  "prompt": "An Art Deco hotel terrace, one striped awning, round tables, central fountain, geometric tiled floor, ocean beyond, elegant open composition, memorable landmarks",
+  "image_content_sha256": "cdaf7880a70358e51bafbe2c2f798667cb45275d9d10b1d8e81189176a6ac19c",
+  "prompt_sha256": "f98651e5940739da029ef199ab5f397e29277184c393d4953d05065fd99b2717",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-185",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-185",
+  "prompt": "An expansive, brightly lit industrial factory floor is presented, with a person wearing a dark jacket and backpack positioned centrally, facing away. Robotic arms, conveyor belts, and various grey and yellow manufacturing machinery line both sides of the polished floor, extending into the background. Overhead lighting casts an even, artificial glow, highlighting safety lines in yellow and red on the reflective surface.",
+  "image_content_sha256": "db4c44e867d4c4e30a76a0d18de4c0067be87a296318256a63d96010b06b51f1",
+  "prompt_sha256": "cead7737f52630002f1ecab319267560da68389a8aee800f822c7eec961c0234",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

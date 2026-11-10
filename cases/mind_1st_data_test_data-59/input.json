@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-59",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-59",
+  "prompt": "An arid, mountainous landscape unfolds under a bright, hazy sky, with a large, dark mountain range dominating the distant left horizon. The mid-ground and foreground feature a rocky, sandy terrain dotted with sparse, scrubby bushes and scattered boulders. Warm, low-angle sunlight illuminates the scene, casting long shadows and highlighting the reddish-brown earth and the golden hues of the dry vegetation.",
+  "image_content_sha256": "b34564c422d7e6f8cefc38827a5d210d4bd0d285a2cdab1e36fa71bfd89cf05e",
+  "prompt_sha256": "f781cddafdc6d749dbffadffba0a95624f5855995e7605be5a1330cb887083b4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

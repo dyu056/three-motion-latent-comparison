@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0105",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0105",
+  "prompt": "A surreal dreamlike library plaza, fantasy illustration, enormous open hall with floating bookshelves high above, a giant antique clock standing alone in the center, a circular mosaic on the floor, a glowing doorway in the distance, a bronze reading lamp on a solitary desk, tall arched windows with moonlight streaming in, mostly empty, spacious and atmospheric, strong navigational markers",
+  "image_content_sha256": "6a62ae37e71b2e2f0555378e7ce1b6cea271b0b33148fdb0498b145ad5ff75f1",
+  "prompt_sha256": "a7f11b751ead847ca8cdd2eda01daf03c77c38c3ff6c70c8c51cb1cb79b8c96a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

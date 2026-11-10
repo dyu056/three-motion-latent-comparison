@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0013",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0013",
+  "prompt": "A minimalist corporate courtyard, one bonsai tree in a square planter, shallow water channel, black stone wall, tall glass facade, strong geometric composition, realistic, recognizable visual anchors",
+  "image_content_sha256": "b1e81c68e12a0ebe933eade2e6912ab1fbbe0220ef397f227a2ddedacb281078",
+  "prompt_sha256": "f99920ffe896aacb5ed2f37ecec872028413483bb07df07a5db635d1f2cc60d9",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

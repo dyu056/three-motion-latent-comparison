@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-83",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-83",
+  "prompt": "A vast, dimly lit stone dungeon or crypt features a vaulted ceiling and rough-hewn masonry walls, defining a central pathway paved with large, irregular tiles. Numerous large, wooden and metal cages line both sides of the corridor, leading towards a distant, illuminated archway. Warm, artificial light from a prominent metal chandelier and wall-mounted sconces casts long shadows across the ancient floor, creating a somber and atmospheric illumination.",
+  "image_content_sha256": "adba1e4f71bdc76288f5e0b9be22d647b375b4450223b76af3c84eaf7d129117",
+  "prompt_sha256": "d2b40a7d01a7499fc2228c947d341ffa380ada6a3fe17c12955b3c01793ed43d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

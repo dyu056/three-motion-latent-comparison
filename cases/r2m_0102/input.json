@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0102",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0102",
+  "prompt": "An empty desert roadside gas station at golden hour, realistic cinematic scene, vast open space, flat asphalt forecourt, a faded turquoise gas pump island, a lone telephone booth, a giant retro signboard, distant mountains on the horizon, an old white pickup truck parked near the convenience store, long shadows, warm light, highly readable landmarks, wide framing, memory-friendly environment",
+  "image_content_sha256": "abfa45f3d1d3c42305cfc9f140c9dd0fb09103f26e7e491a7c338d97d61bab41",
+  "prompt_sha256": "d7e2899e16905432f9594f88f2ad0263c92d46c4d214604dc38479f5e04e58aa",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

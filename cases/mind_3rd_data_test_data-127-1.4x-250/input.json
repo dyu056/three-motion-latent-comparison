@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-127-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-127-1.4x-250",
+  "prompt": "The scene presents a vast industrial factory interior, where a male figure wearing a backpack stands on a light blue pathway marked with yellow and orange lines. To the right, an array of manufacturing equipment, including conveyor belts, robotic arms, and machinery with \"DANGER\" labels, lines the floor. Overhead, a grid of artificial lights casts a cool, even illumination across the reflective surfaces, highlighting the structural pillars and \"BORING\" signage throughout the complex facility.",
+  "image_content_sha256": "1f10db3c89c37a38438e1069dc054d18aa7711af759f49c31cdbc92bd186c917",
+  "prompt_sha256": "870ce6820f33d7ab9bcd3a3247f4a8a8fb71450bd5c280860b641136974761d0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

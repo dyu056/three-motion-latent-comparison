@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-0-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-0-1.0x-200",
+  "prompt": "This industrial interior features textured concrete walls, exposed metal structures, and a wet, tiled floor reflecting neon light. A prominent, pale humanoid statue stands on a circular pedestal, surrounded by screens displaying \"NO SIGNAL\" with sad face emojis. The dim, artificial illumination from scattered green, blue, and red light sources casts a moody glow over the grimy surfaces and graffiti.",
+  "image_content_sha256": "4682a9e21a77aee7c84d0803f45c8ee281e073fda49b3b59e7fe807d64582487",
+  "prompt_sha256": "10c619dd2d6d4697a95f002f0684dc17da1fec11102c1d00700bbbdb7d09434c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

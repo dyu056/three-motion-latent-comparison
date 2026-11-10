@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_015",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_015",
+  "prompt": "First person view as a person walking forward on a balcony of a zen garden sees a person (subject) in front walking forward. As the subject continues to walk forward and turns left, the subject exits the FOV. Observer turns to the left and keeps walking in place and then re-sees the subject in its FOV and having continued walking forward with continuous motion.",
+  "image_content_sha256": "b926acd3b84b223126b11fa5917711f4faa7ad035d39cb03abf56cf3f1e55e03",
+  "prompt_sha256": "dddb373f5c251cb76a0d546eeb6c7c9e776088a84cb5092054e7b19dda594ec2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

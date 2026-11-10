@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-173",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-173",
+  "prompt": "The interior of a subway car is depicted, featuring parallel rows of light blue seating and dark-paneled walls extending down a central aisle. Overhead fluorescent strip lighting brightly illuminates the functional space, casting subtle shadows and highlighting various advertisements and transit maps affixed above the seats. A solitary figure, clad in dark attire, walks away from the viewer down the length of the car towards a closed door at the far end.",
+  "image_content_sha256": "4273cbb22161c0853512370fb29d735f2f16ae5b8ee2bd7fe85a5059c618de7d",
+  "prompt_sha256": "f57c95550d7e97eed2d134072ab3a4f0af894599958b2e74cb6a91e7c96e2243",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

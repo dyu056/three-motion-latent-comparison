@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__093",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__093",
+  "prompt": "A first-person view of a plate of milk with colorful food dye drops on the surface and a detergent-coated brush being placed in. The camera smoothly pans to the left, causing the plate to gradually exit the field of view. The camera then pans back to the right, and the plate re-enters the frame, revealing that the food dye has rapidly spread and swirled outward in vivid patterns across the surface of the milk.",
+  "image_content_sha256": "b3214e11aff8bab805d696b198c4dfeaf38e55ced1c741442ba83de6d6519c1b",
+  "prompt_sha256": "af70a7cf662a1a40aa61350ca0666040aebb0b71dc72fec9bb589cb275f73ef5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

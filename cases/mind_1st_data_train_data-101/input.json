@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-101",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-101",
+  "prompt": "The scene depicts a low-key lit, futuristic industrial corridor defined by metallic paneling and a high ceiling. Overhead, a dense network of glowing orange energy conduits casts a warm light, complementing the intricate machinery and illuminated panels adorning the left wall. A central pathway of hexagonal floor lights guides the eye towards a distant portal, while a large, multi-hued industrial structure occupies the right, accented by cool blue ground illumination.",
+  "image_content_sha256": "b8de413780aa15a5283602451f52adbd05c53deecf0c6817d02b90832b35b441",
+  "prompt_sha256": "cefe948069efcc87068ee516d2ca07eaa6a1cebcc1dd6b36f81fbe89e930b3f5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

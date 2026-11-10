@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-18-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-18-1.2x-225",
+  "prompt": "A surreal landscape unfolds under a vibrant magenta sky with scattered white clouds, featuring prominent dark rock formations that define the mid-ground. A massive, gnarled tree trunk dominates the left foreground, its textured bark contrasting with the lush green grass covering the uneven terrain. A powerful, ethereal light ray cuts diagonally through the scene, illuminating the ground and creating a mystical atmosphere.",
+  "image_content_sha256": "4e23e812f4c42c48178d01be43e4101b26e7aed301d962b102d3a0b75c822c96",
+  "prompt_sha256": "5deb19886b323aea202cf52460e8ca95e7932915b64d60ae117e05f83f945f80",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-72",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-72",
+  "prompt": "An arid, rocky desert landscape unfolds under a bright, expansive sky with scattered clouds, dominated by large, weathered rock formations and hills. The ground is a mosaic of scattered boulders, gravel, and sparse, low-lying green bushes, interspersed with small patches of yellow and orange wildflowers. Warm, natural daylight bathes the scene, casting soft shadows and illuminating a narrow, unpaved path that winds through the rugged terrain.",
+  "image_content_sha256": "ecf21c4a0c185aa5014edb8feda2223abcc318ea2172eafbd54117e62ffe5d17",
+  "prompt_sha256": "795de35882716b9e21f2ba888b37b20aa8e9473611ea605b237f948cd4b591ee",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

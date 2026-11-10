@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-61",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-61",
+  "prompt": "This stylized woodland scene features gently sloping grassy terrain dotted with numerous cartoonish trees, their textured brown trunks supporting lush green canopies, under a bright, clear sky. Patches of tall green grass and two prominent red-capped mushrooms populate the foreground, alongside a large grey rock. A blocky, light-brown structure is partially visible in the background, all illuminated by soft, natural daylight.",
+  "image_content_sha256": "21bd301bbd4661f7b3635ffd1d1e931bbaef1d09cbef7f1ed01cb21d41557674",
+  "prompt_sha256": "a5669e5b22ea1237b59ee9586f32897401307742e75bfebf62a601c9502c9d96",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

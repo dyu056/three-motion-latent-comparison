@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0088",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0088",
+  "prompt": "A painterly winter village square, one glowing lamppost, frozen fountain, sled, chapel door, broad snow-covered ground, cozy but spacious, memory revisit friendly",
+  "image_content_sha256": "1577f7cdf5cbd50e9914fb33343517dd0e0c8844706cefdfc63e803a98105eed",
+  "prompt_sha256": "c1084ef2a2bd7826a7e68eaa5e78d47257712515cf7be2715d1d6ea092402255",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

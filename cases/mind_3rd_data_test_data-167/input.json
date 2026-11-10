@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-167",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-167",
+  "prompt": "A brightly lit art gallery features pristine white walls and light wooden floors, creating an expansive exhibition space. A person in dark clothing with a black backpack walks away from the viewer, traversing the polished floor. Displayed artworks include a large abstract painting with turquoise and orange tones, a golden longhorn skull sculpture, a landscape painting, and a framed sunflower image, while a long, dark tufted bench occupies the foreground.",
+  "image_content_sha256": "56d1ea4f2f515006d1b75309963566a572b58aa99032ff774813e2f8b6ea8f87",
+  "prompt_sha256": "b5cb6d95addb705d5db2563fee33654b54ddd352b5dd90b28ca2ebb3aeb3b62f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

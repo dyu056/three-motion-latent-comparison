@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_007",
+  "prompt": "First person view running forward on a Miami street sees a wolf (subject) in the front-left running forward, while another person in the front-left walks toward the right. As the subject jumps over a bush, the subject exits the FOV. Observer continues to run forward and jumps over the bush and re-sees the subject in its FOV which keeps running forward and having continued the run with continuous motion.",
+  "image_content_sha256": "4f5a1ccb849c40b4c8dab5355df9da5517e4471a19bab463585a67dd7682e6ad",
+  "prompt_sha256": "f352cce002681e70c55a3a1b89bf1de5108aad7a9453e8d6d7758ca5348e136d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

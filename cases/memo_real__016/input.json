@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__016",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__016",
+  "prompt": "A first-person view of a test tube containing baking soda with white vinegar being poured in. The camera smoothly tilts upward, causing the test tube to gradually exit the field of view. The camera then tilts back down, and the test tube re-enters the frame, revealing that a large quantity of bubbles is overflowing vigorously from the test tube.",
+  "image_content_sha256": "22247ff61f22be1146c7d264b44580c4ef1bdfa9348609558aa76c34541a1b2a",
+  "prompt_sha256": "2e4260a5f48521b5a305f8d4c30c5802c7fbb5eed32e30b2b2ea76f972c400ec",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

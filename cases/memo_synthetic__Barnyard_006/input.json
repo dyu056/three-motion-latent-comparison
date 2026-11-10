@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_006",
+  "prompt": "First person view as a person on the grassland  is standing still and sees a pig(subject) running from left to right. Observer turns the head to the right and the subject exits the FOV. Observer turns the head back towards left and re-sees the subject in its FOV which keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "577fef7da35242db9415906393e2696a5899753591835b6f396349bd60f0f0a3",
+  "prompt_sha256": "1be44664b3c55dbb5af85c4e871baf5e6643f65d5bc5a1b330fdb2cc22b39803",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

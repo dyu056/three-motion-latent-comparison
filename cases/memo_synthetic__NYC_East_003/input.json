@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_003",
+  "prompt": "First person view as a person on a street in the East Side of New York is moving straight ahead and sees a large sedan(subject) driving on the road from the left to right. Observer passes the vehicle (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV which keeps driving towards left and having continued driving with continuous motion.",
+  "image_content_sha256": "71befd2f9fba14396b0305eefa2d502e18ff77c45b6340ab06209943684c606d",
+  "prompt_sha256": "c9aa99086c3806942da4702c0b3f7598d47fe72cbbb09a6e32a6a5bbbd252ba3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0065",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0065",
+  "prompt": "An endless blue data archive hall, one glowing server monolith, numeric signs, moving light strips, broad open aisles, clean sci-fi virtual aesthetic, navigable structure",
+  "image_content_sha256": "ccf9371d04648a9f6927ca40dc58f8afc4de376f350825085f4c7e6579dd5738",
+  "prompt_sha256": "30e647ea272e5352d1917f7d8225bee4a84fbb9268149736cdfcdb6ec98283c2",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

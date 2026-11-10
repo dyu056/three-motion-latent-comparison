@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-231",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-231",
+  "prompt": "The expansive, arid landscape features undulating reddish-brown terrain leading to a distant mountain range with prominent dark red, stratified cliffs, all set beneath a clear blue sky dotted with white clouds. A lone male figure, dressed in a dark leather jacket, dark pants, and a backpack, walks across the textured ground, his back to the viewer. Bright, low-angle sunlight casts a long, distinct shadow ahead of the figure, illuminating the scene with sharp contrasts.",
+  "image_content_sha256": "2b5bf569af6f4dc6b24839890616d1c02327932d5caa370e283e2d0c709c3bcb",
+  "prompt_sha256": "7860a7634b3c4de37b1078e5a6a55eec05629e620ad79a577fb55031ea5fde1a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

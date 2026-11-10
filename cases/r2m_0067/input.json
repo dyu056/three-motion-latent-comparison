@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0067",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0067",
+  "prompt": "A dreamlike operating system desktop world, giant folder icons as buildings, one trash bin monument, cursor trail in the sky, open whimsical digital landscape, memory-friendly markers",
+  "image_content_sha256": "58e209085833b1729a4a5ec67772bcd4e69461051f5aa605fca3d75be683e8cc",
+  "prompt_sha256": "19e796c6a8415437216154d30581b90ab40cb3791a9a54fea009303a31946766",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

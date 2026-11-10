@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-178",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-178",
+  "prompt": "A dense, sun-drenched forest environment is illuminated by warm, golden light filtering through the canopy, casting strong highlights and shadows. Rocky terrain and abundant green foliage, including ferns, dominate the landscape, with a partially obscured stone ruin visible in the mid-ground. A male figure, clad in dark camouflage tactical clothing and a backpack, stands centrally on the grassy ground.",
+  "image_content_sha256": "1b00fcf8498aae9f476f5e50b69048d44a6ec05abe6c6497f351875513efdc70",
+  "prompt_sha256": "b87d3eaf69527ab58aaf134bfc54d1b6e29e4df1ca87525c4d049ab0fd4f3e19",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

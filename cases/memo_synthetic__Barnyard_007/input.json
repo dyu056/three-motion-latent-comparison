@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_007",
+  "prompt": "First person view as a lion is standing still and sees a deer(subject) running from left to right. Observer roars towards the sky and the subject exits the FOV. Observer then looks back down and re-sees the subject in its FOV which keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "193a332631144e078fe0afcc53ca87df5aaec5e7f37cdd9ebf8a78e4c869137d",
+  "prompt_sha256": "a2d4cf1b04a78c92c1548c31393c135b3a26caaaa6579f01d4996d1b0a60f912",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

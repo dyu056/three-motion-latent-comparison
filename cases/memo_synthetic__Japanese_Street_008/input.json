@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_008",
+  "prompt": "First person view as a person standing on a Japanese street sees a fox(subject) in the front-left running toward the front-right, while a distant person in front runs toward the observer. As the observer jumps up, the subject exits the FOV. Observer lands and then re-sees the subject in its FOV and having continued running forward with continuous motion.",
+  "image_content_sha256": "1edb5012a58991212bb035b4107260f5e31c58f3411fade69c67a647c3d0217c",
+  "prompt_sha256": "a70504161e3ba0f00d691286aea2758eb21739470dd2a1899e460efa6a061f49",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

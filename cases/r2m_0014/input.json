@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0014",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0014",
+  "prompt": "A desert highway rest stop, one vending machine corner, a tall signpost, picnic tables, fuel pumps under a faded canopy, huge open asphalt, harsh midday realism, broad and readable scene",
+  "image_content_sha256": "af46cfa6e6e1f8266ac90737f1506c25d895476cf06978235ac8890c9b6c333b",
+  "prompt_sha256": "9748e458ba982a2a86a6f9ac63e390a74528ff8dec0634f563ceb375fd293748",
+  "source_image_size": [
+    1376,
+    768
+  ]
+}

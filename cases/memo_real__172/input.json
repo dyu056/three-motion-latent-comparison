@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__172",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__172",
+  "prompt": "A first-person view of a piece of tissue paper laid flat on a table with blue liquid being dripped onto it. The camera smoothly pans to the right, causing the tissue paper to gradually exit the field of view. The camera then pans back to the left, and the tissue paper re-enters the frame, revealing that the blue liquid has rapidly spread and soaked through the tissue, creating a wide blue stain.",
+  "image_content_sha256": "999868f93534be5725279d11c5a23a94d6e294b17fbae8f8c3bcc36c24967791",
+  "prompt_sha256": "1c0b1de08a8eae5ba85c1e1e8ad3082e517da61277972e76f8e9d253d22c1d76",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-151",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-151",
+  "prompt": "A male figure in dark utilitarian clothing and a backpack stands in profile within a dimly lit, industrial interior space. The environment features dark metallic walls with horizontal grates and a large central circular hatch, alongside a gridded floor. Artificial yellow strip lighting provides stark illumination, contributing to a utilitarian and austere visual atmosphere.",
+  "image_content_sha256": "c86096c6587721d849ccb18b43ede3475d2e5d8534896b0868454097524c57ee",
+  "prompt_sha256": "e5ec16a80b834062c1cfd1d0fecffeb3a461fb91f96081c2f2076abc6536c45b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

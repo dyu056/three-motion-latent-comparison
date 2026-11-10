@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__216",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__216",
+  "prompt": "A first-person view of a cup of diluted starch water on a table with iodine solution being poured in. The camera smoothly pans to the left, causing the cup to gradually exit the field of view. The camera then pans back to the right, and the cup re-enters the frame, revealing that the starch and iodine have reacted, turning the liquid a dark grayish-blue color.",
+  "image_content_sha256": "c0d2df819e9a5d83d21c0a9b9834aee33c6f3749686380e03bd2e12a55a61dee",
+  "prompt_sha256": "bffbe753135e3fde9191f029f1c16f2f8f80c1feb681c45d6ca8fcbdb442cd9a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

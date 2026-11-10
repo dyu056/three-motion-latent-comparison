@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_011",
+  "prompt": "First person view as a bird flying forward on a Japanese street sees a person(subject) in the lower-front running toward the back-bottom, while another person in the front-left crosses toward the back-right. As the observer flies forward over the subject, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps flying forward and re-sees the subject in its FOV and having continued running forward with continuous motion.",
+  "image_content_sha256": "3f0b7f3443b00f66c800dadc25aeb3717e0de9810dbc2dc16b5a4af99692774a",
+  "prompt_sha256": "cde4a73d5989f6aacb27befc6d9ff53571f24ab991bbec3fcac4739e303c72a1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-211",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-211",
+  "prompt": "The scene unfolds within a sleek, futuristic interior space defined by metallic paneled walls with geometric designs and a highly reflective floor featuring concentric circular patterns. A dark, circular console with an illuminated, intricate orange and yellow display stands prominently to the right, while cables trace the floor's metallic grooves. Cool, ambient light reflects off all surfaces, illuminating a lone figure in a dark jacket and backpack walking across the polished floor.",
+  "image_content_sha256": "183462a3a55e4a574f4ebd055a64766febe3e981f49122d30e8c4ddcb796f401",
+  "prompt_sha256": "cb1a1587e85ba4f0d077ad7d5addaec85ccfe888ba4399270ab0fed3a14e86e3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

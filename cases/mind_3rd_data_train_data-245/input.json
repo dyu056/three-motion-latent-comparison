@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-245",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-245",
+  "prompt": "A dimly lit, enclosed industrial corridor features a dark tiled wall on the left and scattered rubble across the floor. A central armored figure, dark with prominent yellow and orange glowing accents, is positioned within the space, its feet emitting a distinct red light. The deep background remains obscured in shadow, punctuated by distant, faint orange-red light sources suggesting machinery or energy.",
+  "image_content_sha256": "74c513fe4973f01bb510a503140e96c0e79272bc0dd3e51f0fda4b55bc29e0fc",
+  "prompt_sha256": "547e542a832b86669162b7c33f857779d7429c074b7a0ac3f1b50144800815c5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

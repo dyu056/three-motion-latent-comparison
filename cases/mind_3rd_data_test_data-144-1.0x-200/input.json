@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-144-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-144-1.0x-200",
+  "prompt": "The scene depicts an urban streetscape with a brick-paved walkway, dramatically lit by a low sun that casts elongated shadows from mature trees and ornate streetlights. A landscaped planter brimming with flowers and shrubs separates the path from a row of multi-story buildings, adorned with storefronts and vertical banners. The atmosphere is defined by the warm, directional light of late afternoon, creating stark contrasts between illuminated surfaces and deep, intricate shadows.",
+  "image_content_sha256": "f12bcfeb3c238238dab03730bb21f986954f296b6e5ff25d8dc74a6c8126112d",
+  "prompt_sha256": "bbb91bb909a63b190d8ee02f724b8bd67d5c15e2b14190e524912c2f15dad447",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-168",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-168",
+  "prompt": "A brightly lit, modern art gallery features pristine white walls and light wooden flooring, creating a clean, expansive environment. Two framed artworks are prominently displayed: one depicting a verdant cliff overlooking a turquoise body of water, and another showcasing three white daisies against a dark green background. A dark-clad figure with a black backpack stands centrally, facing away from the viewer, while a black tufted leather bench is positioned in the lower right foreground.",
+  "image_content_sha256": "6e8c0c4444202a6818c38fe702308aefef34b20ccc46172d2486455eb8a4a107",
+  "prompt_sha256": "96eb6a9a49fcd9c200a0496be980f2adf6ee8a1a1c97d467569259a04f3f1e15",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

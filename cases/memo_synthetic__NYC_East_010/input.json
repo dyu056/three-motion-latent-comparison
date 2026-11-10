@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_010",
+  "prompt": "First person view as a person standing on an East New York street sees a bird (subject) in front flying toward the upper-right, while another person in the front-left runs toward the right. As the bird continues to fly, the subject exits the FOV. Observer turns the head to the upper-right and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's upper-left with continuous motion.",
+  "image_content_sha256": "2564807374fff8109b493d62213d49f83e6d33eae23347d10501fed46e48cbed",
+  "prompt_sha256": "37a9579358a05b01b32d4aecd9ffd26f147e7f2da468b6672d41c72e14c39273",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

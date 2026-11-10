@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-176",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-176",
+  "prompt": "A young male figure, dressed in dark clothing and carrying a backpack, traverses a hexagonal paver patio. Behind an ornate dark railing, three red and white striped umbrellas, each bearing \"KEEP PARK CLEAN,\" shade small tables and chairs, with trees and a fence visible in the distance. The outdoor scene is evenly illuminated by soft, diffused daylight, casting subtle shadows.",
+  "image_content_sha256": "ecc84c0c847b1d9938770699f506025a6751cf97e8b34db9bea72b61f9563b04",
+  "prompt_sha256": "a78e137854f39869aea063f65d71dffb0b06b40a8dfee53f7e78fa77442f8718",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

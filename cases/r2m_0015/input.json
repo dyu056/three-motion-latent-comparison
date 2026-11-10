@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0015",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0015",
+  "prompt": "An empty sports stadium exterior concourse, numbered gates, one giant team banner, security railings, broad concrete ramps, photorealistic wide shot, suitable for camera movement and revisit",
+  "image_content_sha256": "bacdb8654241cb26553f083b608317a627adca8f7229631a02226ba0d603d482",
+  "prompt_sha256": "69519a0693ac4a6bd9d0fc87c265d1f5d949c73fb0f3f33a2467f45273637367",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-197",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-197",
+  "prompt": "A male figure, clad in dark attire and carrying a dark backpack, is positioned on a grey asphalt road featuring prominent white painted lines and a central barrier-like structure. The road, stained with dark patches, is flanked by a sidewalk on the left, bordered by lush green trees, bushes, and park benches. Streetlights and traffic signals punctuate the urban landscape under an overcast sky, providing diffused, even illumination.",
+  "image_content_sha256": "ebe0a161c5d612c33003c482c7b4b2678bcf4494b3b4b54825611411c063270c",
+  "prompt_sha256": "2f49883c28a507c1df8ad913fc4aa042033ca34780961404c3df26d43f6769c9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

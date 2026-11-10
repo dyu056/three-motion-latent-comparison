@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__013",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__013",
+  "prompt": "A first-person view of a disposable cup of water with disinfectant being poured in. The camera smoothly tilts upward, causing the cup to gradually exit the field of view. The camera then tilts back down, and the cup re-enters the frame, revealing that the disinfectant has diluted and the water has turned yellow and is filled with foam.",
+  "image_content_sha256": "dd25dca3e85ed973d3cb34fe82674e6e8d9bfaf39966be72b5cc1273c48a7173",
+  "prompt_sha256": "747bdffbefe6fe7f9bc8d5ec12d76efc349f36b64fc51dafdb87d93f89d7717d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

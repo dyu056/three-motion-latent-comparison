@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-154",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-154",
+  "prompt": "A futuristic armored figure stands centrally within a dark, rocky cavern, its metallic suit adorned with glowing orange accents. The uneven ground is composed of rough stone, with illuminated green foliage clinging to the left wall and obscured wooden debris partially visible on the right. Dramatic, high-contrast lighting from unseen sources casts sharp highlights on the rock formations and the figure, creating deep shadows throughout the subterranean environment.",
+  "image_content_sha256": "7ba9097a3c344116c7a4fd4d3466085f6ffcd13f94636537f55df44c337e743c",
+  "prompt_sha256": "ee996c300eca24e7e4f2e1ea1ac67353762b643584bad29895ee499c0ca7222f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

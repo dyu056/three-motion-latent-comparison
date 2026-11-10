@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-120",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-120",
+  "prompt": "The scene presents a vibrant, stylized cyberpunk cityscape featuring towering, multi-layered buildings constructed from metal panels, concrete, and exposed industrial conduits. Urban thoroughfares and interior spaces are marked by pixelated graffiti, including large eyes and a skull motif, geometric pavement patterns, utility vehicles, and a distinctive yellow robotic device. The atmosphere is dynamically lit by a blend of cool blue and cyan neon, fluorescent fixtures, and warm red and orange accents, creating sharp contrasts and deep shadows under both bright skies and dim, artificially illuminated conditions.",
+  "image_content_sha256": "aa4656a0e2bc98170dc4906c94a7c19424070a0e61be1fe0df7047974837b5f0",
+  "prompt_sha256": "1d609d43dde6df69bf36ac1f4237caefd34e7c0a677cdd8214d28e91645177d8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

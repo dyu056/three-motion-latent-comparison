@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-146-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-146-1.4x-250",
+  "prompt": "The scene presents a stark, rugged landscape dominated by dark, reddish-brown mountainous formations under a partly cloudy sky. A male figure, clad in a dark jacket, blue jeans, and a prominent dark backpack, walks across the deeply shadowed foreground. Strong directional lighting illuminates the distant peaks and casts a distinct, elongated shadow from the figure onto the barren ground.",
+  "image_content_sha256": "25f674fb51dda2a36d7da030745599561a5e087555c1cc2ba14b1eddcb6032d3",
+  "prompt_sha256": "efcc1b60e0626485cbbe292878c2550b8e1e8e3bf55fadb2321c745799808c8a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

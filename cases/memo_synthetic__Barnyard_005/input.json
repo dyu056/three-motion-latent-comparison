@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_005",
+  "prompt": "First person view as a wolf on the grassland is moving straight ahead and sees a pig(subject) walking from the right to left-front. Observer jumps up and the subject exits the FOV. Observer then lands and re-sees the subject in its FOV which keeps walking towards left-front and having continued its movement with continuous motion.",
+  "image_content_sha256": "2d22f28664f3a8f1d168eaa06da845d6ba4bf4b254c0c7a594f8d344ed7d98e8",
+  "prompt_sha256": "56a3af368e95f8003c8e92e86df36e71ec3a5f2c9d8b93ddfc8f448e28b6f4f0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

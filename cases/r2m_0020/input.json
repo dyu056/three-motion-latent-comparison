@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0020",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0020",
+  "prompt": "A large civic center square, central flag mast, wide steps, digital information board, low fountain jets, spacious public architecture, highly readable layout, memory revisit friendly",
+  "image_content_sha256": "992e648f0801f68680ca8a07658ce81f15a6be9a67cd9224dce7db8d9f651800",
+  "prompt_sha256": "53b6407d1733a47372a6fc09386ae621135c75561c81a933d41a636c2f6491c8",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

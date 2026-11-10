@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-225",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-225",
+  "prompt": "The scene unfolds within an expansive, ancient-looking architectural interior, characterized by a sandy floor interspersed with light-colored stone paving and numerous robust pillars. A dark, armored figure with prominent orange accents occupies the foreground, while the background reveals ornate arched windows featuring turquoise and gold accents, alongside a textured golden wall panel. The environment is brightly and evenly lit, creating a clear, well-defined atmosphere with soft shadows.",
+  "image_content_sha256": "f50b8dfb61ddc33ad24e81dd1b59eccd4d2c84cb8408e257a1cd4602e0609eb0",
+  "prompt_sha256": "1e4a219dff040dab477d075392cf7cb090e4ff52b6ea0b85dbb16d87b5ba1253",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

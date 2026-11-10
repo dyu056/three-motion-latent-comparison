@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__209",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__209",
+  "prompt": "A first-person view of a lit candle on a table with a plastic cup held over the flame by tongs. The camera smoothly tilts upward, causing the candle and cup to gradually exit the field of view. The camera then tilts back down, and the candle and cup re-enters the frame, revealing that the plastic cup has significantly melted and deformed from the heat, with burn marks and warping visible.",
+  "image_content_sha256": "31abb49a144466b58561a0645b653db91eb729698e051ce72677eb7f3aca069d",
+  "prompt_sha256": "5e23669986eceeb2bb946059fe1c68c986d631822f1a1f55175d1eb89f5a1a57",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-217",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-217",
+  "prompt": "The scene presents a dimly lit, ancient stone corridor characterized by robust, block-built walls and a wide, multi-tiered staircase ascending into the background. A central figure, clad in a dark, futuristic armored suit with prominent orange and red glowing details, navigates these steps, while ornate, carved archways frame the upper background. The overall lighting is warm and subdued, creating deep shadows and emphasizing the rough texture of the stone, contributing to a mysterious and enclosed atmosphere.",
+  "image_content_sha256": "3c954c103f1f90d6c4d7c4637bbbb9a9d7a2fe960bfdcda10d21fbacaa7795b6",
+  "prompt_sha256": "00525f7b86742cb428f3b610306bc50c7978a880d6aba3f28d19a95f22672ead",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

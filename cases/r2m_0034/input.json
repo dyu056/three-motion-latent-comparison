@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0034",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0034",
+  "prompt": "An open tundra plain, a research tent, flag markers, one satellite dish, snow patches, long sightlines, realistic cold atmosphere, stable geometry",
+  "image_content_sha256": "08ab753bbdc26639ffed4f6a67a0bbfd1af5fe6cc1534e23650b5533e2d7b064",
+  "prompt_sha256": "fdfb1fb4604c139d8aa11762bfbed42f0b5d4327e876acad14794828dbbd9eb1",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

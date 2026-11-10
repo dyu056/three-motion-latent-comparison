@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_005",
+  "prompt": "First person view as a lion on the grassland of an old factory is moving straight ahead and sees a rhino(subject) running toward the observer from front-left. Observer passes the rhino (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps running forward and re-sees the subject in its FOV and having continued the run towards front-left with continuous motion.",
+  "image_content_sha256": "8c962f1263ae3d9b79b177c880df3a71d39dc3f4b60f793ed14f2da83e7fd351",
+  "prompt_sha256": "f44127813fe2e1994e43f0e81ef8a421e6f87a6f1c2d65ad0b4a2514a4cc5f57",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

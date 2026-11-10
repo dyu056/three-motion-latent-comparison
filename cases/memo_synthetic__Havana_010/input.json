@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_010",
+  "prompt": "First person view in a car on a Havana street sees a nearby person (subject) crossing from left to right, while a distant pig in front runs toward the observer's back-right. As the observer drives past the person, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps driving forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "a499d4ca5e4654523f204a3991f961d209c21b2400bf67d78f180c2e902a4bc0",
+  "prompt_sha256": "064d7243cc6bc0e34e27e298b5219889649e9fea268c39be95b95baa89c3b3a7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

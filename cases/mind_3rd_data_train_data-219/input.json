@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-219",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-219",
+  "prompt": "The scene depicts a vast, verdant mountainous landscape featuring a brilliant turquoise lake, bordered by dense coniferous forests and distant, rugged peaks. A lone male figure, clad in a dark jacket and backpack, stands at the water's edge, with lush green foliage and tall grasses framing the immediate foreground. Strong, golden sunlight emanates from the upper right, illuminating the water with shimmering reflections and casting a warm, serene glow over the entire natural vista.",
+  "image_content_sha256": "b245463cc490d2c01f1016d4f8a1f931d1704dfaf70d4bea5bfaecd6c036a638",
+  "prompt_sha256": "34911ea57144d9bc333fbd5b1a3b6d4e138fc6a1473ace2d7799c0b9f875fe9a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

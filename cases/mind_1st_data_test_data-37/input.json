@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-37",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-37",
+  "prompt": "A vast desert landscape unfolds under a clear blue sky, dominated by rolling sand dunes that extend to the distant horizon. The foreground features intricate ripple patterns etched into the golden sand. A brilliant, unclouded sun shines intensely overhead, casting bright light across the arid terrain.",
+  "image_content_sha256": "89dd506c2c2699460ea3097ac1e7eefdba3b92419c8a5021047bc0e1378616cc",
+  "prompt_sha256": "8b3ddac80c9cd2765d38c7127711ec0dba0dde8472628f31dba5fafca3de68a1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

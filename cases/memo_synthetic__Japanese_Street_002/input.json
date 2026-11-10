@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_002",
+  "prompt": "First person view with a bicycler is moving straight ahead on an asphalt road sees a person(subject) crossing from the right to left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps riding forward and re-sees the subject in its FOV who keeps walking towards rightand having completed the crossing with continuous motion.",
+  "image_content_sha256": "ee20087a10e4101894f1033cc8e045f91c4bb5d631b391047caa678b765fee2f",
+  "prompt_sha256": "82a592ae0b0f0f6673702202f3a5236fd424298c0f15f453e9ad8368f3e02c13",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

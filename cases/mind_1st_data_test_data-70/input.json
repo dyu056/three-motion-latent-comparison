@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-70",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-70",
+  "prompt": "The scene unfolds within a series of dark, metallic interior spaces, suggesting a futuristic spacecraft or industrial facility. Corridors and rooms are characterized by exposed conduits, pipes, grates, and control panels, leading to robust, sealed doorways. The pervasive atmosphere is defined by cool blue and cyan illumination from overhead fixtures and floor strips, occasionally accented by red warning lights, creating a mysterious and utilitarian ambiance.",
+  "image_content_sha256": "80e18716325470295ab5b5336689f58598e137cf843ace1d3e1dd7592201ea6b",
+  "prompt_sha256": "737f53cee819931a3fdc2c5311ab76872210c782acadf4d430e0c827ffe5f6f5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

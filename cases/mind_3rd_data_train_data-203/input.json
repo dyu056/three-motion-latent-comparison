@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-203",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-203",
+  "prompt": "The scene unfolds within a sterile, highly reflective metallic corridor, featuring polished walls and a gleaming floor that mirrors the environment. Two large, recessed openings dominate the space; the left presents smooth, reflective panels, while the right reveals a textured surface of horizontal slats. A figure in dark clothing and a backpack walks forward under cool, diffused overhead lighting, which casts a pervasive blue-silver ambiance across the entire setting.",
+  "image_content_sha256": "a4f050c5688821dbe5e4dc70534dece010815d9455341925cedd9177a43e1bf9",
+  "prompt_sha256": "8465bf2b4aca0b5c3bf58227be527f14304b459b52e28fa2474b9362fb5d2edf",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0024",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0024",
+  "prompt": "An open underground metro concourse, central ticket barrier line, a blue route map wall, vending machines, structural columns, wide empty floor, realistic urban interior, clear geometry for revisiting",
+  "image_content_sha256": "8994a6a0de54a2c4c0efaf4aff180faeb22bdf569badeb6b206f3059d0ae0f8a",
+  "prompt_sha256": "bb2025ed16310ed93fac1dd2120a5ba2df7e82aa338bcff1313f3e7174e48431",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

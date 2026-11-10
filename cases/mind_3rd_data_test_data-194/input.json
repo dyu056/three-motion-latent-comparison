@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-194",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-194",
+  "prompt": "A stylized village scene unfolds under bright daylight, featuring a dirt path flanked by vibrant green grass and rustic wooden fences. Numerous cartoon-like buildings with stone bases, timber frames, and shingled roofs line the path, leading into the distance. A male figure, viewed from behind, wears a dark jacket and backpack, casting a distinct shadow on the sun-drenched ground, while stacked wooden barrels are visible near one of the structures.",
+  "image_content_sha256": "78166113568b4f389811d255e8094537243ba4272e8c20a3fd63e161158b1955",
+  "prompt_sha256": "c5c65d7cca7bdd82bd3e799faf4d6fd365fbbe3cc46311305e3e94e08d365654",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

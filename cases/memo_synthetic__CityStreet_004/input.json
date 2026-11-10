@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityStreet_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityStreet_004",
+  "prompt": "First person view in a sports car on a city street is moving straight ahead and sees another sports car(subject) moving from the left to the right. Observer passes the vehicle (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps driving forward and re-sees the subject in its FOV which keeps driving towards left with continuous motion.",
+  "image_content_sha256": "c7a7b632a9a5e4533ed14b81b39865c5f77b95e6e704674d64fa07274995d50a",
+  "prompt_sha256": "05012ee82b1f02296bc866d754c9296575c85ff0ecf3d0eb347fc929dc561d01",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

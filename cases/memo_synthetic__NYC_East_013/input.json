@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_013",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_013",
+  "prompt": "First person view as a person standing on an East New York street sees a car (subject) in the front-left driving toward the back-right, while another person in the front-right walks left. As the observer looks up and starts to run, the subject exits the FOV. Observer bows the head back and re-sees the subject in its FOV and having performed a U-turn to keep driving in the opposite direction which towards front-left with continuous motion.",
+  "image_content_sha256": "165b6abdc96afca12b59812ecccf04b86282dae471517c47561caf82b5c2b153",
+  "prompt_sha256": "14086db2be1d67ff4c2aeab6dbd035dc838a3075f900c7362a1395fd3a01eeb4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

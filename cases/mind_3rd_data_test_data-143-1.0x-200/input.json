@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-143-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-143-1.0x-200",
+  "prompt": "The scene depicts an indoor industrial facility, characterized by extensive machinery and a prominent conveyor belt system. A male figure, dressed in a dark jacket and carrying a backpack, traverses a floor marked with safety warnings, while a yellow robotic arm and a grey electrical cabinet with \"DANGER HIGH VOLTAGE\" signage are visible in the background. Bright artificial overhead lighting illuminates the space, creating a clear, functional atmosphere and highlighting the metallic textures of the equipment.",
+  "image_content_sha256": "2002d46c543f5339f3aff779f8e99b4d9d76971866280c148e463e72c11dd42a",
+  "prompt_sha256": "089cb31f8f7577c0724336f8ddf2d846737c1c372e0bc71bedcee2b2ec205f44",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

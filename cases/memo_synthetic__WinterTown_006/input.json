@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_006",
+  "prompt": "First person view as a person in Wintertown is standing still and sees a crocodile(subject) swimming from left to right in the river. Observer turns the head to the right and the subject exits the FOV. Observer then turns back head towards left and re-sees the subject in its FOV which keeps swimming towards right and having continued the swim with continuous motion.",
+  "image_content_sha256": "962133d80f00bff1ac28daaa2389ab9a93095cd0f7ee1732530ca8638c0d61b9",
+  "prompt_sha256": "10d0d5a37979162a450943d9f0c752b962128e0f6f2791f582a3707b2912995f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

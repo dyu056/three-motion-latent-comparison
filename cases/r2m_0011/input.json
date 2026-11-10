@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0011",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0011",
+  "prompt": "An old European town square at sunrise, central stone well, a clock on the church tower, one flower cart, cobblestone ground, open square, gentle realistic atmosphere, clear geometry for revisiting",
+  "image_content_sha256": "c7bcdcae0b75c08404dde68042f29a890d5cea097ffd7c30cf57ddd7735eebe5",
+  "prompt_sha256": "37288e04176f01f2b73bab8698fa59407bc6999dada91f878360ff58f2ebef2e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

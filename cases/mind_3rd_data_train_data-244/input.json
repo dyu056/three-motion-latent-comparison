@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-244",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-244",
+  "prompt": "An outdoor playground features a textured blue safety surface, interspersed with various brightly colored play structures. Dominant elements include multiple blue and green metal slides, climbing frames, and ladders, while a dark-haired individual in a black leather jacket and backpack traverses the foreground. The scene is illuminated by bright, even daylight, casting soft shadows that suggest an overcast sky.",
+  "image_content_sha256": "cbc6ccba239bd84ae8853e9e1194086354e81669fac4e924292e1003a6651c88",
+  "prompt_sha256": "2091738c6a4612bb76edd6ac80810de9a8443ebf44204bdbe0d51d64e2b48786",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

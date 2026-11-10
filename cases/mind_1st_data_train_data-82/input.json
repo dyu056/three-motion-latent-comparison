@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-82",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-82",
+  "prompt": "A central, multi-tiered structure, resembling an ancient temple crafted from dark, block-like materials, rests upon a textured, golden-orange metallic platform. This expansive platform, adorned with glowing turquoise-blue accents and outlines, extends into a deep black void, where additional curved, arch-like forms are faintly visible in the distance. The environment is dramatically lit by a stark contrast of warm golden light reflecting off the metallic surfaces and cool, vibrant turquoise luminescence highlighting structural edges.",
+  "image_content_sha256": "17612d0544c35aea0e433d31c740dab81afc2389a0247e6a5bbde8da69a17251",
+  "prompt_sha256": "9d19b5b92a320d8abf72fd0d5f60e275782a94c8d1b80cd963c7cb28c22e2d5a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

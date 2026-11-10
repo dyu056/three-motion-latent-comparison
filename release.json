@@ -1,0 +1,11 @@
+{
+  "schema": "three_motion_pages_release_v1",
+  "expected": 710,
+  "complete": 710,
+  "bytes": 488200725,
+  "file_count": 4274,
+  "video_frames": 37,
+  "video_fps": 8,
+  "source_summary_sha256": "3a2052a57083ca25287fd9aaa66e38810e5fbed8646a587f084a95a2d565769c",
+  "published_summary_sha256": "3a2052a57083ca25287fd9aaa66e38810e5fbed8646a587f084a95a2d565769c"
+}

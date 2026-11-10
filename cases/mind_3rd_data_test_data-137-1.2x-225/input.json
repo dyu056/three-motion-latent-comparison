@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-137-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-137-1.2x-225",
+  "prompt": "A paved brick walkway, bordered by mature trees and ornate streetlights, extends through an urban setting. To the right, a multi-story brick building houses storefronts with outdoor seating, while decorative banners adorn the lampposts. The environment is illuminated by the warm, low light of a sunset, casting long shadows and revealing distant mountains under a golden-hued sky.",
+  "image_content_sha256": "3ce1f32d8525f2054bfdbb6a883292531b2454cfd0c499d52a75a17f127110e3",
+  "prompt_sha256": "e057910b11a8b9b87fa487c9b2155126db5529c75386d9f5dbb3bbfb857b7e5b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

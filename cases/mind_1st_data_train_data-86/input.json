@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-86",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-86",
+  "prompt": "A rugged, mountainous landscape unfolds under a vibrant blue sky dotted with scattered white clouds. Large grey boulders and dark green coniferous trees flank a winding, rocky path that traverses the uneven, grass-covered terrain. Bright natural daylight illuminates the scene, casting sharp, distinct shadows across the textured rocks and foliage.",
+  "image_content_sha256": "1a06429544f5eadfc94742b33e49e3da1308f46f59657363a942346f52333774",
+  "prompt_sha256": "320b325d5d6d232ee8838993076b3f0789cb3954cc47482dd40c1c68379257ec",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

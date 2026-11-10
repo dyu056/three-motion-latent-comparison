@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_010",
+  "prompt": "First person view as a wolf walking forward in Wintertown sees a pig (subject) in the front-left running toward the front-right, while a deer in the front-right runs toward the left. As the observer jumps up, the subject exits the FOV. Observer lands and then re-sees the subject in its FOV which keeps running towards front-right and having continued the run with continuous motion.",
+  "image_content_sha256": "2bd5a7a4425673715a83e4cdeba395f0d977537c509dd8478013b54a42d9e298",
+  "prompt_sha256": "8c168ce50350f805a96ca06cc63726e3dca6254597bf45d660ec63e66baa0c57",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

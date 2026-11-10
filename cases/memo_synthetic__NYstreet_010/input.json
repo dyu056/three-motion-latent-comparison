@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_010",
+  "prompt": "First person view as a person standing on a New York street sees a bird (subject) in front flying towards upper-right, while another person in front walks toward the right. As the bird continues to fly up and moves out of range, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having turned direction to fly toward the left with continuous motion.",
+  "image_content_sha256": "b083073c56e0c833a7ec0394937d211f6bc462ea7c83b2fc98a2c5a16f28e27f",
+  "prompt_sha256": "d0de666dabd276f43fcdef5028b434cdf4c801e50a9e5a358281bbc87bbd1529",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

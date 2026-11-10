@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_016",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_016",
+  "prompt": "First person view as a bicycle riding forward at a T-junction in Miami sees a person (subject) in front running toward the right, while a person in the front-left walks right and another bicycle in the front-left rides right. As the subject continues to run, the subject exits the FOV. Observer reaches the junction, turns right and continues to ride forward, then re-sees the subject in its FOV who keeps running forward and having continued the run with continuous motion.",
+  "image_content_sha256": "1f461a2fd1555ccdecfac66905572f4668ac1627917cb737a9454e58298139fd",
+  "prompt_sha256": "af51255ae90e26e2b78b0bf19b1116707e24a5237e32e55f24c7c0bf2e02ab7f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

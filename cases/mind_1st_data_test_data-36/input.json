@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-36",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-36",
+  "prompt": "The scene depicts a confined, metallic corridor characterized by modular wall panels and a dark, gridded floor. Overhead and along the walls, numerous orange conduits, some wrapped in white insulation, are secured, while green emergency exit signs punctuate the surfaces. Dynamic artificial lighting, including localized blue and white illumination and vibrant red and blue glows from rectangular doorways, casts sharp shadows and defines the functional, high-tech atmosphere.",
+  "image_content_sha256": "33bfec84500b7bc4e0ab80ce4f5735cb6ffea9713a07430c34fc2fe8016d5c5b",
+  "prompt_sha256": "03a88b1d634cc6e882e74f250421078cac8a6ccaae96f3d8e5a6a74db660b1f8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-24-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-24-0.6x-150",
+  "prompt": "The expansive interior facility features a blend of industrial architecture with concrete walls and extensive glass partitions, revealing lush garden areas, all unified by a consistent light blue floor. Dominant elements include large digital screens displaying abstract code and vibrant graphics, industrial machinery, circular glowing panels, and artistic installations such as geometric light pillars, abstract paintings, and suspended metallic rings, often accompanied by bundles of colorful electrical wires. The atmosphere is dynamically illuminated by overhead fixtures, intense colored light beams (red, blue, yellow) from geometric prisms, and the luminous glow of various digital displays, creating a high-tech, often surreal, and visually stimulating environment.",
+  "image_content_sha256": "c1df6688c39c604b1c0fc23dd2e1cff3470981e6c53ab4e35b3b11d2fe29f6cc",
+  "prompt_sha256": "18d7814af72503a90f0b02e3d46781d0b7a6a6e05492a7f8c04441ccb337f220",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

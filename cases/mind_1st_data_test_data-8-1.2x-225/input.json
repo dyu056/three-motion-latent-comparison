@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-8-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-8-1.2x-225",
+  "prompt": "The environment is a sprawling, multi-tiered industrial complex featuring weathered concrete walls, exposed metal infrastructure, and damp, reflective flooring. Prominent artificial elements include glowing red \"NO SIGNAL\" and \"DOWNTOWN\" signs, abstract orange graffiti, and a central, pale humanoid statue with outstretched arms. The scene is dramatically lit by clusters of cool cyan and warm orange neon, creating a stark, high-contrast atmosphere amidst deep shadows.",
+  "image_content_sha256": "f4ff8c5455f8c8fbd76d20689038cfbeba9f476812385a99628bdb5bc034c059",
+  "prompt_sha256": "d7a71957501c27fb9c3c9cfd1a2def3c29ce64117319bd6dd200b7c9d44fba82",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

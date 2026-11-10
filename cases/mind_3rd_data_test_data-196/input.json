@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-196",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-196",
+  "prompt": "A rugged cave entrance features massive, dark rock formations and an uneven ground covered in vibrant green moss and jagged dark rocks, with a dense fern on the left. A figure, viewed from behind, wears a dark leather jacket, dark pants, and a prominent dark grey backpack. Strong, warm directional light streams into the space, creating bright highlights on the moss and rock surfaces while casting distinct shadows across the earthy terrain.",
+  "image_content_sha256": "067752cf34e51483584172bc3b609fd47ff7973ec0171c078a50b981611acc27",
+  "prompt_sha256": "de269ef27ce7771210daa8f9d21c86dfe479a0c0a39a0db7c6a6f7d4ea92434a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

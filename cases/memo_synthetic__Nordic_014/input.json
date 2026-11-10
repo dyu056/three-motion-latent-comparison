@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_014",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_014",
+  "prompt": "First person view as a person standing by the river on a Nordic street sees a person (subject) in the front-right walking forward, while another person in the front-left runs right. As the subject jumps down and reaches a lower level, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV and having continued walking on a lower level forward with continuous motion.",
+  "image_content_sha256": "86d4a289edcf0ead13e4cf586bb2d659e7805ecb4f2d189199a58dc2fbca6d3a",
+  "prompt_sha256": "2dd9f9f8f73dcfcf273d64656f375f69697a1497b280f3a2b0f5e887af3d85bd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

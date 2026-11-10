@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0082",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0082",
+  "prompt": "A cel-shaded futuristic plaza, one hologram tree, vending machine, hovering tram sign, wide clean paving, bold readable landmarks, stylized animation look",
+  "image_content_sha256": "d16d2c929d0c55c39c9c2cbf487bdfe8808ffda3ba530b2e1490f5ebf25029e7",
+  "prompt_sha256": "646c56751f7dea0fb22c7600cfa1f2f9851c11ce9c4f2fa385682280b40c6e25",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

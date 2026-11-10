@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0094",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0094",
+  "prompt": "A Roman forum-inspired open plaza, one broken column cluster, statue pedestal, fountain basin, broad stone paving, spacious archaeological scene, strong spatial memory cues",
+  "image_content_sha256": "454b35963008f60baf9280cc4d01ee7bada5d3f64e0d4bbee3f30acfc490e43e",
+  "prompt_sha256": "68ee3e4a80bc3019688b26d353223393837831517ccc56d82de5d5c13714acd9",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

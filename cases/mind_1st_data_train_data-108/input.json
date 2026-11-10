@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-108",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-108",
+  "prompt": "A vast, arid desert landscape unfolds under a clear, brilliant blue sky. The foreground and midground are dominated by extensive, undulating sand dunes exhibiting intricate ripple patterns. Distant mountains punctuate the horizon, all bathed in the intense, direct light of a high, radiant sun.",
+  "image_content_sha256": "bd140dd9a92c8adfd02e6cc084924f6bbdb5c04d6e0bf9222c3fd141ef115571",
+  "prompt_sha256": "f3e8c0143fa2b0ffcd8c51eebfc0d2575164bd76d408293c1e016552c7fe4163",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

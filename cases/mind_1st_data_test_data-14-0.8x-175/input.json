@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-14-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-14-0.8x-175",
+  "prompt": "The interior of a rustic establishment features dark wood-paneled walls, a planked floor, and an exposed beam ceiling with prominent wooden beams and two hanging light fixtures. A central round wooden table with chairs, a bottle, and glasses anchors the space, flanked by a large decorative wagon wheel and a wooden chest on the left, and framed artwork with shelves on the right. Bright natural light streams through multiple curtained windows and a saloon-style doorway, contrasting with the warm, dim illumination from overhead fixtures, creating an inviting, aged ambiance.",
+  "image_content_sha256": "70ba6f83bbe467b67257b17d8bc1ed1124dbef91059b7eb57e10745f24369e14",
+  "prompt_sha256": "b8a12fad51652cf706c76141e21c2a2c9bdb70c5f6b9e07ab4f335760b162561",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

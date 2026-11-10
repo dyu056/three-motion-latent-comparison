@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_004",
+  "prompt": "First person view as a zebra on the frozen river in Wintertown is moving straight ahead and sees a crocodile(subject) moving from the front to the back left. Observer continues running and subject exits the FOV and follows a curved path to the left and performs a U-turn. Observer keeps running forward then re-sees the subject in its FOV which keeps moving forward and having continued the run with continuous motion.",
+  "image_content_sha256": "6dfeb768c55608372bec70b07847991e05bd305483a61e4ebb229a6add950b9e",
+  "prompt_sha256": "8fcd416d8a8946252799ff6d765ff629992570d9dee9a7d6d0d92c90ad217035",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

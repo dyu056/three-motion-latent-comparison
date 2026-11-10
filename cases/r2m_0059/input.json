@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0059",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0059",
+  "prompt": "A ringworld agricultural sector, one irrigation tower, long crop rows, transport track, artificial sky overhead, broad and navigable futuristic scene, strong spatial layout",
+  "image_content_sha256": "19830f4c357233d3fad93447436693f1b03b74a2568cd3f59afb30048dcea5ba",
+  "prompt_sha256": "cb5f596960046fe756b3f359a914c9c6f4f4e468a65637207288932cb9370396",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

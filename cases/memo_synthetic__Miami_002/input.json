@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_002",
+  "prompt": "First person view as a person on a street in Miami is moving straight ahead and sees another person(subject) crossing from the right to the left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps walking forward then re-sees the subject in its FOV who keeps walking toward right and having completed the crossing with continuous motion.",
+  "image_content_sha256": "3ea0fc8a73e6e624e6d64ec9fd8a983b349dd64189b7629d42db83041575e990",
+  "prompt_sha256": "23c6ffa4c80b1882c72a70e42ac7d8a737ec88b896d293cda2f31446dce08429",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

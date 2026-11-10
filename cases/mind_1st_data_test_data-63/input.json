@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-63",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-63",
+  "prompt": "The scene presents a stylized, snow-covered winter landscape under a clear blue sky, characterized by gently rolling hills and large, smooth rock formations. Minecart tracks wind through the pristine white ground, leading past wooden structures such as a mine entrance with a glowing lantern, small cabins, and minecarts filled with blue crystals. The environment is populated with snow-laden evergreen pine trees and gnarled deciduous trees, all brightly illuminated by a clear, natural daylight.",
+  "image_content_sha256": "9e67c5ff9e2eea22f3a47e645078e52d902a8428a478519af83cb0b087f79cbd",
+  "prompt_sha256": "674e9121eef7125bdcf419595e4fdd51c603d08c77e27ccf3d4b48a35a5effa4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_007",
+  "prompt": "First person view as a person standing in a medieval village sees a bird (subject) in the upper-front flying toward the upper-right, while a pig in front walks toward the observer's back-right and a wolf in front runs toward the observer's back-right. As the bird continues to fly, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's upper-left with continuous motion.",
+  "image_content_sha256": "87d60588f78885d4eaaf8c7597f27b4982fccc91f5e306a794b83e90691108f4",
+  "prompt_sha256": "1115fe0b2b0c23d7d59f9e54bc5c2e6832afe4f4b6cb4204c65bb8482aa6b6ee",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

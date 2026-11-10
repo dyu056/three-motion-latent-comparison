@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__085",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__085",
+  "prompt": "A first-person view of a lit candle on a table with a plastic bag held over the flame. The camera smoothly pans to the left, causing the candle setup to gradually exit the field of view. The camera then pans back to the right, and the candle setup re-enters the frame, revealing that the plastic bag has visibly shrunk and contracted from the heat, deforming significantly.",
+  "image_content_sha256": "e4bfb196fadc067a423ea3772cbff44c8881ea655cd78b06acf1ea28670bf7e7",
+  "prompt_sha256": "08aca544e53f8375e75e6b1a180a7ca8a6174cd897322d9466a52576da611773",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

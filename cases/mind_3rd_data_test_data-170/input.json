@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-170",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-170",
+  "prompt": "A dark, low-light environment dominates the scene, with an overcast sky casting minimal ambient illumination. Uneven, dark terrain and a prominent, textured rock formation define the midground, while a central, armored figure glows with distinct orange and yellow light accents. In the distant background, a sprawling, densely packed futuristic city radiates with numerous small, bright windows and structures, interspersed with dark coniferous trees.",
+  "image_content_sha256": "55987172688660ca020c6abcfc61d28ef97a7fd3137ff656b4fac6ff77d8841f",
+  "prompt_sha256": "7cbab1558295ed870450c06f05f534f8e881f2a9687963e6e1308e636e90c397",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0089",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0089",
+  "prompt": "A comic-book rooftop battleground, one water tower, neon sign, ventilation fans, safety ladder, open roof surface, bold graphic shadows, strong reference points",
+  "image_content_sha256": "be833fa0502bae78d293804ebd271d64f998aa9bf637a0a2057cc46065062e51",
+  "prompt_sha256": "323ef8a3a281a864da63c01a4c4c25846cff9d6783b49936c5c9a0529bb091c8",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-90",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-90",
+  "prompt": "A vast, arid desert landscape unfolds under a brilliant, cloudless blue sky. The foreground is dominated by expansive, golden-brown sand dunes featuring intricate ripple patterns. A high, intense sun illuminates the scene, casting minimal shadows and highlighting the subtle contours of the distant horizon.",
+  "image_content_sha256": "eda04eb4769c5a911f8423d88dd6c65449d3c585d8bfeba7f5536aa69c054fcc",
+  "prompt_sha256": "ff93004bd6bba84f803b250361ead53d142aaa00d9e3b355216d536cbcc72802",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

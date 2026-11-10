@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_004",
+  "prompt": "First person view as a person on a city street in Havana is standing still and sees a fox(subject) running from left to right. The subject exits the FOV, and the observer turns the head to the right. Observer then re-sees the subject in its FOV which keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "52a98f9de3236f8b835cb9aeca57b878dba3a86b42ad3e730f0a891a62513dc0",
+  "prompt_sha256": "e1e7fba33f621e3b2c90c45d3eb7742f372bad6652a505cc987785584d6ce8a4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

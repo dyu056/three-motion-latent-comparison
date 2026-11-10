@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_011",
+  "prompt": "First person view running on a Havana street sees a pig (subject) in the front-left running toward back-left, while a person in front runs toward the left. As the observer runs past the pig, the subject exits the FOV. Observer follows a curved path to the left and performs a U-turn and keeps running forward and re-sees the subject in its FOV who keeps running forward on the front-left and having continued the run with continuous motion.",
+  "image_content_sha256": "c09d937bcc0c007eb2a7df3e97cff7c1ec63099c8b2201774156392d7c25dd64",
+  "prompt_sha256": "28376c068e157e77ea6e516bb170037f1cdde92daccc00062f0982589ddf9fc6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

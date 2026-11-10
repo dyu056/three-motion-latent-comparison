@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_012",
+  "prompt": "First person view running forward in a Citypark sees a person (subject) in the front-left running toward the observer's back-left. As the observer continues to run, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps runing in place and re-sees the subject in its FOV which keeps running towards front-left and having continued the run, while another person in the front-right walks toward the observer's back-right with continuous motion.",
+  "image_content_sha256": "a0a0be191cf421987cbafb93877f729cfdbb6cf4d4faa07ba5e0d4f604c7861a",
+  "prompt_sha256": "58ef7bac7530e5aa70790ae26af7bb7858f72d6b6ffe256828e59ead7f6f1e1d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

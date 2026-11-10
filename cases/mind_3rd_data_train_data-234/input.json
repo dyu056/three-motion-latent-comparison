@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-234",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-234",
+  "prompt": "A flat, grassy terrain extends under a dark, featureless sky, with two brick buildings featuring dark tiled roofs and traditional East Asian architectural elements in the background. One building prominently displays a white door and multiple windows. In the foreground, a futuristic, dark and gold armored figure with glowing orange accents is depicted in a dynamic running pose, all illuminated by bright, even lighting that minimizes shadows.",
+  "image_content_sha256": "143017ae143fb50e11fdb4fcfc8aae4b9ce50a26deb047d2f2b4221845e2b25f",
+  "prompt_sha256": "14e4285a5974cbc3722afdb1ba637480557f201f04b669fd00c6fe464bd4a1b8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_009",
+  "prompt": "First person view as a person standing by the river on a Nordic street sees a crocodile (subject) in the lower-front-left swimming toward the right, while a fox on the riverbank in the front-left runs right. As the observer turns the head upward, the subject exits the FOV. Observer bows the head back toward the bottom-right and then re-sees the subject in its FOV which keeps swimming towards right and having continued the swim with continuous motion.",
+  "image_content_sha256": "4f258b6968dd641cc2dc2af90ab304b0660f7afda85f00cb47cd68615e7877d3",
+  "prompt_sha256": "870c17992f6177ee944b5e101e35f438f2b3e89a6c54546cdfc18600eda01786",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

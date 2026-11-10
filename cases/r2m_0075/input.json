@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0075",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0075",
+  "prompt": "A moonlit courtyard inside a forest, one marble statue, circular labyrinth lines on the ground, a glowing gate, open magical surreal scene, strong orientation cues",
+  "image_content_sha256": "a047b404973e32245680ac6cfa6e7dcf85874f0841802dff887598807f03ea3d",
+  "prompt_sha256": "5e6cd61f3323ecc8a11f1625fc9501088b36febc4009b8a4ab18b995c635073d",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

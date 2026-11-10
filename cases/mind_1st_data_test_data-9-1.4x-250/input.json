@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-9-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-9-1.4x-250",
+  "prompt": "This interior scene depicts a rustic bar or saloon, featuring a long, red-walled hallway extending into the background on the left. A substantial wooden bar counter with several stools occupies the foreground on the right, backed by shelves displaying dark bottles. The space is illuminated by a single, warm overhead light, casting a dim, inviting glow over the distressed wooden floor and paneling.",
+  "image_content_sha256": "dd8d42fc816407b9c8f9954c892f929d1a94fa289dd1ed232762a1bb7f4099b8",
+  "prompt_sha256": "e043563ce8911bdd2633f4a067abb343128fb4d9cfbdb97de5ecc0da05947bf6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

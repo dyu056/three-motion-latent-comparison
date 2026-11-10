@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-248",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-248",
+  "prompt": "A figure clad in a black and yellow armored suit with orange accents occupies the center of a partially snow-covered asphalt road, which cuts through a valley bordered by snow-capped mountains. Utility poles with overhead lines parallel the road, leading towards a small, dark-roofed building visible in the distant, snow-laden landscape. An overcast sky provides a diffused, cool light, emphasizing the stark, wintery atmosphere of the mountainous environment.",
+  "image_content_sha256": "61cf8c0c08dfe143dc7ea8b63e54d65e5d32d473bb538ee15722910c846803b6",
+  "prompt_sha256": "25d215e82463a2306c8f1651549e08329a7ed7c2eae1a3642ae466b2cf425bcb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

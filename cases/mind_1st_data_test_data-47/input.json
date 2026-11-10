@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-47",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-47",
+  "prompt": "A dilapidated wooden house with a corrugated metal roof and an air conditioning unit occupies a grassy incline, framed by a dense forest under a clear blue sky. A dirt path leads past a low wooden fence and a utility box, with a wooden table holding pumpkins and various discarded items populating the unkempt yard. Bright, direct sunlight illuminates the scene, casting sharp shadows and emphasizing the rustic, overgrown character of the environment.",
+  "image_content_sha256": "0e5fc7854aee0c7f0ac998b52939be71a8bca743cae2bf2670250b8a729498e4",
+  "prompt_sha256": "b53b774300540c4b80f967d6c62eef9509c970cf0e61b380be2d44ff9204eb1c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

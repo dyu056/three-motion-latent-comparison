@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-126-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-126-1.2x-225",
+  "prompt": "A wide, grey stone staircase dominates the foreground, leading down to a reddish-brown paved plaza. The plaza is furnished with dark wooden park benches and features a calm body of water partially visible behind a large spherical metal sculpture, while ornate stone staircases with decorative railings ascend towards a higher terrace. A dense canopy of mature green trees forms a lush backdrop under a soft, diffused light from a muted grey sky.",
+  "image_content_sha256": "b148e5bc030027a8c874438910c0ddc3a9763e8e2a56b79b41f2edcab18150a2",
+  "prompt_sha256": "5c2c50149e7c7f2b7f9cc9af91391d59c9651bd7c495a1da92d510cc7687dbf7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0048",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0048",
+  "prompt": "A clean utopian city square, levitating sculpture, white transit pods, one digital tree planter, geometric paving, wide open composition, soft futuristic lighting, spatially memorable",
+  "image_content_sha256": "1c683edac19688052f24ab6570218de318afa9d55c2a6e00ad92ddabdb2fb831",
+  "prompt_sha256": "5bf24deda00cd4e4d4e0ddfb6c776c851dfdc83286183078c710f8b4969f1d8a",
+  "source_image_size": [
+    1376,
+    768
+  ]
+}

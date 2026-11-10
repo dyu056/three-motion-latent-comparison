@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__219",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__219",
+  "prompt": "A first-person view of a lit candle on a table with a piece of woven plastic bag held over the flame by tongs. The camera smoothly tilts upward, causing the candle setup to gradually exit the field of view. The camera then tilts back down, and the candle setup re-enters the frame, revealing that the plastic bag has burned and shrunk considerably, with its woven structure collapsing and contracting.",
+  "image_content_sha256": "530c903da1e2e12e999aef1f810007e2a4caf63d5430398d1a86f9c7b88d08c9",
+  "prompt_sha256": "959981e8c93c27793ecc00b18e284bde82014e5deabf323f7aef4c6f27bb75b0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_005",
+  "prompt": "First person view as a wolf on a city street in Havana is moving straight ahead and sees a person(subject) crossing from left to right. Observer looks up and jumps and the subject exits the FOV. Observer lands and re-sees the subject in its FOV which keeps walking towards right and having completed the crossing with continuous motion.",
+  "image_content_sha256": "679bc28d433203baba025d28387f90bcc7e72366b7ab7626a73b93210cab4d3c",
+  "prompt_sha256": "a38786602da1f4098b54d26e73371b7d2074417184db184a06ef7d330a0ebc4d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__017",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__017",
+  "prompt": "A first-person view of a glass of water on a table with disinfectant liquid being poured in. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the disinfectant has dissolved in the water and the liquid has turned milky white.",
+  "image_content_sha256": "c9dba80a6b14ef14608735bc96823f3f497cb590cf16df448d6ce91225882a6c",
+  "prompt_sha256": "8e95fedd03caec987e02ecd6415f1ffda8fc0fdb196befb65bcbfd39efef73e1",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

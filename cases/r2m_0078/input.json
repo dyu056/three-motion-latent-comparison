@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0078",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0078",
+  "prompt": "A dreamlike airport runway in the clouds, one boarding gate frame, baggage carousel outdoors, signal lights, expansive sky emptiness, surreal open layout",
+  "image_content_sha256": "46cb4bd7a680519eb6cd36b0fe66b4ace540cf5dda756d83be3a7b5a065b920d",
+  "prompt_sha256": "292a9784006387b595f0599b2f0b13b4b57fad7f3f42102cfec912a9537ee476",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

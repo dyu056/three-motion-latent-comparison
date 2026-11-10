@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-189",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-189",
+  "prompt": "A person wearing a dark jacket and backpack stands centrally on a textured stone-paved path at a junction. To the left, commercial buildings with awnings line a street, while to the right, a wooden park bench and mature trees border a grassy expanse leading to distant, undulating terrain. The entire scene is illuminated by the warm, dramatic light of a sunset or sunrise, casting long shadows and highlighting the rich, golden hues of the sky.",
+  "image_content_sha256": "10e19f2c222576c2b52baadd5f5bfadfaa91c21668508a3cd5114d5233a8fc05",
+  "prompt_sha256": "58ece671b445f734467713a885a6f0bac36ee89021d6e91aabeafe52f07719ce",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

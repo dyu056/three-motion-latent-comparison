@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_007",
+  "prompt": "First person view as a person standing in a Citypark sees a person (subject) in the front-left running toward the back-right, while another person in front sits on a chair. As the observer turns the head to the right, the subject exits the FOV. Observer turns the head back towards left and then re-sees the subject in its FOV who keeps running towards back-right and having continued the run, while the person on the chair has stood up with continuous motion.",
+  "image_content_sha256": "9fabc549577e89126446c81efb43d0298d95103de3c13b88204829e9b46a9e50",
+  "prompt_sha256": "f0246bcb2aeedab86181c27a4238c95d6c7c08c0f3ccfd8d4386a31393e37ff7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

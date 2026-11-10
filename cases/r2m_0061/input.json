@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0061",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0061",
+  "prompt": "A liminal digital lobby, central glowing cube, floating direction arrows, reflective black floor, pale infinite walls, sparse and spatially clear virtual environment",
+  "image_content_sha256": "66d85728c53b7ebe02dff248b66b2115367949767961380b6d8a9a932c8924ca",
+  "prompt_sha256": "71c74ff448cc338b9fe651172f07c36a2ad302e0bccdd45820967680a9983011",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-28",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-28",
+  "prompt": "The video depicts a multi-level, futuristic architectural environment featuring glass partitions, concrete walls, and industrial metal stairwells. Specific objects include white tables and chairs, a reflective floor with intricate patterns beneath a \"GARDENS\" sign, and artificial plants within a dramatically lit lower garden area. The lighting transitions from bright, even illumination to atmospheric colored spotlights in red, blue, purple, and green, creating a stark and vibrant ambiance.",
+  "image_content_sha256": "e59a4f58424dad1bb5609ffe8f8d870412c328b7a3a583d5785d6a52fa048b2d",
+  "prompt_sha256": "219909e23a778f83b3fc376bdde4841dedaa685aba806d50b49fc94c70dfce11",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

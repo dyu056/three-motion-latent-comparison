@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__178",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__178",
+  "prompt": "A first-person view of an empty measuring cup with beer being poured in, generating a rising head of foam. The camera smoothly pans to the left, causing the measuring cup to gradually exit the field of view. The camera then pans back to the right, and the measuring cup re-enters the frame, revealing that the beer foam has grown substantially, filling a large portion of the cup with dense white froth.",
+  "image_content_sha256": "30df643aec1d6e644f7186c59a6f917f0b2ee8f477dc8455ef98a13d39a50039",
+  "prompt_sha256": "58854969875d853f0b53d6d64d08ab474dd327ba560f5906462a876265e27ea4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

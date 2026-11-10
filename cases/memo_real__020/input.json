@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__020",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__020",
+  "prompt": "A first-person view of a clear glass of water on a table with iodine being poured in. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the iodine has dissolved in the water and the liquid has turned a dark brown color.",
+  "image_content_sha256": "9dab6b35b9b14c7e85a203b4fe0d57975860b7c0bae340a8072c54695f29cec6",
+  "prompt_sha256": "6fb8ed1826ffda34e5a40d1f3f322b434a754a540d8fe5d1caf4fca7a652f627",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

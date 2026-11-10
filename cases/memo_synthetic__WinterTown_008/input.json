@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_008",
+  "prompt": "First person view as a person standing in Wintertown sees a bird (subject) in the upper-front flying upward, while a wolf in front runs toward the observer. As the subject continues to fly up, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's upper-left with continuous motion.",
+  "image_content_sha256": "42427819fd37541e6d20cba4f8581d5c097345dcc70012bacb79083f0136d40c",
+  "prompt_sha256": "5df81201f84706672d1c4ec4f4b7d34064e1c9e49dc37ef356b7b99addb25e55",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

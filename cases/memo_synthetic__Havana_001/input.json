@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_001",
+  "prompt": "First person view in a sports car on a city street in Havana is moving straight ahead and sees a person(subject) crossing the road from the left to the right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps driving forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "95e10a8915a11e4c316f7834548301269a2ff3e596ac3058eab2a1783ab5f060",
+  "prompt_sha256": "d4ea37774b0b8f296743540daa1e429c6ed93c226b695930e5bc1760b6d4fb49",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

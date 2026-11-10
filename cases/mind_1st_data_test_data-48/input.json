@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-48",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-48",
+  "prompt": "The scene unfolds within a series of subterranean stone passages and chambers, defined by arched ceilings, coursed stone block walls, and a meticulously laid cobblestone floor. Architectural details include numerous wall niches, some containing pottery or wooden chests, alongside prominent hanging chandeliers and wall-mounted torch sconces. A pervasive dim, cool blue ambient light illuminates the space, dramatically contrasted by the localized, warm glow emanating from the various light fixtures.",
+  "image_content_sha256": "8be5ca7d06d77c323535aaf082842d51edb8471f38eff9095d797d72826ea382",
+  "prompt_sha256": "f79f391bed391561ca2ba467f9b2b575a29fc0f820f380724abbf357f0a3b334",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

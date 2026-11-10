@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0037",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0037",
+  "prompt": "A wide sunflower field with a dirt path, one scarecrow, a small windmill, distant barn, bright daylight, clear navigation anchors, spacious composition",
+  "image_content_sha256": "3cad772f24bc9260f8331d8fa9871e6879d415d2573c1427567cc66a0971e105",
+  "prompt_sha256": "bb3ba82f045efd10e7bfa9394df35f91e887b71c65f5b477fb3a0a2acfaa882f",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

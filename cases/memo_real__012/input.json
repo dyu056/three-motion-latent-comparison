@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__012",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__012",
+  "prompt": "A first-person view of a disposable cup of water with disinfectant being poured in. The camera smoothly pans to the left, causing the cup to gradually exit the field of view. The camera then pans back to the right, and the cup re-enters the frame, revealing that the disinfectant has diluted and the water has turned yellow and is filled with foam.",
+  "image_content_sha256": "643dcca86ff56aea1cc5a92d4c6b343b4bc5c4cd3ea47ef7815db1232662b8f4",
+  "prompt_sha256": "e05ed3cfa6beecb54aa89670c8bbd7ccf4b2cef8360b1b13ecb655676e9377c0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__148",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__148",
+  "prompt": "A first-person view of a piece of cardboard standing upright with black paint applied, slowly dripping downward. The camera smoothly pans to the right, causing the cardboard to gradually exit the field of view. The camera then pans back to the left, and the cardboard re-enters the frame, revealing that the black paint has dripped further down, forming longer, more pronounced streaks on the surface.",
+  "image_content_sha256": "b5edd45228aa7a7ef1ba1b53b31d597cf9c5a059a02c16d9ef7eb750e48fbde2",
+  "prompt_sha256": "6bbb31046f2b7c52ff8beaef57a5e2d575ae46e2fce0fd930f15e8d4a7a90aff",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

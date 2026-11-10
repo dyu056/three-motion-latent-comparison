@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_008",
+  "prompt": "First person view in a car on a Nordic street is driving forward and sees a person (subject) in the front-left crossing toward the right, while another person further in the front-right runs left. As the observer continues to drive forward and passes the person, the subject exits the FOV. Observer follows a curved path and performs a U-turn and keeps driving forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "40efa72807d8a62ac8bf5a65aa38c1679513ef1be6b0da381c1d229864b7a5e2",
+  "prompt_sha256": "10a23d2763627604564dd974e3ae43ee87fa469e0959633fd043bb9cb8164145",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

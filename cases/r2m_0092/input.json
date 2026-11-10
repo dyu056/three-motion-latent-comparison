@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0092",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0092",
+  "prompt": "A quiet mid-century gas station forecourt, one analog fuel pump island, roadside sign, service garage door, open asphalt, warm retro lighting, readable environment",
+  "image_content_sha256": "e2e56e9252f34f1def0ed259558bb9696a9cbf89a9b5ec4b9886b884fc61f840",
+  "prompt_sha256": "ee2a3cde8320cee10ba21b961098eb00f404f6dadf27baab65c7ef343a6de6db",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

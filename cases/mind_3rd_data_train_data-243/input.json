@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-243",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-243",
+  "prompt": "A verdant landscape features distant, tree-covered hills and a serene, turquoise body of water, bordered by dense green foliage. A male figure, dressed in a dark jacket and trousers, carries a black backpack while traversing a reddish-brown dirt path. The scene is illuminated by soft, natural daylight, highlighting the sparse, leafy bushes lining the path.",
+  "image_content_sha256": "7ef9b144d8564f227066acab0f4a483b34e2de1ad347fa624654f434e9491f43",
+  "prompt_sha256": "01aae41c941562d5c0a3d9655e77eda3f6f92b2350674eeba6419afa1d899844",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

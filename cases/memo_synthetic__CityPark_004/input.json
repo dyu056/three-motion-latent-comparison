@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_004",
+  "prompt": "First person view as a person running in a football field is moving straight ahead and sees a person(subject) walking forward on the front-left. Observer runs past the subject (exits FOV). Observer then turns around towards left to face the rear-left and keeps runing in place and re-sees the subject in its FOV who keeps walking towards back-right and having continued walking with continuous motion.",
+  "image_content_sha256": "f9fa2047146754e934dc3b9b3f18660e5042e125d4914193984a79887c41f22a",
+  "prompt_sha256": "5e1b99786096da0ecf18e0ec8986ea1f1f67d94e4cd73f9a82144533d2e87cd5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

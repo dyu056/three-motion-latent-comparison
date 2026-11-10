@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-94",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-94",
+  "prompt": "The environment is an abyssal darkness, sparsely populated by irregular, dark platforms that exhibit a vibrant cyan bioluminescence along their edges and within surface cracks, occasionally revealing golden undersides. Towering, dark metallic or stone structures, adorned with intricate patterns and reflecting a warm golden light, ascend into the void. Suspended geometric objects, resembling patterned pyramids or cubes, also glow with a cool cyan light, contributing to the scene's dramatic, high-contrast illumination.",
+  "image_content_sha256": "9c0627485a02bb278c82b3ebaa227b3e55e70d5183140aa67ade9b24555bd4f4",
+  "prompt_sha256": "3b341055d65df1cecc5131a7e213d3ce960681881ca2726a56c272dbb5acdeeb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

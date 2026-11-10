@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0003",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0003",
+  "prompt": "A quiet rooftop parking lot at sunset, yellow painted lines, one white stairwell box, a row of ventilation pipes, distant city skyline, open space, strong visual landmarks, photorealistic, spacious composition, consistent geometry, suitable for camera movement and memory revisit",
+  "image_content_sha256": "8e2d45b953326281c38bb5bce9091b4fa2a33e8a891f10a6938ab051ce19ddeb",
+  "prompt_sha256": "9d9c9b5a87298827c830c19a9848bcf3dbe0986da17295154ee11054723b97b4",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-128-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-128-1.4x-250",
+  "prompt": "A park plaza features a herringbone brick-patterned ground leading to a large, dark, multi-tiered staircase on the right. To the left, a stone retaining wall with decorative railings and two wooden benches is nestled among lush green trees. Bright daylight illuminates the scene, highlighting a male figure in a dark leather jacket and a prominent dark and grey backpack, standing centrally.",
+  "image_content_sha256": "91422436a410314ea14e9eadcb008ef55922a8d3441b06be8b7c469ffb0de5e9",
+  "prompt_sha256": "878d4fb9f8f7dd7f4e10bdc7c58473713761bf14a5e1434524370a718aac99a3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

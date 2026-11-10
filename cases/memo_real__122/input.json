@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__122",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__122",
+  "prompt": "A first-person view of a glass beaker of hot water with a piece of dried white fungus being placed inside. The camera smoothly tilts upward, causing the beaker to gradually exit the field of view. The camera then tilts back down, and the beaker re-enters the frame, revealing that the dried white fungus has absorbed water and expanded significantly, swelling into a full, fluffy piece.",
+  "image_content_sha256": "c0f8e0ef24e7a66b3e8092138eb720eac02810d7248045a0830f8400fe3b195f",
+  "prompt_sha256": "6a4697e29032ca3677e84162383e155807e3ac001d5109a136552f13e718d53e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

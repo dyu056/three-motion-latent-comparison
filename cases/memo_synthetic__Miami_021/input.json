@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_021",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_021",
+  "prompt": "First person view as a person standing on a container in Miami sees a person (subject) in the lower-front running toward the observer's back-right, while a fox in the lower-front walks toward the observer's back-left. As the subject continues to run, the subject exits the FOV. Observer turns to the right and then re-sees the subject in its FOV and having changed direction to run back towards front-left, while another person enters the FOV in the lower-front walking toward the observer's back-left with continuous motion.",
+  "image_content_sha256": "0ef6a39f998266a1a3c376fab23cf78c48c6a758f455f18c1a1f71d26fa5201a",
+  "prompt_sha256": "a660cd56b35f666bc623c61849637204f28a5af307561302fd26ea63478f6abc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

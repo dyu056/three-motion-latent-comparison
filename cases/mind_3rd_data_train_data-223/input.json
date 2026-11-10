@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-223",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-223",
+  "prompt": "A dimly lit industrial corridor, constructed from dark concrete and metal, extends into the distance, featuring a male figure viewed from behind. The left wall displays green and orange graffiti, while the right wall bears red markings, with metal railings and large machinery populating the mid-ground. A stark yellow light illuminates a distant section of the floor, contrasting with the cool ambient light and a bright, localized light source above the machinery.",
+  "image_content_sha256": "7b414c51f48df41f5c470d2c403fd6c20ac5d86983a2b5487414b5e4931e6274",
+  "prompt_sha256": "5bed1b5932d06f1d96695db1b61d76aa56e1bc6cb3b6fee2423907c75326b65b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

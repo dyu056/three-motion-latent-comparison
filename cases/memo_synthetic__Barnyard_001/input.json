@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_001",
+  "prompt": "First person view as a personr is moving straight ahead on an asphalt road sees another person(subject) crossing from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "a811e506c8c182a6ea78db4c0b04587cfc13dee329c2e2ee8b67ab1364009c43",
+  "prompt_sha256": "2062c1a38803702e059cf292c7b4d188d7ae1636210209afe76deda5b4146766",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

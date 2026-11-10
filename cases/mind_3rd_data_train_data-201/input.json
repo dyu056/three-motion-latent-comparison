@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-201",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-201",
+  "prompt": "A stylized landscape unfolds under a dramatic purple twilight, featuring scattered dark evergreen trees and distant rolling hills beneath a violet sky. A male figure in a dark jacket stands on a textured ground resembling large stone blocks, flanked by dark wooden debris and a prominent wooden scaffolding structure. An intense orange-yellow light source illuminates the figure and foreground, creating a stark, otherworldly contrast against the pervasive purple gloom.",
+  "image_content_sha256": "1db5a6d29cfc7ccc37a6290579c990a9d66cceb23e0636144de0ffd7af7be7b3",
+  "prompt_sha256": "a1a76ce5136658ddc6f35a81c626de364b271fbb3406a83a6c9aa2ec8a419e2a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

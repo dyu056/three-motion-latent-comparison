@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-175",
+  "prompt": "An ornate, temple-like interior features a sandy floor and tall, white fluted columns. Arched doorways or windows are adorned with intricate teal and gold patterns, with a red banner visible in the background. A black and gold armored figure with glowing red foot accents stands centrally under bright, even illumination.",
+  "image_content_sha256": "a1b20b5e844cd64599d5b9083c0b3d546ae85f6f75337ea0507fcd712485abce",
+  "prompt_sha256": "388ca3d3bbf46491077efd84e953ca61f46081288f259f25c86943d48339ae4c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-84",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-84",
+  "prompt": "The interior space features metallic paneled walls with exposed conduits and an open hatch leading to a darker area. A significant portion of the floor is a metallic grate emitting a strong red light from beneath, contrasting with solid reflective surfaces and stacked industrial containers. Artificial overhead lighting illuminates the textured environment, creating a stark atmosphere punctuated by the vibrant crimson glow.",
+  "image_content_sha256": "bad288f4c26c760846a15a67b35070c81227284dab5438c70df5df638810d4ac",
+  "prompt_sha256": "e4c026045a425d5131745c0866a59b30684a6d0ef740eeb7dd97e652cfeebd81",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

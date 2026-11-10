@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_022",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_022",
+  "prompt": "First person view as a person walking forward in Miami sees a person (subject) on a container in the upper-front-right walking toward the observer's back-right. As the observer continues to walk and passes the person, the subject exits the FOV. Observer turns around towards right to the rear-right and keeps walking in place and re-sees the subject in its FOV and having jumped down from the container in the original direction and started running towards front-right, while another person enters the FOV in the front walking left and a third person enters the FOV in the front walking right with continuous motion.",
+  "image_content_sha256": "2b94b62b7d80e65691cb3fa10ce237b4b25a40df41b590f19c8e7ce8d3677a8a",
+  "prompt_sha256": "63e2d8275e84cd2ac84651210b24c9b8bea249d33f44722e16ebcb6f0431b3c8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

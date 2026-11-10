@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-32",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-32",
+  "prompt": "A stylized outdoor environment features a flagstone path leading to a weathered stone archway, flanked by crumbling stone walls. Lush green foliage and vibrant grass surround the path, while pink flowering vines adorn the central arch, which holds a wooden bucket. Bright, clear daylight bathes the scene, emphasizing the textured stone and verdant plant life under a serene blue sky.",
+  "image_content_sha256": "25619bce8ff8e1c5d719c42805c8067b6b1b57b72016b3283fd38c83c04ad7b6",
+  "prompt_sha256": "710cad4e2a9e28cd29ad175c85a158ec91d0a3eb776ffa7513a4aa3c9b60ee88",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

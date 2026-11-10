@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_006",
+  "prompt": "First person view as a person standing on Miami Beach sees a person (subject) in the front-right running toward the left, while another person in the front-left walks toward the right. As the subject continues to run, the subject exits the FOV. Observer turns the head to the left and then re-sees the subject in its FOV and having turned around to run in the opposite direction towards front-right with continuous motion.",
+  "image_content_sha256": "3fd4f70cd4fd5230ed6c5d54eab0daff8fc5d192ece433b80a6b9baf78299d77",
+  "prompt_sha256": "fd934a7830448e41b48306756ef8bbe256237261a9a724e5d743f3f0235e6ce3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

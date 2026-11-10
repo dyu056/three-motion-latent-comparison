@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-97",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-97",
+  "prompt": "The interior of a restaurant or diner is furnished with numerous booth seating arrangements featuring red bases and light-toned upholstered benches, alongside dark red wooden tables and scattered individual chairs. Wall-mounted shelving units display bottles, while a prominent chalkboard menu and framed artwork decorate the dark walls. The dimly lit space is illuminated by warm pendant lights and wall sconces, with natural light entering through large windows that overlook an expansive green landscape under a cloudy sky.",
+  "image_content_sha256": "b9ab73a4e92852f95f56f04621463d4dd99d13e992c17f69d9ba738c0864e2dc",
+  "prompt_sha256": "e2072b2ef28a031b347b075f0f01ddd7cdb2bbdca1ca56f638aadaa5f25c385f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

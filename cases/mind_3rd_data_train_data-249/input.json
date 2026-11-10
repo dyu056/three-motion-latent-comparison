@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-249",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-249",
+  "prompt": "An underground mine tunnel, shored with rough-hewn wooden beams and planks, features uneven rock walls and a debris-strewn floor. A male figure, clad in a dark jacket and trousers, stands centrally within the confined passage. Dim overhead illumination from a utility lamp casts stark shadows, emphasizing the rugged textures of the rock and aged timber.",
+  "image_content_sha256": "9636034433086127b41edc4c0f2408e5ae2e9784480382dac42df1733d6c43e7",
+  "prompt_sha256": "7ccbecbb438f046702c0b028c7159f18fe8a2772b06b7dbb0a960ad5ad8e7b65",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

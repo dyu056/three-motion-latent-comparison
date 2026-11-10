@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-41",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-41",
+  "prompt": "A rugged, stratified rock cliff, adorned with sparse green foliage, descends sharply to a wide expanse of rocky scree and shingle. This stony terrain, composed of varied angular fragments and pebbles, borders a dark, placid body of water that recedes into an absolute black void. The foreground is bathed in a clear, directional light, highlighting the textures of the geological formations against the stark, unlit background.",
+  "image_content_sha256": "26a2fd43b42475c51c288275ab3ed3138f69fa39d42fdc1560730f0f31167902",
+  "prompt_sha256": "cc2d0c46aaca8f3f059b3281fbc4be48e5f2e179012f5477692c4603ce6d8362",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

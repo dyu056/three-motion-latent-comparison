@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0081",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0081",
+  "prompt": "A Ghibli-inspired open train stop in the countryside, one wooden bench, timetable board, red mailbox, distant hill, airy and peaceful animated style, spatially clear",
+  "image_content_sha256": "dca73f9490068cfe19a04f8725ed3c3ddf913f9077084f897bbd8e01386e88e0",
+  "prompt_sha256": "57907cbc859d6e8c210c3016a50994cab27d48e8058840537d2b9fdada72e1a6",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-74",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-74",
+  "prompt": "The scene depicts a confined, utilitarian sci-fi interior, defined by metallic walls in yellow-ochre and dark tones, textured floor grates, and exposed conduits. A large vertical column with a reflective reddish-orange highlight dominates the left, while a green exit sign is affixed to a panel on the right, above a coiled red cable on the floor. Artificial lighting casts a stark, cool blue glow from behind a grate and warm reflections across the industrial surfaces, creating an enclosed atmosphere.",
+  "image_content_sha256": "3b7081d4e275b8ef3673cfdca1b782324542663d694f83467b76657f5a65343a",
+  "prompt_sha256": "bf879400e8483141d74072a9b030cc616cde13b49430a7af11dad67e6eb01d05",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

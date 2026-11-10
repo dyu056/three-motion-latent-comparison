@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-164",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-164",
+  "prompt": "A dark, rocky cavern features a futuristic armored figure with glowing orange accents standing on uneven terrain. An illuminated opening in the distance reveals jagged rock formations, providing the primary light source for the deep shadows within the cave. The ground is covered with scattered debris, and a small, glowing blue object rests to the left of the central figure.",
+  "image_content_sha256": "63b2f7f143e0808232334f1dbd6d89d073f1202933cb0a2dbdd63b3f398f9230",
+  "prompt_sha256": "dbfe76d96c9c6f507d654278b26e8b8c4ab91582dc4ac53097340a71a81b6a8a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

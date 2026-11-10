@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-79",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-79",
+  "prompt": "The interior of an unfinished concrete building is presented, featuring exposed structural beams, columns, and raw concrete walls. Large, unglazed window openings reveal a bright, featureless exterior, while a concrete staircase ascends amidst scattered construction debris, including sacks, rubble, and discarded materials. Natural light sharply illuminates sections of the dusty, damp floor and rough surfaces, creating a stark, high-contrast atmosphere within the otherwise dim and cavernous space.",
+  "image_content_sha256": "00d0de3e7e0451608b8df3942eae6fab352d2e862569c3d852cbabc6a890e0c0",
+  "prompt_sha256": "2d64a30839b8b9210c8f4222fe193ba11c9ac8171001c9f5b383a3eaf3736394",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

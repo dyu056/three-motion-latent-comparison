@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0063",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0063",
+  "prompt": "A surreal browser-like landscape, giant search bar monument, floating tabs, one blinking cursor obelisk, vast white plane, minimal digital dreamscape, easy orientation",
+  "image_content_sha256": "5182f2e4f7b82b1846a118f175ffd14ff0b8b229735ac5d1ae86643439cbd592",
+  "prompt_sha256": "ca64c17f97c4d78e35ab3829750bf0dad0eba550f5ca620906728060bed2637d",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

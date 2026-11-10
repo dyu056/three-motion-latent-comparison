@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__055",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__055",
+  "prompt": "A first-person view of a glass of hot water with a sugar cube being placed inside. The camera smoothly pans to the right, causing the glass to gradually exit the field of view. The camera then pans back to the left, and the glass re-enters the frame, revealing that the sugar cube has dissolved completely, leaving only clear hot water in the glass.",
+  "image_content_sha256": "08141c38cbd9ebb217d7c36aefc3581a567db6983fdece8214e0f4e5f3530ad1",
+  "prompt_sha256": "e72abb7187b36f01f4a7563dffd3df8a381bb79409dabc1bd5aeff5fcfce7400",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

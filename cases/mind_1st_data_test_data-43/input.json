@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-43",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-43",
+  "prompt": "The interior of a two-story, rustic saloon features deep red walls with wooden wainscoting, exposed ceiling beams, and a prominent wooden staircase ascending to a second-floor balcony. A long wooden bar counter with stools, multiple round tables with chairs, and various barrels furnish the space, complemented by large wooden wagon wheels and framed pictures adorning the walls. Warm, ambient light filters through windows and emanates from green-shaded lamps, creating a cozy, inviting atmosphere.",
+  "image_content_sha256": "86040e86c4f5b2d28179c44eb55efbf501c8235f50bcabbe56be4dc1f6070490",
+  "prompt_sha256": "f6a920cc39e5aa2db0b20e2cfc1fd7a46e55cbb4e26e5c36f57c7b9e7d5b3aa0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

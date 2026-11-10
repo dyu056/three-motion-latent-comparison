@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__118",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__118",
+  "prompt": "A first-person view of a glass cup placed upside-down on a table with crystal slime inside, beginning to fall out. The camera smoothly pans to the right, causing the cup to gradually exit the field of view. The camera then pans back to the left, and the cup re-enters the frame, revealing that a large amount of crystal slime has fallen from the cup and settled on the table surface.",
+  "image_content_sha256": "eed43ecd3f537690da9122b45b5f4bcca87402bc6ec2c3917ffec034a02b158a",
+  "prompt_sha256": "de38410b8df2ab8a771651fcca8f89ffd98ab9ba95b5309914aaaf9ee5b0dacb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

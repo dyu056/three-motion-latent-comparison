@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-205",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-205",
+  "prompt": "A person in dark attire stands on an elevated metal grate walkway, bordered by a chain-link fence, overlooking a multi-level industrial facility. Below, a concrete floor marked with yellow hazard stripes features stacked yellow crates and industrial equipment, while the background reveals control panels displaying data and structural pillars. The scene is illuminated by bright, artificial lighting, casting a cool, functional ambiance with occasional warm orange accents from distant fixtures.",
+  "image_content_sha256": "9d87c8e5429d6e48866605444105f514a0614054a9b62c5c8f0b0c956daf412c",
+  "prompt_sha256": "dc4916f60f01c8a86ec43721ad74d0737b6c3b70af01cba72fb5de8cba2a69d7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

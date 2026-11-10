@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-188",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-188",
+  "prompt": "Ancient-style architecture defines a vast hall, characterized by arched passages, ornate columns, and walls embellished with green tiles and intricate golden patterns. The uneven floor is covered in fine sand, extending towards a large, decorative lantern suspended from the distant ceiling. A dark, armored figure with prominent glowing red leg accents occupies the center, illuminated by a dim, warm, and atmospheric light.",
+  "image_content_sha256": "3de439319241a52890a331f50eff33d7daa19a7017ac7032fd75cdae9f46771d",
+  "prompt_sha256": "058ac0affba474d98a8520a384cc3017156cc15adc8e74a083305d03469faae0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

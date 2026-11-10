@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-5-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-5-0.8x-175",
+  "prompt": "The expansive, multi-zone interior features a consistent light blue, highly reflective floor and high ceilings with exposed industrial elements. Distinct areas include a dining space with numerous wooden tables and chairs, a glass-enclosed garden, and a stage-like section marked \"RESEARCH,\" all framed by glass partitions and walls adorned with abstract digital art. Dynamic, colorful lighting, ranging from overhead spotlights to vibrant glows of red, orange, blue, yellow, and pink, emanates from large circular displays, illuminated panels, and textured surfaces, creating a futuristic and artistic ambiance.",
+  "image_content_sha256": "6d751a79f987377753671c3b71ae7029fc621ed9827eda54ee22a6ef30c4ae87",
+  "prompt_sha256": "0ce2d6f1b57bc85c0cfa2c6d551df3214681469c1e2a9ca368edcc8bf5014fd8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

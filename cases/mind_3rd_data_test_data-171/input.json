@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-171",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-171",
+  "prompt": "A paved parking lot with white demarcation lines stretches into the foreground, leading to a two-story building characterized by a blue-grey textured facade, arched windows, and a central double-door entrance. Adjacent to the structure, an outdoor patio area is furnished with multiple dark umbrellas shading tables and chairs, backed by a dense canopy of green trees. The scene is illuminated by soft, diffused light under an overcast sky, revealing a figure in dark attire and a backpack walking away from the viewer.",
+  "image_content_sha256": "0b77766abbcabf9c478affdaa3bb1841c56c5b85fdf77f58197d7625a2fdbfcf",
+  "prompt_sha256": "c7b6dc4dde5b3990c41e49eea240ed3e909895612a6a3f11382c92dcaa6f734e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-169",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-169",
+  "prompt": "A vibrant, sunlit natural environment features large, gnarled trees and rocky ground covered with ferns. A male figure in a dark jacket and backpack stands centrally, flanked by a wide, ascending staircase and a curved archway amidst the rocks. Overhead, a large, luminous white floral structure glows softly, bathed in bright daylight.",
+  "image_content_sha256": "921e54e08f123454ee871fd4abb52adb792d8cde32fc4ae9ad2ae6927ada69ff",
+  "prompt_sha256": "81839fcbfe096dc8cebebebe0cd87c144e77954e3189aa3c9d8c190e567f1e92",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

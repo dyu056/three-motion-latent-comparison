@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-95",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-95",
+  "prompt": "A long, vaulted stone corridor, possibly a crypt or cellar, features a patterned brick floor and an arched ceiling constructed from dark masonry. Along the stone walls, numerous alcoves and shelves display candles and various objects, while several burning torches illuminate the right side. The dim, warm light from these sources casts deep shadows, creating a mysterious atmosphere that extends towards a more brightly lit chamber at the far end.",
+  "image_content_sha256": "675125bf86b3bac0aa424b153b3c76a114543f9bd6d26a2c1493cf184475c827",
+  "prompt_sha256": "cb6b17b6166088e9456661136c6f79aece1114d3a6830e41bc0b958ad562846a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

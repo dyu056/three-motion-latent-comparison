@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-220",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-220",
+  "prompt": "A figure in a dark grey and yellow armored suit traverses a snow-covered asphalt road, marked by distinct tire tracks. To the left, a steep, ice-laden rocky mountain face ascends, while a metal guardrail borders a vast, frozen body of water on the right, dotted with bare tree branches. Distant snow-capped mountains loom under an overcast sky, casting a cold, diffused light across the stark winter landscape.",
+  "image_content_sha256": "acfc2067caf845bc26f1d8ddf4a70686e195e7bca7085dadc8650f90a0c72d44",
+  "prompt_sha256": "f01815938530605dc1859b0140014fae9a77c9ac82feee64082629fe01bdd88a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

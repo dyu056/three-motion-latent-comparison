@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0009",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0009",
+  "prompt": "A quiet financial district plaza on a weekend, giant steel ring sculpture, a rectangular pool, two tall office towers, polished stone ground, open and minimal, cinematic realism, memorable composition",
+  "image_content_sha256": "b3e09f6bd565ccdfef47497236e941c51f48e17d22e0538ce94ec89be6b93558",
+  "prompt_sha256": "e42381b53a8bbf7cfe24d1502cac847b598f9a7e879d309d3545249ade72aed1",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

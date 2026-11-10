@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__HongKong_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__HongKong_008",
+  "prompt": "First person view as a person walking forward in an alley on a Hong Kong street sees a person (subject) on the main road in the front-right walking toward the left. As the subject continues to walk, the subject exits the FOV. Observer walks onto the main road and turns left and keeps walking in place, then re-sees the subject in its FOV who keeps walking towards front-left and having continued walking, while another person walks toward the observer and passes the subject with continuous motion.",
+  "image_content_sha256": "b2c137cec3dd69ad07468df338d5c7098ea7f61ca10583287cb9b0e6d481ac09",
+  "prompt_sha256": "a8e2ace33719ca2b28c53cbe66906b46a4f46d3a8d27dd5f75a263f7d5f192f3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

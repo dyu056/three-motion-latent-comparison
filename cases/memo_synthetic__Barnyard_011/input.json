@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_011",
+  "prompt": "First person view as a person walking forward inside a warehouse in a Barnyard sees a person (subject) outside the warehouse in front walking left. As the subject continues to walk, the subject exits the FOV. Observer walks out of the warehouse and keeps walking in place, and re-sees the subject in its FOV and having started walking in the opposite direction which is towards right, while a fox enters the FOV running from left to right with continuous motion.",
+  "image_content_sha256": "e2fb06ac8c985688234a2af0c8e310b77f0db313863733f60dd4aacb858abe9f",
+  "prompt_sha256": "ff82106c5fb2a48c6618ba502c7b1e41e1ebdb8923785b74e423174f6829eac3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

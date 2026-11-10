@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__ZenGarden_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__ZenGarden_004",
+  "prompt": "First person view as a person is standing still in Zen Garden and sees another person(subject) moving from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward then re-sees the subject in its FOV who keeps walking towards left and having continued walking with continuous motion.",
+  "image_content_sha256": "dbd13c873572939c538f41b6a913c2d369d51ed68dcc57c79ffe0364a06871a9",
+  "prompt_sha256": "79d5c7b1cbeb8f925c2aefd608c1cf26bfdfbb2b8ded6e7f9840ee837de66a97",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__001",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__001",
+  "prompt": "A first-person view of a clear glass of water on a table with a colorful effervescent tablet fizzing as it dissolves. The camera smoothly pans to the left, causing the glass to gradually exit the field of view. The camera then pans back to the right, and the glass re-enters the frame, revealing that the tablet has completely dissolved and the water has turned a vivid purple color.",
+  "image_content_sha256": "452296d9ae83779dd9cf126511674d2146ef9fd1237602228cf7a9b573432ea4",
+  "prompt_sha256": "0dddf72498331763ec032fa16f6b2a7ed8f20a74e8728c1c7b32fc90544e3dca",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

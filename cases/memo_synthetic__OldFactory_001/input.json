@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_001",
+  "prompt": "First person view as a person in an old factory is moving straight ahead and sees a large truck(subject) driving from the left to the right. Observer passes the truck (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV which keeps driving towards left and having continued driving with continuous motion.",
+  "image_content_sha256": "f800ec00a2ea5e12752ca5ed0c4c8fb8bc7e3bbed5847e53d0f56a5b801c5ac0",
+  "prompt_sha256": "deba9d977395a93fa6281619c2f6f89ae451b9c144a7a3db6d74256001ac70f0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

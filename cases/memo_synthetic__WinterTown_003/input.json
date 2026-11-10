@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__WinterTown_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__WinterTown_003",
+  "prompt": "First person view as a person in Wintertown is moving straight ahead and sees another person(subject) moving from the right to the left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps walking forward then re-sees the subject in its FOV who keeps walking towards right and having continued walking with continuous motion.",
+  "image_content_sha256": "118c8a02598ddfea87f7c225559ec2d4cb904ec7597fe782e8eb111b9b786a1a",
+  "prompt_sha256": "66184c7944329b015f9bde9d338c1fbe241850be88b45dcc0f8176ef4e790db6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

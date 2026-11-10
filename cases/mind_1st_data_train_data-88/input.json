@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-88",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-88",
+  "prompt": "The scene presents an ancient desert environment dominated by sand-colored stone architecture, including a colossal pyramid with an entrance and statue, alongside fortified buildings featuring battlements, domed roofs, and arched passages. Paved courtyards and sandy ground are interspersed with details such as palm trees and amphorae. Bright, natural sunlight casts sharp, elongated shadows across the textured surfaces, creating a warm, arid atmosphere under a clear blue sky.",
+  "image_content_sha256": "4dcb5769de0898bdca4e94ee108a4583b41b1ec643c82b0e934540c36550a172",
+  "prompt_sha256": "9bad763075a6324c501577ffec2d4bd6d2a786098a1d47d1800e90721e5711bc",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

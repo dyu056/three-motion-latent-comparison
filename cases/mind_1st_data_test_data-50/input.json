@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-50",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-50",
+  "prompt": "The scene presents a rustic interior space, likely a saloon or tavern, defined by dark wooden paneling on the walls, floorboards, and exposed ceiling beams. Multiple round wooden tables with chairs are centrally placed, accompanied by a bar counter to the left and various wall decorations including framed pictures, a wagon wheel, and a saddle. Warm, ambient light emanates from overhead fixtures and table lamps, complemented by natural light filtering through windows, creating a cozy, aged atmosphere.",
+  "image_content_sha256": "77f87fe7581c3088f441af11481492b6767d8f356a868a8b19c803627a302cad",
+  "prompt_sha256": "b1f9ac8614d7c315500f974e08f0e11c99102b85d88e24f7b29e885ff13943ce",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

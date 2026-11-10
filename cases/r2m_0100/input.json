@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0100",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0100",
+  "prompt": "A deserted old fairground, one Ferris wheel, ticket booth, string lights, wide dusty path, nostalgic eerie openness, cinematic mood, clear visual anchors",
+  "image_content_sha256": "63f80836bdb618720899b7af4c49588cf5916a5c56878454c6c8b122a92c6743",
+  "prompt_sha256": "5c31241da3d0f608cd5e7b2dc6599338a023673b46376378a798a96077a1538a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

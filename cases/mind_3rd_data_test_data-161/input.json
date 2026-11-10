@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-161",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-161",
+  "prompt": "An active construction site unfolds under bright, even daylight, featuring excavated foundation trenches in reddish-brown earth and a prominent mound of gray gravel. Scattered across the unpaved ground are rebar grids, stacked concrete beams, a large concrete pipe, and a yellow cement mixer, indicating ongoing building preparations. A white corrugated fence encloses the site perimeter, with blurred urban structures visible in the distant background.",
+  "image_content_sha256": "4869d8baa5e885159a2fa821a31905c75f5ebee3ca49efc6cd0913640f3bf883",
+  "prompt_sha256": "53c324f56d7f15b56e364f1d91ab990a5883278d61f7e6ecface0d842d0c0075",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

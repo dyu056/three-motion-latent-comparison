@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-130-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-130-1.0x-200",
+  "prompt": "A serene park landscape unfolds with a tranquil lake partially obscured by mist, bordered by a dense line of verdant trees under a bright, overcast sky. The foreground features a meticulously paved brick walkway in a herringbone pattern, adorned with several ornate wooden park benches and a classic black streetlamp. Dominating the right side is a large, intricate metallic globe sculpture, possibly an armillary sphere, positioned on a raised platform beside a stone staircase, all bathed in soft, diffused daylight.",
+  "image_content_sha256": "7436e6442fe9a993ebc673da790916d3ebcb5f641c65dc28070e60635ec05fbc",
+  "prompt_sha256": "ed440c8f892d4afd1de75eede0f9c1062007bddc36a69fb7571a2dba92585387",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

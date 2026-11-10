@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-153",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-153",
+  "prompt": "A subterranean cavern features dark, craggy rock formations and a bright, natural light source from an upper opening, with a large cylindrical structure visible on the left. A central figure, encased in a dark, metallic suit with prominent gold and orange highlights, is positioned mid-stride on a reflective, dark floor scattered with autumnal leaves. High-contrast illumination dramatically sculpts the environment, casting deep shadows and highlighting the figure and foreground details.",
+  "image_content_sha256": "4951eaf3259cdb6669d891cb1a40c379a55f0504842dbc27742448e833da3ef6",
+  "prompt_sha256": "e2ac5be62ec30f06df0d6f0eeec9997887afd454194dc3790bc189804a820729",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

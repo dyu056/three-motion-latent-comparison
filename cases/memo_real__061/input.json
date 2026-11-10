@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__061",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__061",
+  "prompt": "A first-person view of a measuring cup of warm water with honey being drizzled in. The camera smoothly pans to the right, causing the measuring cup to gradually exit the field of view. The camera then pans back to the left, and the measuring cup re-enters the frame, revealing that the honey has dissolved into the warm water, blending smoothly throughout the liquid.",
+  "image_content_sha256": "9fd95ddf2e9afc33765ecb26ee9f9862f577d57a1787e4dc979e1ea537da0c65",
+  "prompt_sha256": "65fac5c94e1cc6f513b7e455445396c5ec53ca2f2c84dde2cb4329a144bf7ee4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

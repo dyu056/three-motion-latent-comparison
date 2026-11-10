@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-23-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-23-0.6x-150",
+  "prompt": "A rugged, rocky landscape unfolds under a partly cloudy sky, characterized by numerous large boulders and sparse vegetation. Moss and green grass cover the foreground terrain, leading to a midground dotted with more grey rock formations and a distinctive gnarled tree on the right. Bright, natural daylight illuminates the scene, casting soft shadows and highlighting the varied textures of the rocks and foliage.",
+  "image_content_sha256": "b4c9f756c456ec54c32e33170f74ca82331239f383a1499bcbc08c7f1d2d8e04",
+  "prompt_sha256": "024179572567f012fee7f05d3b5a450159c7b4aac4e7a21c72b7afa0cfdbea54",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

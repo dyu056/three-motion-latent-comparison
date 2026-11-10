@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__192",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__192",
+  "prompt": "A first-person view of a container of fire sand on a table with yellow liquid being added. The camera smoothly tilts upward, causing the container to gradually exit the field of view. The camera then tilts back down, and the container re-enters the frame, revealing that the fire sand has expanded and swelled significantly, turning white and puffing up considerably.",
+  "image_content_sha256": "52e4e9c8b7b9f1fdba0c2be9c4fbab72310e13e855d6ba3d755bb5f38a87e408",
+  "prompt_sha256": "87de3767ffa93b44459aa8502418c9aada9753122930e52731ad25ec573f6cd3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

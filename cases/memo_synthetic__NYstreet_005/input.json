@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_005",
+  "prompt": "First person view as a person on a New York street is standing still and sees another person(subject) walking from left to right. Observer jumps up and the subject exits the FOV. Observer then lands and re-sees the subject in its FOV and having continued walking with continuous motion towards right.",
+  "image_content_sha256": "d156dc07a1b15f2f6b52de407a284f76b6e525ffb07a9e2131899cb678135961",
+  "prompt_sha256": "5ffddcb46319daf2de4b86c4a21ac211343a29b8a3e44b2b8d31e8197d34f1fe",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_004",
+  "prompt": "First person view as a person on the grassland of an old factory is standing still and sees a fox(subject) running from the left to the right. Observer jumps up and the subject exits the FOV and lands. Observer then re-sees the subject in its FOV and having continued the run towards right with continuous motion.",
+  "image_content_sha256": "671dd9f6b63aa3fe0991b4024c91831f0bed12e64e924df791df89ec20af98a5",
+  "prompt_sha256": "0197b0555feac2debc7f10017cf06e7091886664acb079a8b6efd368f4c0056a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

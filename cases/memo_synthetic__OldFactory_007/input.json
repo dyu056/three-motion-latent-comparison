@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_007",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_007",
+  "prompt": "First person view as a lion standing in an old factory sees a distant person (subject) in the front-right walking toward the observer's back-left, while a nearby person in the front-left runs toward the back-right. As the observer roars at the sky, the subject exits the FOV. Observer looks down back and then re-sees the subject in its FOV who keeps walking towards back-left and having continued walking with continuous motion.",
+  "image_content_sha256": "cfdb027981875ada6aa96538dfaba62aa31f8a7216cdd063655593ae986cff37",
+  "prompt_sha256": "59cec8b8db493a1f9a600109ebbcb8f55dd23b241b74f2b04e8b2313c5d6c229",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

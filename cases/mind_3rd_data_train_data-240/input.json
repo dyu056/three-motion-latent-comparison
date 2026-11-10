@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-240",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-240",
+  "prompt": "A male figure, clad in a dark jacket and backpack, stands on a snow-dusted bank beside a partially frozen body of water. Patches of green and brown grass punctuate the snowy ground, leading to the icy surface that reflects the diffused light. Beyond the water, a dense forest of snow-covered evergreen trees extends towards hazy, distant mountains under an overcast winter sky.",
+  "image_content_sha256": "fd3d34c2f7e1775ac928b5cb4f63449c6dca1422897882882f739680242650db",
+  "prompt_sha256": "aa304379b64fbf3ac6bab1d92ce2a3b65a21b285fa01dcf885353f21ce10b2e5",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

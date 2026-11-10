@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0010",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0010",
+  "prompt": "A large outdoor shopping plaza before opening hours, central kiosk, striped umbrellas folded shut, one digital directory sign, wide tiled walkways, realistic architecture, sparse layout, distinct landmarks",
+  "image_content_sha256": "61b30436d53de5bc2d01761d1e3a2a4e77149bd9253e4bdac76b57594d4a296b",
+  "prompt_sha256": "0843cb134ce81d90b158edc918860b4b6d72012d52640c461754f0d4be53ebac",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

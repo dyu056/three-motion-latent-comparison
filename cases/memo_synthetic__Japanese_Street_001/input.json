@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Japanese_Street_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Japanese_Street_001",
+  "prompt": "First person view on a red scooter is moving straight ahead on an asphalt road sees a person(subject) crossing from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps riding forward and re-sees the subject in its FOV who keeps walking towards left and having completed the crossing with continuous motion.",
+  "image_content_sha256": "79cf0586eeeda14d46601af7576d22cf6b49922073360b14351eb3a85058149b",
+  "prompt_sha256": "fe55f619823bfa1d6541e989896246cf169df0673f24e1c8d61fbe2415f385c4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

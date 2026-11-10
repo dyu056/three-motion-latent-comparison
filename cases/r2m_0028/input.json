@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0028",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0028",
+  "prompt": "A broad shopping mall atrium before opening, glass elevator, central planter with tree, escalators on one side, glossy tiles, spacious and realistic, easy spatial orientation",
+  "image_content_sha256": "ecad7ea7838959fe5d05a0fc9337f6b683711d76e29f7a1c2a7f0508e76a34d3",
+  "prompt_sha256": "59184b7500300f51b9df1fbd6935f152c04f81faa9a54c0c46c051b8ffa466fe",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

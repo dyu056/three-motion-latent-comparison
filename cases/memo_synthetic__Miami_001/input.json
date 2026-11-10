@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_001",
+  "prompt": "First person view with a bicycle on a street in Miami is moving straight ahead and sees a person(subject) crossing the road from the right to the left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keeps riding forward and re-sees the subject in its FOV who keeps walking toward right and having completed the crossing with continuous motion.",
+  "image_content_sha256": "2b4fead5dd63c51cfdabee61160f75ae684c8a29aefa8deb0aa802f9300457a6",
+  "prompt_sha256": "887a60cc00f3960702e0f84aa9c7536d538127d83832320cfb8dea04cc4bb90b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

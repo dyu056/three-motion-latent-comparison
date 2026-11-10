@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-56",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-56",
+  "prompt": "The scene presents an ancient desert city featuring prominent pyramids under a bright, clear sky. Ornate buildings with golden domes, arched entrances, and patterned walls line sandy courtyards and paved pathways. Strong sunlight casts sharp, defined shadows across the exterior architecture and scattered wooden crates, contrasting with the deep darkness of interior arched passages.",
+  "image_content_sha256": "995187b6d40bcdcea230e6211744bafff85618f9defa18e091cb825a0e347d4d",
+  "prompt_sha256": "7cab5deb100bd48175e56e19a5777292b6b84109491fd730b2f8fe60c3d30388",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_002",
+  "prompt": "First person view as a person on a street in a medieval village is moving straight ahead and sees another person(subject) moving from the right to the left. Observer passes the subject (exits FOV) and follows a curved path to the left and performs a U-turn. Observer keep walking forward and re-sees the subject in its FOV who keeps walking towards right with continuous motion.",
+  "image_content_sha256": "5f2d5adb409b806476853d6edaf54f7f0f448d27421d6b8b0dae7cf7f64da4e3",
+  "prompt_sha256": "19ba5c692ab195d747768cedfeaa2b42490a1a6d487a1495824e1c366b1c36c7",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

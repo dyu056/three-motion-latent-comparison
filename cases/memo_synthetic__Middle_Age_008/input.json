@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_008",
+  "prompt": "First person view as a person standing at a high position in a medieval village sees a pig (subject) in the lower-front walking toward the observer's back-right-down, while a wolf in the distance outside the village runs toward the village. As the observer looks up, the subject exits the FOV. Observer looks back down and then re-sees the subject in its FOV and having changed direction to walk back towards front with continuous motion.",
+  "image_content_sha256": "43b8a19da1a7f7514874627b819a009353092eaec6a04b0a5427bd019d7c3d00",
+  "prompt_sha256": "3738017241468524de9874b5da88a6b0e71ea53ec22f9fa3c6e92525347b1d2f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

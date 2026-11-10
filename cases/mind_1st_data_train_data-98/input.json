@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-98",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-98",
+  "prompt": "This dark, futuristic industrial interior is illuminated by vibrant artificial light. A complex network of glowing yellow-orange tubes crisscrosses the ceiling, casting reflections on the dark metallic floor which features scattered red illuminated patterns. The walls are lined with intricate machinery, including stacked red and yellow components on the left and a large, dark, organic-like pillar amidst red-gridded panels on the right.",
+  "image_content_sha256": "ddc35c384b181e25ecce0573de92a8ac0510b218ad57ab011eccdc3036fff9a4",
+  "prompt_sha256": "83cc617827eab68b8275bb0d15d34d815235e7c56059a32d83f6fde46a142544",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

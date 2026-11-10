@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-22-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-22-0.8x-175",
+  "prompt": "This scene presents a dark, multi-level industrial interior, characterized by grimy concrete walls, reflective tiled floors, and exposed metal structures with railings. Prominent features include \"NO SIGNAL\" screens displaying sad face emojis, vibrant graffiti, and a central, pale humanoid statue on a pedestal. The atmosphere is dramatically lit by contrasting neon blues, reds, and stark white utility lights, creating a high-contrast, dystopian ambiance.",
+  "image_content_sha256": "3291e9c648e2d792d61391d6f799eafdf9e88f87dfc1c12609554b0517d4ac60",
+  "prompt_sha256": "1fca5a98683e517d10329aef9dbcece01fd34c9b716d226b9eb0eb2aad419b31",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

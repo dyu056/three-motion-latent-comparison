@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Havana_008",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Havana_008",
+  "prompt": "First person view as a person standing on a Havana street sees a nearby person (subject) running from right to left, while a distant wolf in the front-left runs toward the observer. As the person continues to run, the subject exits the FOV. Observer turns the head to the left and then re-sees the subject in its FOV who keeps running towards front-left and having continued the run with continuous motion.",
+  "image_content_sha256": "ba0bee7e7f156db7081323131acd7066fd685e1c969e7d8df7d971eafd4a5ad4",
+  "prompt_sha256": "1f475ef51b1b6d7ab76bf49ebbfdbec9e8cf9213eb4ca577f641b4ccf430a479",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

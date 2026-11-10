@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_020",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_020",
+  "prompt": "First person view as a person running forward in Miami sees a person (subject) in the front-left running forward, while another person in the front-left walks toward the observer and a third person in the front-right walks left. As the observer continues to run and passes the person, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps runing in place and then the subject in its FOV and having changed direction to run back with continuous motion towards front-left.",
+  "image_content_sha256": "ba0a69aaea6c1be8f3ac182ff5a08c653273df0bbf144e2dc3d8fdd80f6ebc9b",
+  "prompt_sha256": "8a8951aa95e704e12aab1b8c16293bdf531181b300de9c08a81c45bc6eac20c0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-31",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-31",
+  "prompt": "The interior environment presents a house characterized by aged, patterned wallpaper and dark wooden flooring throughout its various rooms. Distinct spaces include a living area furnished with armchairs and a vintage television, a kitchen featuring a red dining set and retro appliances, and a bathroom adorned with teal checkered tiles and a clawfoot tub. Illumination varies from the soft, ambient glow in shadowed corners to the bright, functional light provided by windows and overhead fixtures, establishing a diverse mood across the dwelling.",
+  "image_content_sha256": "3ed7cc9c053762a5659d23f13722ccaea57374fbc86b55de5a9405cbe794ed69",
+  "prompt_sha256": "f370b01323e720585f39dbaa2f5d2c20e39bf6b4232bfe07d7db4e0ac33419eb",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

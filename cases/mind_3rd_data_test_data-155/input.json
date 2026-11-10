@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-155",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-155",
+  "prompt": "A vast volcanic landscape dominates the scene, characterized by dark, rugged mountains and a wide river of intensely glowing molten lava flowing across the foreground. A lone man, dressed in dark clothing and carrying a backpack, stands on solidified black rock, observing the fiery expanse. The dramatic illumination emanates from the vibrant orange and yellow lava, casting a warm glow against the cooler, partially cloudy sky above.",
+  "image_content_sha256": "2378ca25e81d66a9d06f2de77a9fe5980ec64a3051e31160e44b86625aa52b55",
+  "prompt_sha256": "2c5e3bde944ce2cc8d60a75805f34b7c4e2f8cd2992c721ca6ad93f929a28fae",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

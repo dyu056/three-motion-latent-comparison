@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0096",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0096",
+  "prompt": "A Soviet-era civic square, one monumental statue, red banner pole, concrete steps, bus stop shelter, wide austere emptiness, cinematic realism, recognizable anchors",
+  "image_content_sha256": "89c07efb0e6fe98ce688fc3e582680fadf071ba520f65b985715b206c9e27bce",
+  "prompt_sha256": "4616339ce1af28f890c939b633ec08c14bb690d9723cd03f2b09f1fbf9b39bea",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

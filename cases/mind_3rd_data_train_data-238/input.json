@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-238",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-238",
+  "prompt": "The scene presents an arid, semi-enclosed environment featuring undulating sandy ground interspersed with flat, light-colored stone pavers. Robust, square-based stone pillars rise to support a structure whose walls are partially clad in small, square teal-green tiles. A dark, armored figure with distinct orange accents stands centrally, illuminated by bright, directional light that casts sharp, defined shadows across the textured surfaces.",
+  "image_content_sha256": "df57a62029bccbc7912306bc71c64020e3500a3d19e2b5a7b8d43453b959e166",
+  "prompt_sha256": "144d70b2301be1e4eb314c4c0fa22060b614fe55c84f93ba3f9d14d7af7d2a18",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

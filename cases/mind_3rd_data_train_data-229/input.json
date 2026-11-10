@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-229",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-229",
+  "prompt": "A snow-covered landscape features a winding path through patches of green and brown grass. Tall, snow-dusted evergreen trees dominate the mid-ground and background, suggesting a dense forest on hilly terrain. A person, clad in grey winter clothing and a dark backpack, is positioned with their back to the viewer under a soft, overcast sky.",
+  "image_content_sha256": "ef707db37940565dba1351c6f9047fb1ba3aa38c8d057168510243876baa5a50",
+  "prompt_sha256": "aa44ff76203b17a9aa690342a7f2b015def5690eb662ae8f34f28d789455f1ee",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

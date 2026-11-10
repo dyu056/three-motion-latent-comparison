@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__257",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__257",
+  "prompt": "A first-person view of a plate filled with purple liquid with a heat-soaked bottle being placed inside. The camera smoothly pans to the left, causing the plate to gradually exit the field of view. The camera then pans back to the right, and the plate re-enters the frame, revealing that the bottle has drawn in a visible amount of purple liquid as the air inside cooled and contracted.",
+  "image_content_sha256": "cfcb39c1e5b9cd838aa1e3f6c3f6579da075d3334a6263d88ff1bf1a7eabb2d8",
+  "prompt_sha256": "01a21e338e32589c8ac3e424f40ebe0da3ffce721af0584264dec3fbb5240b1c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

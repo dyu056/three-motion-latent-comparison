@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0074",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0074",
+  "prompt": "A silent plaza covered in shallow water, one chapel facade, suspended lanterns, a black boat, wide reflections, cinematic surreal atmosphere, clear landmarks",
+  "image_content_sha256": "35dd44130814ac28e5a56437e08c855d803114f4f84bca2e82036b4d0f7c477d",
+  "prompt_sha256": "2850147243904cdc2bbe1b0f27918e6a2ab8e328e50728a94b9819da67b66464",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

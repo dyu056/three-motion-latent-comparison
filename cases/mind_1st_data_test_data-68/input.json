@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-68",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-68",
+  "prompt": "A rustic wooden cabin, featuring a weathered roof, stone chimney, and an antenna, occupies the left, with a porch displaying a chair, table, and an orange pumpkin. A dense cluster of tall evergreen trees borders a sun-drenched grassy expanse on the right, which includes scattered wildflowers, exposed rocks, and a tree stump. The scene is brightly illuminated by natural sunlight under a clear blue sky with scattered white clouds, creating a vibrant outdoor setting.",
+  "image_content_sha256": "f91c13df4d09c5c9576acb3a1d1f6229c8d4cf6c0d408b8c5c9db472771ef5c6",
+  "prompt_sha256": "1175fb02150248965166802ae6f3cd621dd01cd7b3a0b3b6c9f5b80d0299eec3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_016",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_016",
+  "prompt": "First person view as a person walking forward in an old factory sees a person (subject) in the front-left walking toward the observer's back-left, while another person in the front-left walks right and a third person in the front-left walks toward the observer. As the subject continues to walk, the subject exits the FOV. Observer turns around towards left to face rear-left and keeps walking in place and re-sees the subject in its FOV who keeps walking towards front-left and having continued walking with continuous motion.",
+  "image_content_sha256": "1000ac185494bb633061326abdd8623e840f1c36744e517618d9276e1ca609d5",
+  "prompt_sha256": "3e07690bceb4bfaff9fb19cea8af1075228f73fd64d62f508ca7f6640f64bbdf",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

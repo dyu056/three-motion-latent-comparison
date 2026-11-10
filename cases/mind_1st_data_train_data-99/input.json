@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-99",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-99",
+  "prompt": "Towering red-brown rock formations define a deep canyon, flanking a wide, placid body of water that reflects the sky and surrounding cliffs. Sparse green foliage dots the rock ledges, while organic debris floats on the water's surface, and small birds soar in the distant sky. A bright, high sun illuminates the scene, creating sharp contrasts and vivid reflections under a clear blue sky with scattered white clouds.",
+  "image_content_sha256": "903e9fbf928b8093d2135dfde3a1330c278d50ee9baf662b18671dd3259a8967",
+  "prompt_sha256": "0551ea805ed3b5ef09d3473e077d603b5a3b50e0858d60248a30ea182fec775d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

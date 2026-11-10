@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_003",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_003",
+  "prompt": "First person view as a person on a Nordic street is moving straight ahead and sees a sports car(subject) driving on the road from the left. Observer passes the sports car (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and then re-sees the subject in its FOV and having continued driving towards left with continuous motion.",
+  "image_content_sha256": "d50eb8955f96f9675ebbabb845126208f1cc1226eaf65a898b9a833132f5ca5c",
+  "prompt_sha256": "9d49929ca3347cdea1b24b11f9e77edb38970e3446b10ad93ac775b864816eb3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

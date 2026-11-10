@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_002",
+  "prompt": "First person view as a person in an old factory is moving straight ahead and sees another person(subject) moving from the left to the right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking towards left and having continued walking with continuous motion.",
+  "image_content_sha256": "4d1b016d622002f78e555e39a634f2c26465829fdf6d0b78906a4b700fd0bb80",
+  "prompt_sha256": "02744bc04896bc0eca38288504739f5a68cf224bc38467fb953dbd2449ec540d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

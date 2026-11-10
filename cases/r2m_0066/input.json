@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0066",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0066",
+  "prompt": "A polygonal sandbox desert, one green low-poly tree, a purple cube house, signpost arrows, empty terrain, readable stylized virtual world, minimal clutter",
+  "image_content_sha256": "5e84ba92fa4684720939f0e83394f1b069e3706162df0b1ed40dd9c66beea49c",
+  "prompt_sha256": "b9866d71ea90dac7420e2215c10a6def17838d0bb3c27eb2b7e8af4f209c0cd4",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

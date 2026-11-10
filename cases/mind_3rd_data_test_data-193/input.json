@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-193",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-193",
+  "prompt": "A paved road, marked with a white line and a manhole cover, curves through a passage defined by tall brick walls densely covered in green foliage. A streetlamp and a yellow sign are visible further along the path, which is bordered by the overgrown walls. Diffused natural light illuminates the scene, highlighting a figure from behind, clad in a black leather jacket and backpack, positioned on the asphalt.",
+  "image_content_sha256": "10793572bbc51b197d49897cde473f356741341f3543189747827e3afacb4b8e",
+  "prompt_sha256": "5093058edc0a2564ae0c437249070130359a0405cca2ba9c3a291b742df60648",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

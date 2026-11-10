@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__221",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__221",
+  "prompt": "A first-person view of a lit candle standing upright on a table with a PE mesh sleeve held over the flame by tongs. The camera smoothly pans to the right, causing the candle setup to gradually exit the field of view. The camera then pans back to the left, and the candle setup re-enters the frame, revealing that the PE mesh has burned and contracted significantly under the heat, shrinking into a denser shape.",
+  "image_content_sha256": "a2f6685b76ad248893dc8b16e6c8e7790a5503b6899d32bfaaee7dbdbe33a62e",
+  "prompt_sha256": "1ff19be4212235088d2fbb9ac32fb7dc5f77d1893c321e0c4f3d42d1dc91413e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

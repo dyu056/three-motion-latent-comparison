@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-57",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-57",
+  "prompt": "A wide, brick-paved pedestrian plaza extends into the distance, flanked by mature trees and multi-story buildings. Tall lampposts with hanging planters and decorative awnings line the path, while a brick building with storefronts and outdoor seating occupies the right. The scene is illuminated by warm, dramatic light from a partly cloudy sky, casting long shadows across the ground.",
+  "image_content_sha256": "6a9fa946c7e262974cfbcbd34690b4196dbd44db6bfed6b40475030afcd87171",
+  "prompt_sha256": "4ea4fa224dca42c46686d84c22e552e87e193159a6701493b03ff2418747d0dd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

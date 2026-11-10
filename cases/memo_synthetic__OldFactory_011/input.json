@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_011",
+  "prompt": "First person view as a bird flying forward in an old factory sees a person (subject) in the lower-front running toward the back-left, while a rhino in the front-left runs toward the right. As the observer continues to fly forward, the subject exits the FOV. Observer follows a curved path to the left and performs a U-turn and keeps flying forward and re-sees the subject in its FOV who keeps running forward and having continued the run with continuous motion.",
+  "image_content_sha256": "d3b44233a3de00ed1ce3008dd33236a3782785ada8a695ceb376e2dfeb6f3f92",
+  "prompt_sha256": "29805da4836c83ab95f71a5882e32e27bd2f38145832a0011a910082690950be",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

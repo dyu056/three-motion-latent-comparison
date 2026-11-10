@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0022",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0022",
+  "prompt": "A nearly empty airport terminal, large departure board, rows of seats, one coffee kiosk, gate number signs, wide polished floor, realistic and open, suitable for forward and backward camera movement",
+  "image_content_sha256": "e9e07e344208e917db701adc1f405aa0414b3fa18bed26e564c78e2a87795cbb",
+  "prompt_sha256": "daf10c20d71e2a9861178a0ffd4487b8f6484ebe96446bdebdf9a57153a012f7",
+  "source_image_size": [
+    1584,
+    672
+  ]
+}

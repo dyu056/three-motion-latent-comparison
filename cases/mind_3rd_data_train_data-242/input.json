@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-242",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-242",
+  "prompt": "A paved urban street, flanked by multi-story buildings and mature trees, extends under a dramatic, cloud-streaked sky. Numerous lampposts with spherical lights and hanging banners line the thoroughfare, which features a prominent flower bed and a distant blue and white umbrella. Strong, low-angle sunlight casts long, intricate shadows of trees and a male figure with a backpack across the brick-patterned pavement, creating a dynamic interplay of light and dark.",
+  "image_content_sha256": "f12bcfeb3c238238dab03730bb21f986954f296b6e5ff25d8dc74a6c8126112d",
+  "prompt_sha256": "11bc3193f9f4c4f6ecd2759481aa8f2cb233c5abd063082635ae62dc5b7f9fdd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

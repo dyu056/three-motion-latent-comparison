@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0060",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0060",
+  "prompt": "A crystalline alien city court, one tall prism monument, glowing pathways, circular gate, sparse luminous trees, open and dreamlike sci-fi geometry, clear visual anchors",
+  "image_content_sha256": "a84455329a716521bf34ebf11fc9a440cdf4a5e31713276f6ad5543f8cd3520b",
+  "prompt_sha256": "669089e446f79b662fa5ff1576085e728814ba5d85862a17dce9228a7bebfa17",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-135-0.6x-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-135-0.6x-150",
+  "prompt": "A narrow dirt path winds through a lush, overgrown landscape dominated by vibrant green ferns and dense foliage, with a weathered stone structure partially visible on the left. A figure wearing dark clothing and a prominent black backpack walks along this path, moving away from the viewer. Golden hour sunlight bathes the scene, casting warm highlights and long shadows across the terrain and filtering through the surrounding trees.",
+  "image_content_sha256": "9486dadf0d4f9a692fa4a77f727b4cf556e20cb24cddcc4b8ff121553185238d",
+  "prompt_sha256": "4bcf3b61ae4de7d3495d68e71bfb134a529ec9da5c33ceebc7d0f3076240ba82",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

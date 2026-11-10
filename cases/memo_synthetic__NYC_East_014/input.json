@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYC_East_014",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYC_East_014",
+  "prompt": "First person view in a car driving forward on an East New York street sees a person (subject) in the front-left walking right to cross, while another person in the front-right is jumping in place. As the observer continues to drive and passes the person, the subject exits the FOV. Observer follows a curved path to the right and performs a U-turn and keeps driving forward and re-sees the subject in its FOV who keeps walking towards left, while the person jumping in place performs another jump with continuous motion.",
+  "image_content_sha256": "cfc2752c9a8faa0802028279f9e257a7e7e5884ea50187651cb022a2a866ac06",
+  "prompt_sha256": "27ce74b1282ca7eb3bd3af0ecc87c03a117360b270b970b4ffa4f1cd1e78f76a",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

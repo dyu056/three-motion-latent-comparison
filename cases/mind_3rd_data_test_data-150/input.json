@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-150",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-150",
+  "prompt": "A stylized outdoor landscape features rolling green hills sparsely populated with numerous evergreen trees under a bright, clear sky. A paved stone path occupies the foreground, bordered by a rustic wooden fence behind which several large cut logs are neatly stacked. A male figure, clad in a dark, textured jacket and pants, stands centrally on the path, illuminated by strong daylight that casts distinct shadows.",
+  "image_content_sha256": "3b834c3d56f8255a2554da797236c52acda0ac94d2ef2ebbc09741bd5ffd73f1",
+  "prompt_sha256": "178d9944e2f02a307ce21a119b1fdf43b53032f43fd6a2f519579ec989a8d97c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

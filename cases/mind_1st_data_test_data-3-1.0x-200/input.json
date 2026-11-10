@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-3-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-3-1.0x-200",
+  "prompt": "The expansive, industrial-style interior features a reflective teal floor and diverse wall treatments, including dark blue panels with geometric cutouts and large digital displays. Prominent circular, industrial portals with glowing cores punctuate the space, alongside metal truss structures, abstract art panels, and areas with lush indoor plants; illuminated floor projections and colorful cables add intricate details. The atmosphere is dramatically lit by vibrant, theatrical spotlights in blue, purple, red, yellow, and green, often enhanced by atmospheric haze, creating a dynamic visual experience.",
+  "image_content_sha256": "e686e9d507b5ae8b52908a4f22a617d843132a685ceb9b560bdd8ae1163145f4",
+  "prompt_sha256": "510569771894eb764d2c3e6684a2ec0b73db66711daf9c632faebad5cef04e09",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

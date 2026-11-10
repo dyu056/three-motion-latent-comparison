@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-122",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-122",
+  "prompt": "The scene presents a long, rectangular industrial interior characterized by rough concrete walls and an exposed concrete beam ceiling. Bright natural light floods the space through numerous large, multi-paned windows lining both sides, illuminating the stark environment. The concrete floor is strewn with construction debris, scattered wooden pallets, and a concrete block, leading towards a dark doorway at the far end.",
+  "image_content_sha256": "95718b8107d6348293452256af1c2bac4f76b631071b29a49f3adfb9c8aa1b15",
+  "prompt_sha256": "a96789a2d9b61a183afb194d2e615bae13a11623d62626a36c3bb64ce9f5df93",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0093",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0093",
+  "prompt": "An old railway platform in fog, one green bench, station clock, luggage cart, lamppost row, wide empty space, historical atmosphere, distinct landmark spacing",
+  "image_content_sha256": "2eb22fec48b12081249a8a3c1a4ad73cd57a2d2b4fcc249c5c50b855617ecc74",
+  "prompt_sha256": "a01387dcd35d5e9b87f611c7424d5e0a4430ecf7210f7a7b496977317d15553a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

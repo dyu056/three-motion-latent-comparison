@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-187",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-187",
+  "prompt": "An expansive industrial facility features a central figure walking away on a concrete floor marked with prominent yellow and black hazard stripes. Large yellow support columns, one bearing a black and yellow hazard triangle, punctuate the space, which is filled with overhead metal structures, pipes, and conduits. Various industrial equipment, barrels, and \"SAFETY FIRST\" signage are visible under the bright, artificial illumination of the factory interior.",
+  "image_content_sha256": "2150d9e6e1e58d77ec9097a6a2a19bd114da4e5fa68b8a525cfc7d87e9ec2a3f",
+  "prompt_sha256": "3235f328ca1e98907e49546a1574a3d4463e8603146b6e868fe511aeae05d7ca",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

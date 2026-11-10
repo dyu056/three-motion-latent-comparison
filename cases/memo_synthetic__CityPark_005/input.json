@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_005",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_005",
+  "prompt": "First person view walking in a football field  is moving straight ahead and sees a soccer ball(subject) moving from right to left toward the goalpost. The ball exits FOV as the observer moves forward, then rebounds back. Observer then re-sees the subject in its FOV and having rolled back with continuous motion.",
+  "image_content_sha256": "550ae9e7f591337ed3d57b3ed374b3b81fc8c1a50e140c9b5390a2b086d2ae46",
+  "prompt_sha256": "a686e05b28c00c03c97647e0c833820cc02e30110e74b8b069365f8c4a5e21ef",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

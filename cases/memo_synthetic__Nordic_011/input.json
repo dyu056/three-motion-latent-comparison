@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_011",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_011",
+  "prompt": "First person view as a person walking forward on a Nordic street sees a fox (subject) at the intersection in front running toward the right, while another person in the front-right runs forward. As the fox continues to run, the subject exits the FOV. Observer reaches the street corner and turns right then keeps standing still, then re-sees the subject in its FOV which keeps running and having turned around to run in the opposite direction which towards back-left with continuous motion.",
+  "image_content_sha256": "e88c9d73bc9f1b8a87eed3aab49e51ffd689a3939f6972d4b7280e48698c41a9",
+  "prompt_sha256": "8df43af26ee1633af8e721e524872712e8426c8ef06dc4fa711970e32f1b92f0",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__097",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__097",
+  "prompt": "A first-person view of a beaker of clear water on a table with blue paint being dripped in. The camera smoothly pans to the left, causing the beaker to gradually exit the field of view. The camera then pans back to the right, and the beaker re-enters the frame, revealing that the blue paint has dissolved and diffused throughout the water, turning it a rich blue color.",
+  "image_content_sha256": "589a666fbc61f341cda96722ec97f3c5782cf5259810084b0e1e08a0683f5a8a",
+  "prompt_sha256": "0b87cd09eefb37d8473c3920ab23724ab6f9e3a4b92eff9425aa09a58a6a92e9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

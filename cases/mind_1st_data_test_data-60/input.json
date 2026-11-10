@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-60",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-60",
+  "prompt": "The scene presents a dark, enclosed futuristic corridor or industrial facility, defined by metallic walls and ceilings traversed by pipes and conduits. Red and orange glowing strips line the floor and walls, complementing illuminated circular fans and reddish-brown doors, some marked \"CAUTION.\" Overhead white spotlights pierce the pervasive gloom, creating stark reflections on the polished dark surfaces and contributing to a high-contrast, ominous atmosphere.",
+  "image_content_sha256": "13d8c4689ffc9a8b734c4a5ac0d848764c6f8ba6d00c75ca596a8bc56b6c6e28",
+  "prompt_sha256": "8b03286902726cd0bada9f6e92ece2a47b5de2d9b4f4e487b667c1c167b09a73",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

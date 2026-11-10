@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-228",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-228",
+  "prompt": "A sandy, sun-drenched floor defines the foreground of an ornate, Middle Eastern-inspired interior space. Grand arched windows with intricate blue and gold latticework frame the background, flanked by white walls, one displaying a red banner with a gold emblem. A dark, armored humanoid figure with orange accents stands centrally, illuminated by bright, natural light that casts distinct shadows.",
+  "image_content_sha256": "1ab4422d4bddb817981747ae65976213f635ab6c0d0a5a3ce3c1e4994bc43535",
+  "prompt_sha256": "e2e57af66199b6e4e16809f1d0cf8b4990006cad28c9580edd0bdd6f78d792c6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

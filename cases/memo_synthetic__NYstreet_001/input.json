@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_001",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_001",
+  "prompt": "First person view as a person on a New York street is moving straight ahead and sees another person(subject) crossing the road from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps walking forward and re-sees the subject in its FOV who keeps walking toward left with continuous motion.",
+  "image_content_sha256": "9ef6233775701e105d169f5168e7ed4e4df42d14be2ddd783aa133ac879ba74e",
+  "prompt_sha256": "5bd3163103040d30d0077cdc9674bf3bafc364480b5e779d4f7dc4e6528f8a58",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

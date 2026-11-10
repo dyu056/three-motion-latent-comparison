@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-227",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-227",
+  "prompt": "A male figure, dressed in a dark leather jacket, grey trousers, and a backpack, stands centrally on a wide expanse of textured, light blue ice. The background reveals a snow-covered landscape dotted with numerous evergreen trees, their branches laden with white, and a rustic wooden fence in the mid-distance. Overcast conditions provide a soft, diffused light, illuminating the scene with a cool, serene winter ambiance.",
+  "image_content_sha256": "508846fa52fa439c70080f87c35d8c03a4a76e181c733676f82232f633e88b5c",
+  "prompt_sha256": "8fcba99464b66626d5fd9fe01f839c1f115baedf2b8643b8482b58f7147f2484",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

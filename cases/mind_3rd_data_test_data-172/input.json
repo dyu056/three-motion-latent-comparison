@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-172",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-172",
+  "prompt": "A figure in a black and yellow armored suit, featuring glowing orange foot accents, stands on a tiled floor within a dimly lit, urban-industrial interior. Concrete pillars and a corrugated metal structure define the immediate pathway, leading towards a multi-level background of metal railings and grates. The scene is illuminated by artificial light, including a prominent blue neon sign, creating a stark, enclosed atmosphere.",
+  "image_content_sha256": "afebb8ee0242b6e76a003119c565960373b2b840d157fa47f9be702ef00b30aa",
+  "prompt_sha256": "d4b4994efdca4f535d1c7667c034571c6dc4aea375089e010a075ef6d80b372c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

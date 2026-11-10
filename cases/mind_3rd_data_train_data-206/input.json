@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-206",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-206",
+  "prompt": "The scene depicts a utilitarian, futuristic corridor with dark, paneled walls and a distinctive bright yellow floor. Along the left, stacked dark containers with yellow accents and a metal railing line the path, while the right features a long, light-colored bench and corrugated wall sections with protruding yellow platforms. Cool overhead lighting casts a stark glow, contrasting with the dominant warm yellow illumination emanating from the floor, which highlights a solitary male figure in dark attire.",
+  "image_content_sha256": "bbd85c99583651b79f5b7181ea759485122740bcf934e5aa0af8780d74996469",
+  "prompt_sha256": "42eb7c9bcff9b9cd66199d6e408708f20ac4ca901e32e5abfd246d8d061497d3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

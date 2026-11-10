@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0041",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0041",
+  "prompt": "A large marshland boardwalk area, one observation tower, railings, a directional map panel, open water channels, overcast realism, strong revisit cues",
+  "image_content_sha256": "b8fde7fa9cf24e6dc336945112e72bcc85a9c9e242a91fcfc2a94649c29c7258",
+  "prompt_sha256": "d72f65d6436b54f114d7bee2942af3f6f376257943d3c1f1d4b91f675e77de25",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

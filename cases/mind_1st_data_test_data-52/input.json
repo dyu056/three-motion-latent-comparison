@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-52",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-52",
+  "prompt": "The scene presents a grand, ancient corridor defined by colossal, dark pillars and wall panels intricately carved with gold and bronze dragon motifs. A highly reflective, dark floor mirrors the ornate architecture and red fabric drapes strung overhead, while a glowing brazier emits light and smoke on the left. Dramatic, high-contrast lighting illuminates the rich textures and leads the eye towards a distant, bright opening, creating an atmosphere of solemn grandeur.",
+  "image_content_sha256": "f4cbbd05d8b07a4579b3078bbf4d6288e331968279b52f57b602932b3fb51186",
+  "prompt_sha256": "361e8789913feb55fc5b69a7ebca8f4848676820ec2ec6f356c39d28c3db6a2f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-204",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-204",
+  "prompt": "An ornate, Middle Eastern-inspired architectural complex, featuring light-colored stone steps, teal-tiled arched doorways, and intricate golden grilles, forms the backdrop. A figure in a dark grey and gold armored suit stands on a sun-drenched path composed of light paving stones and sand. Bright daylight illuminates the scene, casting sharp shadows and highlighting the detailed, lush green foliage spilling over the walls.",
+  "image_content_sha256": "3e4b828a5240ed70f0b284a6ba9a988691e902d4b8bcd4809de3c552fad31752",
+  "prompt_sha256": "3e961a1618508918e8fdffb414bec4a1721a87ca3ad46b7ebd0cce646d344aee",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

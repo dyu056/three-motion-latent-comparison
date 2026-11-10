@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Barnyard_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Barnyard_009",
+  "prompt": "First person view running forward in a Barnyard sees a person (subject) in the front-left walking forward, while another person in the front-left walks right. As the observer continues to run and passes the person, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps running in place and re-sees the subject in its FOV which keeps walking towards right and having continued the walk with continuous motion.",
+  "image_content_sha256": "905409105619b1657684598434c24cba19e0839eec894c3be97623184359078e",
+  "prompt_sha256": "62d4da92ccaeef7208a01cb4e61b05c03a39fa3e212456a9fcf5e2f3522d663d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

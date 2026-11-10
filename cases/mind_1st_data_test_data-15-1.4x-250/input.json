@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-15-1.4x-250",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-15-1.4x-250",
+  "prompt": "A fantastical landscape is illuminated by a dramatic sky, transitioning from vibrant purple to bright blue with scattered clouds and prominent light rays. A winding dirt path meanders through lush green grass and rugged rocky terrain, flanked by large boulders and distant, softer-edged mountains. Intense, ethereal light beams pierce the atmosphere, strongly illuminating a central gnarled tree and parts of the path, creating a scene of striking highlights and deep shadows.",
+  "image_content_sha256": "6095f861587e507c7bad6aa93d6c99db76b8ff5874ee8d8a0bd6409c0773c13a",
+  "prompt_sha256": "6cb5e4e98c982e72f9d9c4301e05e074742ee2af9789b9aa4d01b231190dace9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

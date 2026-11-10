@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__159",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__159",
+  "prompt": "A first-person view of a pot of boiling water with raw shrimp being dropped in. The camera smoothly pans to the left, causing the pot to gradually exit the field of view. The camera then pans back to the right, and the pot re-enters the frame, revealing that the shrimp have turned a vivid red color from the heat of the boiling water.",
+  "image_content_sha256": "e614e57bcd13dcfe6e2678d7da78a0665adaf5c8e4bfa3d9841e96831233e480",
+  "prompt_sha256": "71e13e766271f5eefff8a6a141135ae14fde3fd834f5fe27f6d84d63ee8314e3",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

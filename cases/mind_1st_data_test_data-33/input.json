@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-33",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-33",
+  "prompt": "The scene presents a brightly lit domestic interior, primarily a bathroom with an adjacent hallway or room visible through a doorway. The bathroom features teal tiled walls, a white and teal checkered floor, a white clawfoot bathtub with beige shower curtains, a pedestal sink, and a toilet within a partitioned area, complemented by a floral bath mat and a checkered towel. Through the doorway, an adjoining space reveals peach-patterned wallpaper and a dark red dresser adorned with a decorative vase, a potted plant, and a framed photograph.",
+  "image_content_sha256": "ad14b0ed59ae291c2fc1588ab1dcfb3709f055292ad70f31aef2b83c22393d73",
+  "prompt_sha256": "2340eaa7187867ff7f3abdd0d826c0bc0f15ce88c9dc3c0fb0a7f5170d3481f6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

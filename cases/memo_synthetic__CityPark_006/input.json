@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__CityPark_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__CityPark_006",
+  "prompt": "First person view as a person sitting in the stands of a football field and sees a person(subject) running from left to right. Observer turns the head to the left and the subject exits the FOV. Observer stands up and turns the head back towards right and then re-sees the subject in its FOV who keeps running towards right and having continued the run with continuous motion.",
+  "image_content_sha256": "a3d83a1cea2567fc1def233810a562c95730688f726eaa07bbf6a5465f99091f",
+  "prompt_sha256": "24d372581f059f63e23b201ce53c139425e274fdc00074557328dc04261c2af8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

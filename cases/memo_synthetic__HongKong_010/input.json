@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__HongKong_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__HongKong_010",
+  "prompt": "First person view as a person standing on a Hong Kong street sees a bird (subject) in front flying toward the upper-right, while a pig in front walks toward the front-right. As the bird continues to fly, the subject exits the FOV. Observer turns the head upward and then re-sees the subject in its FOV and having continued the flight towards upper-right with continuous motion.",
+  "image_content_sha256": "70e62641ab26b4caf4a353ef5daa41df561d9f16ac6c238d613beafb76b08bc2",
+  "prompt_sha256": "76011b87194c3000c38569dba83211ff406632f0657a686cb9a3d8252587d548",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

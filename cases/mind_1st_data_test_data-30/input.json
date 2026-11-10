@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-30",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-30",
+  "prompt": "A complex of ancient, weathered metallic structures, featuring towering pillars and floating platforms, is suspended within a deep black void. These bronze-toned elements, adorned with intricate carvings, are interconnected by simple wooden bridges, with a prominent central domed platform supporting a smaller, ornate shrine. The scene is dramatically lit by a vibrant, glowing teal light emanating from within and outlining the structures, contrasting sharply with their warm metallic surfaces and the surrounding darkness.",
+  "image_content_sha256": "f8084f2e241605b74651364b25c3f48d519d3528e5b4523fbbe6006637f104d7",
+  "prompt_sha256": "1aa2d13215190798b03a2466c1ec6e118f06b888eee653b7a69dcdb725855431",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

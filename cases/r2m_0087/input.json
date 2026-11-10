@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0087",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0087",
+  "prompt": "A low-poly fantasy harbor, one crane, stacked crates, a moored boat, lighthouse at a distance, open and navigable stylized environment, distinct landmarks",
+  "image_content_sha256": "8da852fdf1579a4b37c4b475fd5be58a7200470160b32660113c3d19fb8db09f",
+  "prompt_sha256": "777e66b8eebd57fc44b34d8fcdfc77adb9ba825190fd36a7ecefcfac3c73bdf2",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

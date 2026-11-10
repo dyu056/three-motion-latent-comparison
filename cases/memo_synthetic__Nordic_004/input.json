@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Nordic_004",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Nordic_004",
+  "prompt": "First person view as a person on a Nordic street is standing still and sees a crocodile(subject) swimming in the water from left to right. The subject exits the FOV, and the observer turns the head to the right. Observer then re-sees the subject in its FOV and having continued the swim towards front-right with continuous motion.",
+  "image_content_sha256": "2f04711b35afddb387c68b441e7557df5dba73599d937b4967e29a226387db81",
+  "prompt_sha256": "e33aa989ff3ebaa1035264510e04fb323e6b8eb6a618b52ace0892a6350ca461",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

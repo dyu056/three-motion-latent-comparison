@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0077",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0077",
+  "prompt": "An impossible staircase garden, one central fountain, trimmed hedges, a lone stone bench, pale sky, Escher-inspired but open and navigable, distinct memory anchors",
+  "image_content_sha256": "fb22a3b782e7d8c837f040a8b6b632742594627a9ffb39b9ed279f63b1f82bef",
+  "prompt_sha256": "019092999aa016b7a9cb933ffc35bb923ae478890f9e03384a2d0c37f122c232",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

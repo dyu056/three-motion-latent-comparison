@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Miami_012",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Miami_012",
+  "prompt": "First person view as a person standing on a Miami street sees a bird (subject) in the upper-front flying toward the upper-left, while a person in front walks toward the observer. As the bird continues to fly, the subject exits the FOV. Observer looks up and then re-sees the subject in its FOV and having changed direction to fly toward the camera view's upper-right with continuous motion.",
+  "image_content_sha256": "7880915100a64fdaa4673e74ae711402e2a44f1efceef06764954b7c61c3d01b",
+  "prompt_sha256": "876c3569ee8f5af6c9cf8fe7326d976dfd01b581d421bb75d7ed19d134f9c8f4",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

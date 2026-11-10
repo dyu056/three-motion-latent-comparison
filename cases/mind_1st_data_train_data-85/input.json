@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-85",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-85",
+  "prompt": "The scene presents a brightly lit, futuristic urban street flanked by multi-story industrial buildings featuring blue, green, and dark grey paneling, exposed conduits, and colorful pixelated patterns. Two large, flatbed-style vehicles with prominent red lights are parked on either side of the asphalt road, which is marked with distinct red and blue painted lines. Overhead structures connect the buildings, and artificial lighting accents, including glowing signs and internal illumination, contribute to the vibrant, clear daylight atmosphere.",
+  "image_content_sha256": "06ad291e9d3040f4c7a2ac2d93d10192e91fc3d008fff983d5390e6efb8a9ea1",
+  "prompt_sha256": "07e39f19dd9ab8123458df6532284faaaa9e22ff57b0c4d07449f4f15a64df40",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-140-1.2x-225",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-140-1.2x-225",
+  "prompt": "A male figure, viewed from behind, traverses a sun-dappled dirt path winding through a dense, verdant forest. Lush ferns and broad-leafed trees dominate the landscape, with a weathered stone structure partially visible on the left. Golden hour sunlight filters through the canopy, casting warm highlights and deep shadows across the vibrant foliage and ground.",
+  "image_content_sha256": "fccc2cf11ac9b50741b2c58a4aca308f225fba6d021409fd4fd2891ba64c7ca0",
+  "prompt_sha256": "89373391f53df76678e15e0ea417facef90a1994d348b242ad936a9086fdb200",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

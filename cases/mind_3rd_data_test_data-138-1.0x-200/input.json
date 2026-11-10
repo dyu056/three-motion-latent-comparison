@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-138-1.0x-200",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-138-1.0x-200",
+  "prompt": "A male figure in dark tactical attire and a backpack stands on a verdant forest floor amidst ferns and moss. The dense background reveals lush green foliage, towering trees, and ancient stone ruins partially reclaimed by vegetation. Warm, golden light filters through the canopy, creating dappled shadows and illuminating the scene with a serene glow.",
+  "image_content_sha256": "1b00fcf8498aae9f476f5e50b69048d44a6ec05abe6c6497f351875513efdc70",
+  "prompt_sha256": "327f545c4d06c6fbbc8570285f60849b95ca734f118db25ea713584fe4d5550c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

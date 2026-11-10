@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0012",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0012",
+  "prompt": "A spacious harbor loading area, stacks of containers far away, one giant yellow crane, a striped warehouse door, open concrete ground, moody overcast realism, strong environmental identity",
+  "image_content_sha256": "72a05fd84e9b721129d369682fcd84863d99f2db957163b579981bee57f655b8",
+  "prompt_sha256": "f003e0526af0ef0db3a484eea3633e67c119b5795b7fa639bde2687b85e94f40",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

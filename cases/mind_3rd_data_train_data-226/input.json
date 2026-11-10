@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-226",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-226",
+  "prompt": "The scene unfolds within an opulent architectural complex, characterized by light-colored stone pillars, staircases, and structures adorned with intricate golden filigree railings and turquoise geometric patterns, suggesting a desert-inspired setting. A figure in a dark, futuristic armored suit with prominent yellow accents is centrally positioned, ascending the steps. Bright daylight illuminates the environment, highlighting the ornate details and casting subtle shadows across the sandy ground.",
+  "image_content_sha256": "e9888517871ec98788bc955e751c7cce5fe3535b50f6d9d2f1be6b8d824a9d4b",
+  "prompt_sha256": "0ffcb6952a3b3d00de77dca6f77e6b0fe2af77010bc2f08fa4aad327133cd16e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

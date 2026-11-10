@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0044",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0044",
+  "prompt": "A calm river bend floodplain, one fishing hut, a moored boat, reed clusters, long open shore, photorealistic and quiet, clear spatial references",
+  "image_content_sha256": "0cd1f166b0c8ebf1b8149f14075caf91c912c5ee711a04271a169f529eecab1a",
+  "prompt_sha256": "57573adec260c58546b6a68faac46c000555e9ed9b495d5280feb519a1cdae9a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

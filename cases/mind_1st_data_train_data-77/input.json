@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-77",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-77",
+  "prompt": "A winding dirt path, bordered by a rustic wooden fence and vibrant green grass, leads through a whimsical village setting. Stylized wooden houses with orange roofs are nestled among numerous tall, cartoonish pine trees on either side of the path, with a wooden bench visible further down. Bright, natural daylight illuminates the scene, creating a cheerful and inviting atmosphere with saturated colors and soft shadows.",
+  "image_content_sha256": "5ce28cbb40fc4d13d7b869cc6c2354a6e7dbe093d5887fdfadf43daa9af3a0b5",
+  "prompt_sha256": "0f862f7e69e49b5523eeaf71015916dc3f7bdbbb5b7fb5517873930bff180dec",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

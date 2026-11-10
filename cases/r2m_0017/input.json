@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0017",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0017",
+  "prompt": "A quiet mountain visitor center plaza, one wooden map board, flagstone paths, a stone monument, pine trees framing the distance, open alpine realism, easy-to-recognize landmarks",
+  "image_content_sha256": "432c7db63b8065418173284a4e823e9a963a6f444578cb64e291d94769cb84cf",
+  "prompt_sha256": "ef147583273975e2c7a9e3b52ed1db00c5175602cedfda4aeb3da643e0f8ea3a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

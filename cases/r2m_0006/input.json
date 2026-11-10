@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0006",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0006",
+  "prompt": "An empty suburban intersection at blue hour, one gas station canopy, traffic lights, a lone billboard, wide road markings, distant water tower, cinematic suburban realism, open layout, recognizable visual anchors",
+  "image_content_sha256": "69b397f6d54281e7cffeda58a607c1e8b9ed4751a09e870bb3e0e5d9b068519b",
+  "prompt_sha256": "85dc6d9dca12bb5a07496b9f449f8634cbc04b8b7da98b2e95e5e2dc6e103391",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

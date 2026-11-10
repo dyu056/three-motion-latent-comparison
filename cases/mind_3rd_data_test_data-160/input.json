@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-160",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-160",
+  "prompt": "A stylized, nocturnal village path, paved with irregular stone slabs and bordered by grassy patches and small pink flowers, winds through a dark environment. Rustic buildings with wooden doors and stone walls are illuminated by warm, flickering torches and glowing lanterns, alongside a prominent clay jug. A metallic, armored figure with glowing orange accents stands on the path, bathed in the dramatic, low-light ambiance.",
+  "image_content_sha256": "2bfe14bfae8b1480e71d40f178b46146ac6c37a5b298946dee693c63f896176c",
+  "prompt_sha256": "06a8b863b1ed52735c099a1b3985dffd2e16109d2a3287b5725fad6eae4fbae2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

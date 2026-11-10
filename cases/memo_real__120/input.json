@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__120",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__120",
+  "prompt": "A first-person view of a plate of brown liquid with a bottle that was soaked in hot water being placed inside. The camera smoothly pans to the right, causing the plate to gradually exit the field of view. The camera then pans back to the left, and the plate re-enters the frame, revealing that the bottle has absorbed a noticeable amount of the brown liquid as it cooled and contracted.",
+  "image_content_sha256": "57afde8a1f088f2c93393cb275ef0a06c943f0badfdcbaed027b8b74eba437bb",
+  "prompt_sha256": "3d0dbf504f3b77a8cbb73e48b48408182d36830f6181817c3384efd18c4f2174",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

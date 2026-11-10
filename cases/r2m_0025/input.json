@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0025",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0025",
+  "prompt": "A large public library atrium, central staircase, hanging wayfinding signs, one sculpture near the entrance, bookshelves at a distance, spacious and calm, clear foreground and background separation",
+  "image_content_sha256": "be1799272cd9f1a4783c98ce0220035931a43131aae7f5f5b5337fae3de60d08",
+  "prompt_sha256": "db5befa53f47ae191d4762a766f9477d783e75944c410a4c1d417dd87d9b7471",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

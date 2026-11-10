@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-139-0.8x-175",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-139-0.8x-175",
+  "prompt": "A male figure, clad in a dark jacket and blue backpack, is positioned on a red brick plaza lined with wooden park benches. Dominating the midground is a large metallic globe sculpture, situated before a body of water framed by dense green foliage and distant trees. The scene is illuminated by bright, diffused daylight, casting soft shadows across the herringbone brickwork of the plaza.",
+  "image_content_sha256": "5ff02d17f5d46fc0a37e38da0ba49e1ff90ccf920528cd46f8e5793562ecd448",
+  "prompt_sha256": "3b9f97944b8436cbf21b3228f9819f3927806b5bc3ff3a06f13f075b92ad455d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

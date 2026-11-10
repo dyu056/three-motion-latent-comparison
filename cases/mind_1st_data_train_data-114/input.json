@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-114",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-114",
+  "prompt": "A narrow canyon, characterized by towering, stratified reddish-brown rock formations, frames a calm body of murky, olive-green water. Sparse green foliage and small trees cling to the upper rock ledges and crevices, with a partially cloudy sky visible above the chasm. Bright sunlight illuminates the canyon's upper reaches, casting deep shadows upon the water and lower rock faces, creating a high-contrast, enclosed atmosphere.",
+  "image_content_sha256": "b6b51b877da0a453b2c97ddcf7b1244b9e3ca3ac5b8f87f4c2387bb30078662f",
+  "prompt_sha256": "5d1d844a6fc3ff8c192f6ed27d9d5ee9fed1ca9eed9f67d77649a10c258141e9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

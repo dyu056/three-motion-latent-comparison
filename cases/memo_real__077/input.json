@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__077",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__077",
+  "prompt": "A first-person view of a yellow sponge resting on a table with clear water being poured over it. The camera smoothly pans to the left, causing the sponge to gradually exit the field of view. The camera then pans back to the right, and the sponge re-enters the frame, revealing that the water has been fully absorbed by the sponge, spreading and darkening its surface.",
+  "image_content_sha256": "e83d597a9ea8167761f70dbd8782f644a11c5673d33131cbc51b1e89b8792ff9",
+  "prompt_sha256": "17ebe2bae9e6f6439084df09043133087412377a242e5810e42a3498364d9d2b",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

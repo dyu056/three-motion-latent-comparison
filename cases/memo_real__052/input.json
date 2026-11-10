@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__052",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__052",
+  "prompt": "A first-person view of a beaker of deep purple potassium permanganate solution with vitamin C solution being added. The camera smoothly tilts upward, causing the beaker to gradually exit the field of view. The camera then tilts back down, and the beaker re-enters the frame, revealing that the purple solution has been completely decolorized and turned into a clear, colorless liquid.",
+  "image_content_sha256": "543991325087c6b122afe97e3f9d594080fb104d4547695e14e0afa41b3a5088",
+  "prompt_sha256": "fa7617595985e830cc627fbfb330b5ca84157cd220fefe42f91b0fe64e4cef15",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

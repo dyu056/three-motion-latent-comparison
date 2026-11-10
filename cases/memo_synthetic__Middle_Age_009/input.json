@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__Middle_Age_009",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__Middle_Age_009",
+  "prompt": "First person view as a person running forward in a medieval village sees a person (subject) in the front-left walking forward. As the observer continues to run, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps runing in place and re-sees the subject in its FOV who keeps walking towards observer and having started walking with continuous motion.",
+  "image_content_sha256": "23ce43877dbb8a9651198d3e07b81186c21ca52c0b420e7aa894ed4638f56da8",
+  "prompt_sha256": "bbf90dd64504e7b160b1bf519633dd4dae2bfde0dab56d9e7b2ea34c5c7e5031",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

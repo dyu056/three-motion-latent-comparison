@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__214",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__214",
+  "prompt": "A first-person view of a facial tissue with paint dots on it, with water being dripped directly onto the paint. The camera smoothly pans to the right, causing the tissue to gradually exit the field of view. The camera then pans back to the left, and the tissue re-enters the frame, revealing that the paint has rapidly bled outward in the water, creating large, spreading blotches on the tissue.",
+  "image_content_sha256": "6caec0449539c8931fda633f07df9645af777ce29ec946bcaf56930ee125f448",
+  "prompt_sha256": "f1ee47369dded5ad72c5eac47b7724994bf1e2506134c481fd6b630b2fbf75af",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

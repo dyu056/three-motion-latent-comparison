@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__260",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__260",
+  "prompt": "A first-person view of a transparent cup with fruit punch powder inside, with water being poured in. The camera smoothly pans to the right, causing the cup to gradually exit the field of view. The camera then pans back to the left, and the cup re-enters the frame, revealing that the fruit punch powder has dissolved and the cup now contains a larger amount of colored liquid.",
+  "image_content_sha256": "ef89de1c5443efd193ac9c94f41d47622147506e6767bc5e4c0060f607cda6ca",
+  "prompt_sha256": "091e640b34a834d177b91b4cdd4dafb9a130194971b6a384f7f49755842d2f3e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

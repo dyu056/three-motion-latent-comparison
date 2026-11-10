@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_test_data-163",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-163",
+  "prompt": "An industrial factory floor, marked with yellow and black safety stripes and a prominent \"WARNING\" sign, features a male figure walking across its surface. To the right, a grey industrial cabinet displays \"DANGER HIGH VOLTAGE\" signage and a warning triangle. In the background, automated robotic arms operate near metal conveyor belts and partially assembled machinery, all illuminated by bright, artificial overhead lighting.",
+  "image_content_sha256": "2002d46c543f5339f3aff779f8e99b4d9d76971866280c148e463e72c11dd42a",
+  "prompt_sha256": "c632cc49b0dc5cfc1b3d4f66a14ec1c7983fe2ede2d8bbb40a40e1076d72f692",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

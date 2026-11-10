@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0058",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0058",
+  "prompt": "An abandoned high-tech expo hall, one giant android statue, flickering ad screens, moving walkway, broad open floor, moody sci-fi emptiness, easy revisit reference points",
+  "image_content_sha256": "da69123764c40590581e76a37ab0c260cec260c5a23d313ae704b1b50cdaa82d",
+  "prompt_sha256": "e42f6edf40628184330562c507c0d55a8691271a2500dc96f89ef1cdc5dac17a",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-35",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-35",
+  "prompt": "The scene presents a dark, futuristic metallic corridor, defined by sleek, angular architecture and industrial piping along the ceiling. Cool neon blue light strips illuminate the floor and ceiling, reflecting off polished surfaces, while a prominent, brightly lit door marks the corridor's distant end. Intermittent red accent lighting on wall panels and equipment adds a stark contrast, contributing to a high-tech and subtly ominous atmosphere.",
+  "image_content_sha256": "052e758c7a49cd617eaa45cdc256aa5c61ea246c3296946f018fa38759274368",
+  "prompt_sha256": "3023b9b7bebb11f828dc06fbce5b579abde1342089a3bd85a067f0f947031be9",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

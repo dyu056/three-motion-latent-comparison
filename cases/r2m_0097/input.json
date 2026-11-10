@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0097",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0097",
+  "prompt": "A colonial fort courtyard, one cannon, central flagpole, stone well, arched barracks, open hot sunlight, readable historical layout, easy revisit comparison",
+  "image_content_sha256": "b079f0ffc4a9b7ba8fbfb24cf02057a46f6d30d151b8512e2482c931c5077bdf",
+  "prompt_sha256": "64aa4f0765f8f9be701c15d34d25c4d98029566f70a262890b4a722a8a72d2ca",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

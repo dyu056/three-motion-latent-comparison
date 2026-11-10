@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-200",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-200",
+  "prompt": "An expansive industrial complex is illuminated by the warm, orange-red glow of a twilight sky, casting long shadows across the metallic structures. Towering cylindrical silos and intricate networks of elevated gantries and pipes define the factory environment. A solitary individual, clad in a dark jacket and backpack, is positioned on a grated metal walkway, surrounded by the reflective surfaces of the industrial architecture and distant shipping containers.",
+  "image_content_sha256": "00870cab29c20e2723516053d101d566928635c3234869b8af2119cacb4bc67c",
+  "prompt_sha256": "0f555252dace990c667efac34624f82b74fa4c156b3dfdf6ef1f650576fbb0cd",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

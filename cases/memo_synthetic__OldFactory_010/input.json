@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__OldFactory_010",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__OldFactory_010",
+  "prompt": "First person view as a person standing in an old factory sees a bird (subject) in the upper-front flying right, while a rhino in the front-left runs right. As the bird continues to fly and moves out of range, the subject exits the FOV. Observer turns the head to the right and then re-sees the subject in its FOV which keeps flying towards upper-right and having continued the flight with continuous motion.",
+  "image_content_sha256": "3d8ecd236d5191dd0a82863d983854dfcb33515265b7fb8f68951eaef62e9703",
+  "prompt_sha256": "8d4fefbd0816849dff8a9ec6b919b9d18589ca2a709306683b60088932de1da2",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

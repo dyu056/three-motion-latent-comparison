@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__044",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__044",
+  "prompt": "A first-person view of a test tube filled with yellow carbonated drink with baking soda being added. The camera smoothly tilts upward, causing the test tube to gradually exit the field of view. The camera then tilts back down, and the test tube re-enters the frame, revealing that the yellow drink is now overflowing with a large surge of dense foam.",
+  "image_content_sha256": "7011389d718068852481499d21eb3f84ca99a8d507392a9ea395351337c035ed",
+  "prompt_sha256": "7c8ae186a5728216adc514f2d500fe0d19ae82fafd50ffed421717cdf05abfe6",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

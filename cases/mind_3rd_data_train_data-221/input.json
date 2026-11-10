@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-221",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-221",
+  "prompt": "A cobblestone and dirt path, bordered by low wooden fences, extends into a stylized, medieval-fantasy village under a deep purple sky, with a figure in a dark jacket and camouflage pants centrally positioned on the path. Multi-storied buildings with prominent wooden beams feature numerous glowing rectangular windows and hanging lanterns that emit warm yellow light. This dramatic, low-key illumination creates a mysterious and inviting nocturnal atmosphere.",
+  "image_content_sha256": "7bd98e9107b56abe6d6cf29b025280c15bd5d17aedad7e4b050aa898d8276b08",
+  "prompt_sha256": "927f6d4e4b67713fcbebe384c81049afbb26f95f1dc3c9147bcb2168db75ca2d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

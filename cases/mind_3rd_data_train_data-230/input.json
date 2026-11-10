@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-230",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-230",
+  "prompt": "A vibrant, rustic village scene unfolds, featuring a winding stone path flanked by lush green grass and colorful wildflowers under a clear sky. A dark, metallic armored figure with yellow highlights stands centrally on the path, positioned between a quaint house with a red roof and a large earthenware jug on the right, and a wooden fence and obscured building on the left. Bright, natural sunlight illuminates the environment, casting sharp shadows and creating a warm, inviting atmosphere that accentuates the detailed textures of the foliage and structures.",
+  "image_content_sha256": "7973b99ba280eec3af21948ef19ead8951b3076238d766f08140a9fd1714ab10",
+  "prompt_sha256": "0aa6fc6b897df8cf06791de4203034e324a6869768e5fa6d3ab48cc6bf6de888",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

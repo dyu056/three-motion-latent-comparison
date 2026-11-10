@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0019",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0019",
+  "prompt": "An open hospital campus garden, circular driveway, one ambulance bay sign, a modern sculpture, trimmed hedges, broad paths, calm realistic lighting, distinct visual anchors",
+  "image_content_sha256": "94e1b91c539563433d0b8cdf429712be50b2f4c0f4f2a89ac8def720d10948ad",
+  "prompt_sha256": "b179f771206e674c9f144e77875534874e4a13e82debdb68b1cdbf25236f2c1e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

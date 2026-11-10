@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-236",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-236",
+  "prompt": "The nocturnal scene presents a stylized village street, bordered by multi-story, timber-framed buildings featuring warmly glowing windows under a deep purple sky. A lone figure stands centrally on the textured path, facing into the illuminated settlement, with dark wooden elements partially framing the immediate foreground. The pervasive dark atmosphere is punctuated by the soft, yellow-orange light emanating from the structures, creating a mysterious and inviting ambiance.",
+  "image_content_sha256": "54fe5716ec86cc3bb23043a84a0296fc87aca6e1afa56ca5cafea9950fd5c9cf",
+  "prompt_sha256": "daf877ee22aed745dc38c7741162b10568ee70219fe35058815a916ba8710582",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

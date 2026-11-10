@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-87",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-87",
+  "prompt": "A dimly lit stone dungeon chamber features robust arched ceilings and a meticulously paved floor of dark grey blocks. Towards the rear, a grated cell is elevated by stone steps, flanked by sturdy pillars, while a rustic wooden table and a stockade-like structure occupy the right side of the foreground. The pervasive cool blue ambient light is dramatically punctuated by the warm, flickering glow from a wall sconce near the cell and a hanging chandelier, casting an eerie, atmospheric illumination.",
+  "image_content_sha256": "8d8d9a551ff0d74e31aacb11e67b81f30a56490e1a76ec0e60d6cabbbce7ba5c",
+  "prompt_sha256": "566528cbe98a293ed0141195e93cd57e5072a8a63b3ce145009bd63ba927bb28",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

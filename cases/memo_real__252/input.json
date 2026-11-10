@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__252",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__252",
+  "prompt": "A first-person view of a piece of cardboard standing upright with yogurt applied to its surface, slowly dripping downward. The camera smoothly pans to the left, causing the cardboard to gradually exit the field of view. The camera then pans back to the right, and the cardboard re-enters the frame, revealing that the yogurt has dripped further down the cardboard, forming longer and more pronounced white streaks.",
+  "image_content_sha256": "7ed2114c4d32f737d3ec7d339ccb4d62d49a72961154c3fba942b3e5c2bb78e7",
+  "prompt_sha256": "adcd0758c17ffcaf2d89749ff43a537abd47e4081aa2cefe6c28cb8b4150d6ff",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

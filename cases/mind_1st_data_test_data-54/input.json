@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-54",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-54",
+  "prompt": "The scene presents a series of interconnected, futuristic interior corridors and chambers, characterized by sleek, metallic surfaces and modular paneling in cool grey, dark blue, and black tones. Architectural elements include circular airlock-style doors, ribbed wall sections, and long, narrow passageways with overhead conduits and illuminated floor markings. Stark white and amber accent lighting illuminates the dark floors, occasionally revealing views of a snow-covered, mountainous exterior through large windows.",
+  "image_content_sha256": "bb7855eefc085221d2652883e67a624528ee97a36c34cfdb15038a1d2c5ce60c",
+  "prompt_sha256": "4a45744f534db63ba7819ed54ee001519991741bc3307ac172f679c5ddecc92f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

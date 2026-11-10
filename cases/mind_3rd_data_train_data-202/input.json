@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_3rd_data_train_data-202",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-202",
+  "prompt": "The environment presents a construction site pathway, bordered by a light-colored corrugated metal fence on the right and a wooden plank walkway on the left. A male figure, viewed from the rear, traverses the uneven dirt ground, distinguished by a dark jacket and a grey backpack. The scene is bathed in bright daylight, producing sharp shadows and revealing a partially built brick structure with scaffolding in the distant background.",
+  "image_content_sha256": "3845839c026e743e5c5b6d95afc274f956878d64e67d6dc4e8439e45b12f406a",
+  "prompt_sha256": "9589eb6f1ef30aecc42b5c1b0bbbff77aa7059d727dfc54ecd1a3460e6afe459",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

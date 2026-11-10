@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-55",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-55",
+  "prompt": "The scene depicts a sun-drenched desert city characterized by sand-colored ancient architecture, golden domes, and distant striped mountains under a clear blue sky. Contrasting with this are dark, mysterious interiors featuring narrow corridors and cavernous chambers with large pillars, their walls adorned with hieroglyph-like carvings. These shadowy structures are illuminated by an eerie, faint green glow emanating from the tiled floors, creating a stark atmospheric difference from the brightly lit exterior.",
+  "image_content_sha256": "7f57fe2b258def0079dd8aefc20cd509bbf8cb1fd0818905b0be9fc5eee98ea4",
+  "prompt_sha256": "cf45b8f26d04ccfe4eb12aa1d00e4a5f8c43f32cc82025758c0f540b139cb86d",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

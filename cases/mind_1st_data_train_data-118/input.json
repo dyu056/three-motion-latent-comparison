@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-118",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-118",
+  "prompt": "The scene presents a dimly lit, futuristic interior corridor characterized by a metallic floor with glowing orange geometric patterns and a smooth, teal-green left wall. The dark, industrial right wall features segmented panels, a central vent with two red lights, and a textured, dark structure. Overhead, angular yellow light fixtures illuminate exposed ceiling elements, complemented by a thin, glowing blue line traversing the space.",
+  "image_content_sha256": "ec7d25e69bfc902ded6fdd978038fb0ebe7d1c5521663f7a067e7012a4d5f688",
+  "prompt_sha256": "49ddfea8789094ef8368fdfcb22bf06562d2556ff77dd0ff9579be911db4f1c8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

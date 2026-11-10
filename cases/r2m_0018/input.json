@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0018",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0018",
+  "prompt": "A sparse industrial park courtyard, one orange forklift parked beside a warehouse, painted bay numbers, metal staircase, broad empty pavement, realistic textures, clear spatial orientation",
+  "image_content_sha256": "ce60d7b1d2c4ef78ff157b4ce6f10a6f0749095e4c3e58ec2dfa92b6d843db5f",
+  "prompt_sha256": "5412b289f6b167aee8eadd939bdc80f7d9931433f67e9ab60f20d5bb09017f54",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

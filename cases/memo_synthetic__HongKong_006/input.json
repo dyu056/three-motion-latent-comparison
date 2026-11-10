@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__HongKong_006",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__HongKong_006",
+  "prompt": "First person view running forward on a Hong Kong street sees a person (subject) in the front-left walking forward. As the observer continues to run and passes the person, the subject exits the FOV. Observer turns around towards left to face the rear-left and keeps runing backwards and then re-sees the subject in its FOV who keeps walking towards the back-right and having continued walking, while another bicycle passes the subject and rides from the front toward the left with continuous motion.",
+  "image_content_sha256": "d5f7ed132b14dec103ee240725bf9bc0fa0d30c636726b52d394fdf2459a2517",
+  "prompt_sha256": "84e81a1955c9c420cdf2482d708206dc31d232424124a5d1eb1bcb5272899d9c",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

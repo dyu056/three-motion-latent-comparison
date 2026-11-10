@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_synthetic__NYstreet_002",
+  "benchmark": "MemoBench",
+  "split": "synthetic",
+  "source_id": "synthetic__NYstreet_002",
+  "prompt": "First person view in a sports car on a New York street is moving straight ahead and sees a person(subject) crossing the road from the left to right. Observer passes the subject (exits FOV) and follows a curved path to the right and performs a U-turn. Observer keeps driving forward and re-sees the subject in its FOV who keeps walking towards left with continuous motion.",
+  "image_content_sha256": "50466073c2fed6dd96a7f9442954cccb159f6759cb2ec2d2a65e144d75ef9d46",
+  "prompt_sha256": "cff4066c7e4980e885b985997bba1d8be1124782493e9686feb164ed1d4a5942",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

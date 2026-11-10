@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-58",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-58",
+  "prompt": "The scene presents a dimly lit, industrial-futuristic interior, featuring metallic corridors and junction areas with paneled walls and textured floor grates. Overhead, red and dark pipes crisscross, while various conduits and a coiled red cable lie on the floor. The atmosphere is defined by contrasting warm orange and red accent lighting from overhead fixtures and floor strips, juxtaposed with cool blue glows emanating from behind mesh panels.",
+  "image_content_sha256": "1f6d121b2420a3571f068d996e15454eca706e07f13a397ea3203a6684a3af21",
+  "prompt_sha256": "c368fdb43e11d922ee39dcda691df655fee29dbf4a42e7166c30add6ae5831ad",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

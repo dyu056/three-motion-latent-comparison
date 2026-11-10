@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__134",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__134",
+  "prompt": "A first-person view of a magnetic drawing board completely covered in black, with the erase slider being slowly moved. The camera smoothly tilts upward, causing the drawing board to gradually exit the field of view. The camera then tilts back down, and the drawing board re-enters the frame, revealing that a large portion of the black surface has been cleared by the eraser, revealing the white board beneath.",
+  "image_content_sha256": "e4c77ec2972b610b9febae5450199768af6ded17241d949c2fb98ed346cd0a89",
+  "prompt_sha256": "ba53d65872a84bf1d1651273448876ed90ef8574a83d79e8aff87479d51aff6f",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

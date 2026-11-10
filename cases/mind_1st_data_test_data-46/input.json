@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_test_data-46",
+  "benchmark": "MIND",
+  "split": "test",
+  "source_id": "data-46",
+  "prompt": "The scene presents a richly appointed study or library, characterized by dark wood paneling, a coffered ceiling, and built-in bookshelves. Tufted leather seating, an ornate patterned rug, and a central coffee table with a lamp and books furnish the space. Warm, localized light from wall sconces, a chandelier, and table lamps creates a dim, intimate, and atmospheric ambiance.",
+  "image_content_sha256": "cc42736675628aef2758481bc3618c9cbd21bc8d2150e36394b477f4e4d92abc",
+  "prompt_sha256": "10427cbeb11924f9365b7106eaf103c5130afc4c1eddb52c472acb9c81807c3e",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

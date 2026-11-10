@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0047",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0047",
+  "prompt": "An empty cyberpunk rooftop courtyard, neon vending machine, giant satellite dish, safety railings, distant megacity skyline, spacious and readable layout, stylized sci-fi atmosphere",
+  "image_content_sha256": "bcb2dcb197f23e843535b11376d2c774c1aa6d9b825dcfd146a40d83aaa14306",
+  "prompt_sha256": "bdc1148dc076955489f647254060afcadc7d7adba8b9a56e97f5185897f24c57",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

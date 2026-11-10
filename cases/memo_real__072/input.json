@@ -1,0 +1,13 @@
+{
+  "scene_id": "memo_real__072",
+  "benchmark": "MemoBench",
+  "split": "real",
+  "source_id": "real__072",
+  "prompt": "A first-person view of a lit candle standing on a table, its flame burning steadily with wax beginning to melt. The camera smoothly tilts upward, causing the candle to gradually exit the field of view. The camera then tilts back down, and the candle re-enters the frame, revealing that more wax has melted and dripped down the side of the candle, forming longer wax trails.",
+  "image_content_sha256": "660b8de41a977437cefc09a682bc1d8d3a683c4d1d71136dc986625cc8fc6c40",
+  "prompt_sha256": "f750c29ca6b1108ea0f01a090e10f4d361f2bf7e5a20b0ef1bd928e061975711",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}

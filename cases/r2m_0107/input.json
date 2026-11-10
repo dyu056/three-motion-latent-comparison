@@ -1,0 +1,13 @@
+{
+  "scene_id": "r2m_0107",
+  "benchmark": "R2M-Bench",
+  "split": "eval",
+  "source_id": "0107",
+  "prompt": "An abandoned industrial warehouse interior, gritty cinematic realism, large empty floor space, a yellow forklift near a rusted support column, a stack of blue metal barrels on one side, a hanging broken clock, sunlight beams entering through high cracked windows, a red rolling ladder by the back wall, dusty atmosphere, wide shot, sparse but memorable objects for spatial reference",
+  "image_content_sha256": "62f48e10a5bc110e9475935f972000296858f6fdb77b1dfe05270aed4cdff1ba",
+  "prompt_sha256": "53b516a9fc1d4963831039f7c7d42b58d01fa002b1d3e9e30e3fcd01ace3406e",
+  "source_image_size": [
+    1408,
+    768
+  ]
+}

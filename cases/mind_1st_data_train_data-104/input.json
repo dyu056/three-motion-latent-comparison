@@ -1,0 +1,13 @@
+{
+  "scene_id": "mind_1st_data_train_data-104",
+  "benchmark": "MIND",
+  "split": "train",
+  "source_id": "data-104",
+  "prompt": "The scene reveals a futuristic, high-tech interior space bathed in a dominant cool blue and cyan lighting scheme. Numerous large display screens line the walls, presenting intricate medical and scientific data visualizations such as human anatomy, graphs, and molecular structures. A sleek, dark blue counter with integrated monitors, a central abstract glowing sculpture, and minimalist white and blue seating areas furnish this advanced, digitally immersive environment.",
+  "image_content_sha256": "46c0cf306df19a63d8fc7d95f9223ff90f7f02eb04f96af50f67fba491829924",
+  "prompt_sha256": "f6f942e7fce73d70664affadfa7400b7bdf5fdfa5a766f415fac3b876485faf8",
+  "source_image_size": [
+    1920,
+    1080
+  ]
+}
